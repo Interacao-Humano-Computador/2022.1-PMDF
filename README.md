@@ -19,7 +19,7 @@ de tarefas a fazer (<i>to-do list</i>) bem como calendários e outras ferramenta
 de projetos utilizadas para organizar as tarefas diárias. Para isso, utiliza inteligência artificail para planejar o dia
 do usuário recebendo a lista de tarefas e a retornando encaixada nos horários do dia.
 
-Parte do princío de que organizar as tarefas do dia diminui
+Parte do princío de que organizar as tarefas diminui
 a procastinação e a baixa produtividada oriundas
 do sentimento de não se lembrar do que tinha que fazer.
 Seu slogan é:
