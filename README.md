@@ -8,6 +8,7 @@
 ## Sobre o projeto
 
 O objetivo deste projeto é utilizar o aplicativo <a href="https://www.usemotion.com/">Motion</a> para avaliar aspectos relacionados aos conceitos que foram aprendidos ao longo da disciplina Interação Humano Computador. Alguns desses aspectos são, por exemplo, o Design de Projeto proposto por Mayhem, usabilidade, acessibilidade, experiência do usuário, interface etc
+cuja identificação é apontada em Simone,18 como fundamental para identificar a qualidade dos sistemas interativos. 
 
 Há também a prentensão de, uma vez identificados eventuais pontos fracos nos quesitos avaliados, documentá-los, detalhá-los e propor alternativas melhores compiladas em um reprojeto.
 
