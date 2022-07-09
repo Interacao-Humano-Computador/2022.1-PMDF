@@ -74,4 +74,4 @@ Seu slogan é:
 ## Versionamento
 | Versão | Data  | Descrição            | Autor(es)       |
 | ------ | ----- | -------------------- | --------------- |
-| 1.0    | 09/07 | Criação do README, adição dos autores e escrita das seções "Sobre o Projeto" e "Sobre o Motion"| Nicolas Georgeos	  |
+| 1.0    | 09/07 | Criação do README, adição dos autores e escrita das seções "Sobre o Projeto" e "Sobre o Motion". | Nícolas Georgeos	  |
