@@ -13,7 +13,7 @@ O objetivo deste projeto é avaliar aspectos relacionados à Interação Humano 
 ## Equipe
 
 <table>
-    <tr>
+    <tr style="text-align: center">
         <td>
             <a href="https://github.com/Arthurlima544">
                 <img style="border-radius: 50%;" src="./docs/_media/arthur.jpg" width="100px;"/><br/>
@@ -47,7 +47,7 @@ O objetivo deste projeto é avaliar aspectos relacionados à Interação Humano 
         <td>
             <a href="https://github.com/ngm1450">
                 <img style="border-radius: 50%;" src="./docs/_media/nicolas.jpg" width="100px;"/><br />         
-                Nicolas Georgeos
+                Nícolas Georgeos
             </a>
         </td>
     </tr>
