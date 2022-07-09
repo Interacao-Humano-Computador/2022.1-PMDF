@@ -12,7 +12,7 @@ Lista de ferramentas que serão utilizadas pela equipe para a elaboração das a
     <tbody>
         <tr>
             <td>
-                <img src="../_media/discord_icon.jpg" style="width: 80px; height: 80px" " alt="Ícone Discord">
+                <img src="../_media/discord_icon.jpg" style="width: 80px; height: 80px" alt="Ícone Discord">
             </td>
             <td style="text-align:center"> Discord </td>
             <td>
@@ -21,7 +21,7 @@ Lista de ferramentas que serão utilizadas pela equipe para a elaboração das a
         </tr>
         <tr>
             <td>
-                <img src="../_media/figma_icon.png" alt="Ícone Figma">
+                <img src="../_media/figma_icon.png" style="width: 80px; height: 80px" alt="Ícone Figma">
             </td>
             <td style="text-align:center"> Figma </td>
             <td>
@@ -30,7 +30,7 @@ Lista de ferramentas que serão utilizadas pela equipe para a elaboração das a
         </tr>
         <tr>
             <td>
-                <img src="../_media/github_icon.png" alt="Ícone Github">
+                <img src="../_media/github_icon.png" style="width: 80px; height: 80px" alt="Ícone Github">
             </td>
             <td style="text-align:center"> Github </td>
             <td>
@@ -39,7 +39,7 @@ Lista de ferramentas que serão utilizadas pela equipe para a elaboração das a
         </tr>
         <tr>
             <td>
-                <img src="../_media/google_workspace_icon.png" alt="Ícone GoogleWorkspace">
+                <img src="../_media/google_workspace_icon.png" style="width: 80px; height: 80px" alt="Ícone GoogleWorkspace">
             </td>
             <td> Google Workspace </td>
             <td>
@@ -48,7 +48,7 @@ Lista de ferramentas que serão utilizadas pela equipe para a elaboração das a
         </tr>
         <tr>
             <td>
-                <img src="../_media/teams_icon.png" alt="Ícone Teams">
+                <img src="../_media/teams_icon.png" style="width: 80px; height: 80px" alt="Ícone Teams">
             </td>
             <td> Microsoft Teams </td>
             <td>
@@ -57,7 +57,7 @@ Lista de ferramentas que serão utilizadas pela equipe para a elaboração das a
         </tr>
         <tr>
             <td>
-                <img src="../_media/whatsapp_icon.png" alt="Ícone WhatsApp">
+                <img src="../_media/whatsapp_icon.png" style="width: 80px; height: 80px" alt="Ícone WhatsApp">
             </td>
             <td> WhatsApp </td>
             <td>
@@ -66,7 +66,7 @@ Lista de ferramentas que serão utilizadas pela equipe para a elaboração das a
         </tr>
         <tr>
             <td>
-                <img src="../_media/zenhub_icon.svg" alt="Ícone Zenhub">
+                <img src="../_media/zenhub_icon.svg" style="width: 80px; height: 80px" alt="Ícone Zenhub">
             </td>
             <td> Zenhub </td>
             <td>
