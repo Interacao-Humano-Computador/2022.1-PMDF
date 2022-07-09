@@ -10,55 +10,45 @@ O objetivo deste projeto é avaliar aspectos relacionados à Interação Humano 
 
 ## Sobre o Motion
 
+## Equipe
 
-<section>
-    <h1 style="text-align: center">Equipe</h1>
-    <div class="equipe">
-      <div class="foto_membro_3">
-        <div class="foto_texto">
-          <div style="display:flex;justify-content: center">
-            <img class="foto_membro" src="/docs/_media/arthur.jpg">
-          </div>
-          <p style="text-align:center; margin:0">Arthur Lima</p>
-          <p style="text-align:center">Github: Arthurlima544</p>
-        </div>
-        <div class="foto_texto">
-          <div style="display:flex;justify-content: center">
-            <img class="foto_membro" src="/docs/_media/bernardo.jpg">
-          </div>
-          <p style="text-align:center;margin:0">Bernardo Pissutti</p>
-          <p style="text-align:center">Github: berssutti</p>
-        </div>
-    <div class="foto_texto">
-          <div style="display:flex;justify-content: center">
-            <img class="foto_membro" src="/docs/_media/cicero.jpg">
-          </div>
-          <p style="text-align:center;margin:0">Cícero Fernandes</p>
-          <p style="text-align:center">Github: ciceroff</p>
-        </div>
-      </div>
-      <div class="foto_membro_3">
-        <div class="foto_texto">
-          <div style="display:flex;justify-content: center">
-            <img class="foto_membro" src="/docs/_media/guilherme.jpg">
-          </div>
-          <p style="text-align:center;margin:0">Guilherme Brito</p>
-          <p style="text-align:center">Github: dev-brito</p>
-        </div>
-    <div class="foto_texto">
-          <div style="display:flex;justify-content: center">
-            <img class="foto_membro" src="/docs/_media/leonardo.jpg">
-          </div>
-          <p style="text-align:center;margin:0">Leonardo Vitoriano</p>
-        <p style="text-align:center">Github: leonardomilv3</p>
-        </div>
-        <div class="foto_texto">
-          <div style="display:flex;justify-content: center">
-            <img class="foto_membro" src="/docs/_media/nicolas.jpg">
-          </div>
-          <p style="text-align:center;margin:0">Nicolas Georgeos</p>
-          <p style="text-align:center">Github: ngm1450</p>
-        </div>
-      </div>
-    </div>
-</section>
+<table>
+    <tr>
+        <td>
+            <a href="https://github.com/Arthurlima544">
+                <img style="border-radius: 50%;" src="./docs/_media/arthur.jpg" width="100px;"/><br/>
+                Arthur Lima
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/berssutti">
+                <img style="border-radius: 50%;" src="./docs/_media/bernardo.jpg" width="100px;"/><br />         
+                Bernardo Pissutti
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/ciceroff">
+                <img style="border-radius: 50%;" src="./docs/_media/cicero.jpg" width="100px;"/><br />
+                Cícero Fernandes
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/dev-brito">
+                <img style="border-radius: 50%;" src="./docs/_media/guilherme.jpg" width="100px;"/><br />                 
+                Guilherme Brito
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/leonardomilv3">
+                <img style="border-radius: 50%;" src="./docs/_media/leonardo.jpg" width="100px;"/><br />         
+                Leonardo Vitoriano
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/ngm1450">
+                <img style="border-radius: 50%;" src="./docs/_media/nicolas.jpg" width="100px;"/><br />         
+                Nicolas Georgeos
+            </a>
+        </td>
+    </tr>
+</table>
