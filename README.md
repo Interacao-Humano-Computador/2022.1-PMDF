@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://www.usemotion.com/" target="_blank" >
+    <a href="https://www.usemotion.com/" target="_blank">
         <img src="./docs/_media/notion_logo2.png" height="170px" alt="Logo da aplicação Motion"/>
     </a>
 </p>
@@ -7,13 +7,14 @@
 
 ## Sobre o projeto
 
-O objetivo deste projeto é avaliar aspectos relacionados à Interação Humano Computador no aplicatiovo <a href="https://www.usemotion.com/">Motion</a>. Objetivando com ela a identificação de erros d 
+O objetivo deste projeto é utilizar o aplicativo <a href="https://www.usemotion.com/">Motion</a> para avaliar aspectos relacionados aos conceitos que foram aprendidos ao longo da disciplina Interação Humano Computador. Alguns desses aspectos são, por exemplo, o Design de Projeto proposto por Mayhem, usabilidade, acessibilidade, experiência do usuário, interface etc
+
+Há, também, a prentensão de, uma vez identificados eventuais pontos fracos nos quesitos avaliados, documentá-los, detalhá-los e propor alternativas melhores.
 
 ## Sobre o Motion
 
 ## Equipe
 
-<p align="center">
 <table>
     <tr style="text-align: center">
         <td>
@@ -54,5 +55,3 @@ O objetivo deste projeto é avaliar aspectos relacionados à Interação Humano 
         </td>
     </tr>
 </table>
-
-</p>
