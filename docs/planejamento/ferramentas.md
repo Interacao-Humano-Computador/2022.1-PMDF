@@ -12,7 +12,7 @@ Lista de ferramentas que serão utilizadas pela equipe para a elaboração das a
     <tbody>
         <tr>
             <td>
-                <img src="../_media/discord_icon.jpg" style="width: 50px; height: 50px" " alt="Ícone Discord">
+                <img src="../_media/discord_icon.jpg" style="width: 80px; height: 80px" " alt="Ícone Discord">
             </td>
             <td style="text-align:center"> Discord </td>
             <td>
