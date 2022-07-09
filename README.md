@@ -1,6 +1,6 @@
 <center>
     <a href="https://www.usemotion.com/" target="_blank" >
-        <img src="./docs/_media/notion_logo2.png" height="200px" alt="Logo da aplicação Motion"/>
+        <img src="./docs/_media/notion_logo2.png" height="170px" alt="Logo da aplicação Motion"/>
     </a>
 </center>
 
