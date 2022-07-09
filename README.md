@@ -14,6 +14,20 @@ Há também a prentensão de, uma vez identificados eventuais pontos fracos em t
 
 ## Sobre o Motion
 
+Trata-se de uma aplicação que se propõe a substituir as famigeradas listas
+de tarefas a fazer (<i>to-do list</i>) bem como calendários e outras ferramentas de gerenciamento
+de projetos utilizadas para organizar as tarefas diárias. Para isso, utiliza inteligência artificail para planejar o dia
+do usuário recebendo a lista de tarefas e a retornando encaixada nos horários do dia.
+
+Parte do princío de que organizar as tarefas do dia diminui
+a procastinação e, consequentemente, a baixa produtividada, oriundas
+do sentimento de não se lembrar do que tinha que fazer.
+Seu slogan é:
+
+<p align="center">
+    <i>Há agora 13 meses em um ano.</i>
+</p>
+
 ## Equipe
 
 <table>
