@@ -1,5 +1,6 @@
-![logo_cover](/docs/_media/notion_logo2.png)
-
+<a href="https://www.usemotion.com/" target="_blank" >
+    <img src="./docs/_media/notion_logo2.png" height="150px" alt=""/>
+</a>
 ## Sobre o projeto
 
 O objetivo deste projeto é avaliar aspectos relacionados à Interação Humano Computador no aplicatiovo <a href="https://www.usemotion.com/">Motion</a>. Objetivando com ela a identificação de erros d 
