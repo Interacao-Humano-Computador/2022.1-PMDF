@@ -1,7 +1,7 @@
 <p align="center">
-<a href="https://www.usemotion.com/" target="_blank" >
+    <a href="https://www.usemotion.com/" target="_blank" >
         <img src="./docs/_media/notion_logo2.png" height="170px" alt="Logo da aplicação Motion"/>
-</a>
+    </a>
 </p>
 
 
@@ -13,6 +13,7 @@ O objetivo deste projeto é avaliar aspectos relacionados à Interação Humano 
 
 ## Equipe
 
+<p align="center">
 <table>
     <tr style="text-align: center">
         <td>
@@ -53,3 +54,5 @@ O objetivo deste projeto é avaliar aspectos relacionados à Interação Humano 
         </td>
     </tr>
 </table>
+
+</p>
