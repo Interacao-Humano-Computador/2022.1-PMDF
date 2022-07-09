@@ -39,7 +39,7 @@ Lista de ferramentas que serão utilizadas pela equipe para a elaboração das a
         </tr>
         <tr>
             <td>
-                <img src="../_media/google_workspace_icon.png" style="width: 80px; height: 80px" alt="Ícone GoogleWorkspace">
+                <img src="../_media/google_workspace_icon.png" style="width: 120px; height: 80px" alt="Ícone GoogleWorkspace">
             </td>
             <td> Google Workspace </td>
             <td>
