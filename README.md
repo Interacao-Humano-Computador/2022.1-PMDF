@@ -67,4 +67,4 @@ Com o Notion, ele pode definir quais características o interessam e agregar tod
 ## Versionamento
 | Versão | Data  | Descrição            | Autor(es)       |
 | ------ | ----- | -------------------- | --------------- |
-| 1.0    | 09/07 | Criação do README, adição dos autores e escrita das seções "Sobre o Projeto" e "Sobre o Notion". | Nícolas Georgeos	  |
+| 1.0    | 09/07/2022 | Criação do README, adição dos autores e escrita das seções "Sobre o Projeto" e "Sobre o Notion". | Nícolas Georgeos	  |
