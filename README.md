@@ -20,7 +20,7 @@ de projetos utilizadas para organizar as tarefas diárias. Para isso, utiliza in
 do usuário recebendo a lista de tarefas e a retornando encaixada nos horários do dia.
 
 Parte do princío de que organizar as tarefas do dia diminui
-a procastinação e, consequentemente, a baixa produtividada, oriundas
+a procastinação e a baixa produtividada oriundas
 do sentimento de não se lembrar do que tinha que fazer.
 Seu slogan é:
 
