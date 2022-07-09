@@ -25,7 +25,7 @@ do sentimento de não se lembrar do que tinha que fazer.
 Seu slogan é:
 
 <p align="center">
-    <i>Há agora 13 meses em um ano.</i>
+    <i>Há agora 13 meses em um ano</i>
 </p>
 
 ## Equipe
