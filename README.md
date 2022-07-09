@@ -1,8 +1,4 @@
-<center>
-
 ![logo_cover](/docs/_media/notion_logo2.png)
-
-</center>
 
 ## Sobre o projeto
 
