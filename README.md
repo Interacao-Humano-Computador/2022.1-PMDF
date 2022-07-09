@@ -14,19 +14,12 @@ Há também a prentensão de, uma vez identificados eventuais pontos fracos em t
 
 ## Sobre o Notion
 
-Trata-se de uma aplicação que se propõe a substituir as famigeradas listas
-de tarefas a fazer (<i>to-do list</i>) bem como calendários e outras ferramentas de gerenciamento
-de projetos utilizadas para organizar as tarefas diárias. Para isso, utiliza inteligência artificail para planejar o dia
-do usuário recebendo a lista de tarefas e a retornando encaixada nos horários do dia.
+Trata-se de uma ferramenta no-code para gerenciamento de projetos, tomada de notas e acompanhamento de atividades lançada em 2016, que unifica as informações relacionadas a cada uma dessas tarefas em um só local, facilitando assim a visualização de seu andamento, bem como sua edição e eventual realocação, seja de forma individual ou colaborativa.
 
-Parte do princío de que organizar as tarefas diminui
-a procastinação e a baixa produtividada oriundas
-do sentimento de não se lembrar do que tinha que fazer.
-Seu slogan é:
+Pense, por exemplo, no caso de um usuário que esteja agregando informações sobre as vagas de emprego para as quais aplica em uma pasta. Recorrentemente, ele deseja saber para quantas e para quais vagas aplicou, seu status (respondido, vídeo-apresentação pendente etc) e quando mandou o currículo. É evidente que se ele mantiver as informações armazenadas da forma como estão, terá dificuldades para consultar o que deseja.
 
-<p align="center">
-    <i>Há agora 13 meses em um ano</i>
-</p>
+Com o Notion, ele pode definir quais características o interessam e agregar todas as informações sobre as vagas e aplicações em um só lugar, podendo filtrá-las por quaisquer critérios que desejar.
+
 
 ## Equipe
 
