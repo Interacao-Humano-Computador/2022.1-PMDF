@@ -5,7 +5,7 @@
 </p>
 
 
-## Sobre o projeto
+## Sobre o Projeto
 
 O objetivo deste projeto é utilizar o aplicativo <a href="https://www.usemotion.com/">Motion</a> para avaliar aspectos relacionados a usabilidade, acessibilidade, experiência do usuário, interface etc que foram aprendidos ao longo da disciplina Interação Humano Computador. Para isso, serão utilizadas ferramentas como o Processo de Design de Mayer...
 
@@ -74,4 +74,4 @@ Seu slogan é:
 ## Versionamento
 | Versão | Data  | Descrição            | Autor(es)       |
 | ------ | ----- | -------------------- | --------------- |
-| 1.0    | 09/07 | Criação do README, adição dos autores e das seções "Sobre o Projeto" e "Sobre o Motion"| Nicolas Georgeos	  |
+| 1.0    | 09/07 | Criação do README, adição dos autores e escrita das seções "Sobre o Projeto" e "Sobre o Motion"| Nicolas Georgeos	  |
