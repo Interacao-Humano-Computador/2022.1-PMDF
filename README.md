@@ -1,8 +1,9 @@
-<center>
-    <a href="https://www.usemotion.com/" target="_blank" >
+<p align="center">
+<a href="https://www.usemotion.com/" target="_blank" >
         <img src="./docs/_media/notion_logo2.png" height="170px" alt="Logo da aplicação Motion"/>
-    </a>
-</center>
+</a>
+</p>
+
 
 ## Sobre o projeto
 
