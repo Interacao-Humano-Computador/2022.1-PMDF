@@ -1,6 +1,6 @@
 <p align="center">
-    <a href="https://www.notion.so/product" target="_blank">
-        <img src="./docs/_media/notion_logo2.png" height="170px" alt="Logo da aplicação Notion"/>
+    <a href="http://www.pmdf.df.gov.br/" target="_blank">
+        <img src="./docs/_media/pmdf.png" height="170px" alt="Logo da PMDF"/>
     </a>
 </p>
 
