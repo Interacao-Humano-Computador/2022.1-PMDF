@@ -13,7 +13,9 @@ Lista de ferramentas que serão utilizadas pela equipe para a elaboração das a
         <tr>
             <td style="text-align:center"> Discord </td>
             <td>
-                <img src="../_media/discord_icon.jpg" style="width: 80px; height: 80px" alt="Ícone Discord">
+                <a href="https://discord.com" target="_blank">
+                    <img src="../_media/discord_icon.jpg" style="width: 80px; height: 80px" alt="Ícone Discord">
+                </a>
             </td>
             <td>
                 Reunião das Sprints e compartilhamento de documentos
