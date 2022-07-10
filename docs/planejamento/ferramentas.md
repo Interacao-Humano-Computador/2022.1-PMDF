@@ -11,88 +11,72 @@ Lista de ferramentas que serão utilizadas pela equipe para a elaboração das a
     </thead>
     <tbody>
         <tr>
-            <td style="text-align:center"> Discord </td>
+            <td> <a href="https://discord.com" target="_blank"> Discord </a> </td>
             <td>
-                <a href="https://discord.com" target="_blank">
-                    <img src="../_media/discord_icon.jpg" style="width: 80px; height: 80px" alt="Ícone Discord">
-                </a>
+                <img src="../_media/discord_icon.jpg" style="width: 80px; height: 80px" alt="Ícone Discord">
             </td>
             <td>
                 Reunião das Sprints e compartilhamento de documentos
             </td>
         </tr>
         <tr>
-            <td style="text-align:center"> Figma </td>
+            <td> <a href="https://figma.com" target="_blank"> Figma </a> </td>
             <td>
-                <a href="https://figma.com" target="_blank">
-                    <img src="../_media/figma_icon.png" style="width: 80px; height: 80px" alt="Ícone Figma">
-                </a>
+                <img src="../_media/figma_icon.png" style="width: 80px; height: 80px" alt="Ícone Figma">
             </td>
             <td>
                 Elaboração das Rich Pictures e dos Diagramas Entidade-Relacionamento
             </td>
         </tr>
         <tr>
-            <td style="text-align:center"> Github </td>
+            <td> <a href="https://github.com" target="_blank"> Github </a> </td>
             <td>
-                <a href="https://github.com" target="_blank">
-                    <img src="../_media/github_icon.png" style="width: 80px; height: 80px" alt="Ícone Github">
-                </a>
+                <img src="../_media/github_icon.png" style="width: 80px; height: 80px" alt="Ícone Github">
             </td>
             <td>
                 Hospedagem e versionamento do projeto
             </td>
         </tr>
         <tr>
-            <td> Google Workspace </td>
+            <td> <a href="https://workspace.google.com/" target="_blank"> Google Workspace </a> </td>
             <td>
-                <a href="https://workspace.google.com/" target="_blank">
-                    <img src="../_media/google_workspace_icon.png" style="width: 300px; height: 60px" alt="Ícone GoogleWorkspace">
-                </a>
+                <img src="../_media/google_workspace_icon.png" style="width: 300px; height: 60px" alt="Ícone GoogleWorkspace">
             </td>
             <td>
                 Criação de questionários e planilhas
             </td>
         </tr>
         <tr>
-            <td> Microsoft Teams </td>
+            <td> <a href="https://www.microsoft.com/pt-br/microsoft-teams" target="_blank"> Microsoft Teams </a> </td>
             <td>
-                <a href="https://www.microsoft.com/pt-br/microsoft-teams" target="_blank">
-                    <img src="../_media/teams_icon.png" style="width: 80px; height: 80px" alt="Ícone Teams">
-                </a>
+                <img src="../_media/teams_icon.png" style="width: 80px; height: 80px" alt="Ícone Teams">
             </td>
             <td>
                 Gravação das apresentações
             </td>
         </tr>
         <tr>
-            <td> Notion </td>
+            <td> <a href="https://www.notion.so/product" target="_blank"> Notion </a> </td>
             <td>
-                <a href="https://www.notion.so/product" target="_blank">
-                    <img src="../_media/notion_icon.png" style="width: 80px; height: 80px" alt="Ícone Notion">
-                </a>
+                <img src="../_media/notion_icon.png" style="width: 80px; height: 80px" alt="Ícone Notion">
             </td>
             <td>
                 Aplicativo que será avaliado
             </td>
         </tr>
         <tr>
-            <td> WhatsApp </td>
+            <td> <a href="https://www.whatsapp.com" target="_blank"> WhatsApp </a> </td>
             <td>
-                <a href="https://www.whatsapp.com" target="_blank">
-                    <img src="../_media/whatsapp_icon.png" style="width: 80px; height: 80px" alt="Ícone WhatsApp">
-                </a>
+                <img src="../_media/whatsapp_icon.png" style="width: 80px; height: 80px" alt="Ícone WhatsApp">
             </td>
             <td>
                 Comunicação diária entre os integrantes da equipe
             </td>
         </tr>
         <tr>
-            <td> Zenhub </td>
+            <td> <a href="https://www.zenhub.com" target="_blank"> Zenhub </a> </td>
             <td>
-                <a href="https://www.zenhub.com" target="_blank">
-                    <img src="../_media/zenhub_icon.svg" style="width: 80px; height: 80px" alt="Ícone Zenhub">
-                </a>
+                <img src="../_media/zenhub_icon.svg" style="width: 80px; height: 80px" alt="Ícone Zenhub">
             </td>
             <td>
                 Gerenciamento de atividades (to do, doing, done...)
