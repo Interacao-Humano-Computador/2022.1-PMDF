@@ -40,7 +40,7 @@ Lista de ferramentas que serão utilizadas pela equipe para a elaboração das a
         <tr>
             <td> Google Workspace </td>
             <td>
-                <img src="../_media/google_workspace_icon.png" style="width: 300px; height: 80px" alt="Ícone GoogleWorkspace">
+                <img src="../_media/google_workspace_icon.png" style="width: 300px; height: 60px" alt="Ícone GoogleWorkspace">
             </td>
             <td>
                 Criação de questionários e planilhas
