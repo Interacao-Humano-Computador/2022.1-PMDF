@@ -7,10 +7,9 @@
 
 ## Sobre o Projeto
 
-O objetivo deste projeto é utilizar o aplicativo <a href="https://www.notion.so/product" target="_blank">Notion</a> para avaliar aspectos relacionados a usabilidade, acessibilidade, experiência do usuário, interface etc que foram aprendidos ao longo da disciplina Interação Humano Computador. Para isso, serão utilizadas ferramentas como o Processo de Design de Mayer...
+O objetivo deste projeto é utilizar o aplicativo <a href="https://www.notion.so/product" target="_blank">Notion</a> para avaliar aspectos relacionados a usabilidade, acessibilidade, experiência do usuário, interface etc que foram aprendidos ao longo da disciplina Interação Humano Computador. Para isso, serão utilizadas ferramentas como o Processo de Design de Mayer.
 
-
-Há também a prentensão de, uma vez identificados eventuais pontos fracos em tais aspectos, documentá-los, detalhá-los, avaliá-los e propor alternativas melhores compiladas em um reprojeto.
+Uma vez identificados eventuais pontos fracos em tais aspectos, eles serão documentados, detalhados, avaliados e um reprojeto compilando alternativas melhores será criado.
 
 ## Sobre o Notion
 
