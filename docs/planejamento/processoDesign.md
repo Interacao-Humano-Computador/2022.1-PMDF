@@ -44,12 +44,16 @@ Neste trabalho, será empregado a proposta de processo de design de IHC denomina
 3.  Instalação: Nesta fase, o designer deve coletar opiniões dos usuários depois de algum tempo de uso. Essas opiniões serão úteis para melhorar o sistema em versões futuras ou até mesmo para apontar a necessidade de desenvolver novos sistemas interativos ainda não previstos.
    
 <div style="display:flex; justify-content:center;">
-<img src="../_media/figura2.png"></img>
+<img src="../../_media/figura2.png"></img>
 </div>
 
 <div style="display: flex; justify-content: center">
 <p style="text-align: center; width: 50%">Figura 2: Ciclo de vida para a engenharia de usabilidade de Mayhew</p>
 </div>
+
+## Referências Biblioǵraficas
+Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)
+Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.R
 
 ## Versionamento
 | Versão | Data  | Descrição            | Autor(es)       |
