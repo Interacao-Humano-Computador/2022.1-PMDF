@@ -90,7 +90,9 @@ Lista de ferramentas que serão utilizadas pela equipe para a elaboração das a
         <tr>
             <td> Zenhub </td>
             <td>
-                <img src="../_media/zenhub_icon.svg" style="width: 80px; height: 80px" alt="Ícone Zenhub">
+                <a href="https://www.zenhub.com" target="_blank">
+                    <img src="../_media/zenhub_icon.svg" style="width: 80px; height: 80px" alt="Ícone Zenhub">
+                </a>
             </td>
             <td>
                 Gerenciamento de atividades (to do, doing, done...)
