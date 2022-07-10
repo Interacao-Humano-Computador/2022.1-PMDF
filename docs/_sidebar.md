@@ -1,4 +1,6 @@
 - [Home](/README)
 - [Apresentações](apresentacoes.md)
-- [Ferramentas](planejamento/ferramentas.md)
-- [Processo de Design](planejamento/processoDesign.md)
+- Planejamento
+  - [Cronograma das Atividades](planejamento/cronograma.md)
+  - [Ferramentas](planejamento/ferramentas.md)
+  - [Processo de Design](planejamento/processoDesign.md)
