@@ -16,14 +16,10 @@ Para resolver esses problemas, diminuir as características desagradáveis e mel
 2. a **síntese** de uma intervenção: planejar e executar uma intervenção da situação atual.
 3. A **avaliação** da nova situação: verificar o efeito da intervenção, comparando a situação analisada anteriormente com a nova situação, atingida após a intervenção.
 
-<div style="display:flex; justify-content:center;">
-<img src="../_media/figura1.png"></img>
-</div>
+|![Figura 1](../_media/figura1.png)|
+|:----:|
+|Figura 1: Atividades de design envolvidas na intervenção para transformar a situação atual (situação 1) em uma situação desejada (situação 2)|
 
-<div style="display: flex; justify-content: center">
-<p style="text-align: center; width: 50%">Figura 1: Atividades de design envolvidas na intervenção para transformar a situação atual (situação 1) em uma
-situação desejada (situação 2)</p>
-</div>
 
 Quando se trata de sistemas computacionais, é comum investigarmos todos os elementos envolvidos durante o uso: os usuários com suas características, necessidades e preferências; as atividades e os objetivos em questão, considerando os artefatos e sistemas computacionais utilizados; e o contexto físico, social e cultural de uso ao longo do tempo (Hackos e Redish, 1998; Sharp et al., 2019). Além desses elementos diretamente envolvidos no uso atual desses artefatos, também é preciso conhecer e articular os interesses das pessoas indiretamente envolvidas, como aquela que paga pelo sistema, geralmente conhecida como cliente, e aquela que constrói o sistema, normalmente chamada de desenvolvedor.
 
@@ -41,15 +37,13 @@ Neste trabalho, será empregado a proposta de processo de design de IHC denomina
     1.  No nível 1, o designer precisa realizar a reengenharia do trabalho, repensando a execução das tarefas para alcançar os objetivos dos usuários, elaborar alternativas de solução do modelo conceitual, elaborar protótipos de baixa fidelidade e avaliar tais protótipos.
     2.  No segundo nível o designer deve estabelecer padrões de design de IHC para a solução sendo concebida, construir protótipos de média fidelidade de acordo com esses padrões e avaliá-los.
     3.  No último nível, o designer realiza o projeto detalhado da interface, com alta fidelidade, para ser implementado.
-3.  Instalação: Nesta fase, o designer deve coletar opiniões dos usuários depois de algum tempo de uso. Essas opiniões serão úteis para melhorar o sistema em versões futuras ou até mesmo para apontar a necessidade de desenvolver novos sistemas interativos ainda não previstos.
-   
-<div style="display:flex; justify-content:center;">
-<img src="../../_media/figura2.png"></img>
-</div>
+3.  Instalação: Nesta fase, o designer deve coletar opiniões dos usuários depois de algum tempo de uso. Essas opiniões serão úteis para melhorar o sistema em versões futuras ou até mesmo para apontar a necessidade de desenvolver novos sistemas interativos ainda não previstos. Cor
 
-<div style="display: flex; justify-content: center">
-<p style="text-align: center; width: 50%">Figura 2: Ciclo de vida para a engenharia de usabilidade de Mayhew</p>
-</div>
+
+|![Figura 2](../_media/figura2.png)|
+|:----:|
+|Figura 2: Ciclo de vida para a engenharia de usabilidade de Mayhew|
+
 
 ## Referências Biblioǵraficas
 Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)
