@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://www.pmdf.df.gov.br/" target="_blank">
+    <a href="http://www.pmdf.df.gov.br/" target="_blank">
         <img src="./docs/_media/pmdf_logo.png" height="170px" alt="Logo da PMDF"/>
     </a>
 </p>
