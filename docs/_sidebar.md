@@ -1,4 +1,5 @@
-- [Home](/README)
+- [Sobre](/README)
 - [Apresentações](apresentacoes.md)
-- [Ferramentas](planejamento/ferramentas.md)
-- [Processo de Design](planejamento/processoDesign.md)
+- Planejamento
+  - [Ferramentas](planejamento/ferramentas.md)
+  - [Processo de Design](planejamento/processoDesign.md)
