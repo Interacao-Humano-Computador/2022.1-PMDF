@@ -1,7 +1,7 @@
 # Ferramentas
 Lista de ferramentas que serão utilizadas pela equipe para a elaboração das atividades do projeto.
 
-<table style="text-align:center">
+<table>
     <thead>
         <tr>
             <th>Ferramenta</th>
