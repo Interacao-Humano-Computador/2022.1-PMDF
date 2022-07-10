@@ -9,7 +9,7 @@ Lista de ferramentas que serão utilizadas pela equipe para a elaboração das a
             <th>Finalidade</th>
         </tr>
     </thead>
-    <tbody>
+    <tbody style="text-align: center">
         <tr>
             <td> <a href="https://discord.com" target="_blank"> Discord </a> </td>
             <td>
