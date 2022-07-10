@@ -37,7 +37,7 @@ Neste trabalho, será empregado a proposta de processo de design de IHC denomina
     1.  No nível 1, o designer precisa realizar a reengenharia do trabalho, repensando a execução das tarefas para alcançar os objetivos dos usuários, elaborar alternativas de solução do modelo conceitual, elaborar protótipos de baixa fidelidade e avaliar tais protótipos.
     2.  No segundo nível o designer deve estabelecer padrões de design de IHC para a solução sendo concebida, construir protótipos de média fidelidade de acordo com esses padrões e avaliá-los.
     3.  No último nível, o designer realiza o projeto detalhado da interface, com alta fidelidade, para ser implementado.
-3.  Instalação: Nesta fase, o designer deve coletar opiniões dos usuários depois de algum tempo de uso. Essas opiniões serão úteis para melhorar o sistema em versões futuras ou até mesmo para apontar a necessidade de desenvolver novos sistemas interativos ainda não previstos. Cor
+3.  Instalação: Nesta fase, o designer deve coletar opiniões dos usuários depois de algum tempo de uso. Essas opiniões serão úteis para melhorar o sistema em versões futuras ou até mesmo para apontar a necessidade de desenvolver novos sistemas interativos ainda não previstos.
 
 
 |![Figura 2](../_media/figura2.png)|
