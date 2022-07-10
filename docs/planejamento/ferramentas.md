@@ -25,7 +25,7 @@ Lista de ferramentas que serão utilizadas pela equipe para a elaboração das a
                 <img src="./_media/figma_icon.png" style="width: 80px; height: 80px" alt="Ícone Figma">
             </td>
             <td>
-                
+                Modelagem de diagramas
             </td>
         </tr>
         <tr>
