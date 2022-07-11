@@ -1,6 +1,6 @@
-## Sites Avaliados
+# Sites Avaliados
 
-Nessa seção iremos apresentar os sites avaliados durante a seleção do sistema, visualizados na tabela a seguir:
+Nessa seção iremos apresentar os sites avaliados durante a seleção do sistema, visualizados na tabela 1 a seguir:
 
 | Site                                                                | Sugestão de      |
 | ------------------------------------------------------------------- | ---------------- |
@@ -11,6 +11,9 @@ Nessa seção iremos apresentar os sites avaliados durante a seleção do sistem
 | [Ministério Público da União](http://www.mpu.mp.br/)                | Arthur Lima      |
 
 Tabela 1: Lista de sites avaliados
+
+## Site escolhido
+O site escolhido foi o da [PMDF](http://www.pmdf.df.gov.br/).
 
 ## Versionamento
 
