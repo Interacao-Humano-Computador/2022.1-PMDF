@@ -54,7 +54,7 @@ Uma vez identificados eventuais pontos fracos em tais aspectos, eles serão docu
     </tr>
 </table>
 
-## Versionamento
+## Histórico de Versões
 | Versão | Data  | Descrição            | Autor(es)       |
 | ------ | ----- | -------------------- | --------------- |
 | 1.0    | 09/07/2022 | Criação do README, adição dos autores e escrita das seções "Sobre o Projeto" e "Sobre o Notion". | Nícolas Georgeos	  |
