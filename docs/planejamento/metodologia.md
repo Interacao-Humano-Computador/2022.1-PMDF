@@ -20,7 +20,7 @@ objetivo de organizar as tarefas da sprint e a segunda com o objetivo de revisar
 a sprint e gravar a apresentação da entrega do ponto de controle.
 
 ## Revisão por Pares
-Para evitar erros na entrega e para que toda a equipe esteja ciente e em concordancia com
+Para evitar erros na entrega e para que toda a equipe esteja ciente e em concordância com
 as alterações feitas no trabalho.
 
 ## Quadro Kanban
