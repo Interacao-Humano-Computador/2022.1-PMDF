@@ -9,7 +9,7 @@ Nessa seção iremos apresentar os sites avaliados durante a seleção do sistem
 | [Detran MG ](https://www.detran.mg.gov.br/)                         | Nícolas Georgeos |
 | [Prefeitura de Araranguá](https://www.detran.mg.gov.br/)            | Cícero Fernandes |
 
-Tabela 1: Lista de sites selecionados
+Tabela 1: Lista de sites avaliados
 
 ## Versionamento
 
