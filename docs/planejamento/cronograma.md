@@ -1,6 +1,6 @@
 # Cronogramas
 
-Panejamento das atividades para a diciplina de Interação Humano Computador, Semestre 2022.1.
+Planejamento das atividades para a diciplina de Interação Humano Computador, Semestre 2022.1.
 
 ## Cronograma Específico das Atividades
 
@@ -58,6 +58,6 @@ _Tabela 3: Apresentações Gerais_
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                   | Autor             | Revisor |
-| ------ | ---------- | --------------------------- | ----------------- |---------|
-| 1.0    | 11/07/2022 | Criação dos Cronogramas     | Arthur            | Cicero |
+| Versão | Data       | Descrição                   | Autor             |
+| ------ | ---------- | --------------------------- | ----------------- |
+| 1.0    | 11/07/2022 | Criação dos Cronogramas     | Arthur            | 
