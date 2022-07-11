@@ -11,7 +11,7 @@ Nessa seção iremos apresentar os sites avaliados durante a seleção do sistem
 | [Ministério Público da União](http://www.mpu.mp.br/)                | Arthur Lima       |
 | [PMDF](http://www.pmdf.df.gov.br/)                                  | Bernardo Pissutti |
 
-_Tabela 1_: Lista de sites avaliados
+_Tabela 1: Lista de sites avaliados_
 
 ## Site Escolhido
 Tendo em vista as avaliações heurísticas(Nielsen, 1994) dos sites listados na _tabela 1_, foi decidido que o site da
