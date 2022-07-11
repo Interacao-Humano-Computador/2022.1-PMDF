@@ -20,7 +20,7 @@ A tabela 1 correspondente as atividades da primeira etapa do projeto no 11/07/20
 | 11/07 | Cronograma das atividades           | Arthur                    | Cicero             |
 | 11/07 | Site xelecionado            | Leonardo e Bernado                 | Nicolas             |
 | 11/07 | Metodologia         | Leonardo                | Nicolas             |
-   
+
 _Tabela 1: Primeira Etapa_
 
 ## Cronograma Geral das Atividades
