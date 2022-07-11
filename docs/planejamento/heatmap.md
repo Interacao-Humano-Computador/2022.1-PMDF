@@ -1,8 +1,19 @@
 # Heatmap
 
-O heatmap tem por objetivo transparecer os horários livres dos membros da equipe, dessa forma é possível organizar e documentar os melhores dias e horários para a realização de reuniões.
+O heatmap, como é possível visualizar na Figura 1, tem por objetivo transparecer os horários livres dos membros da equipe, dessa forma é possível organizar e documentar os melhores dias e horários para a realização de reuniões.
+
+<div style="text-align: center;">
 
 ![Heatmap](../_media/heatmap.png "versionamento")
+
+<figcaption>Imagem 1: HeatMap.</figcaption>
+
+</div>
+
+|![Heatmap](../_media/heatmap.png "versionamento")|
+|:----:|
+|Figura 1: HeatMap|
+
 
 ## Histórico de Versões
 | Versão | Data       | Descrição         | Autor             |
