@@ -1,21 +1,31 @@
 # Cronogramas
 
+Planejamento das atividades para a disciplina de Interação Humano Computador, Semestre 2022.1.
+
 ## Cronograma Específico das Atividades
 
-### Primeira Entrega
+O cronograma especifíco das atividades indica as Atividades de cada etapa do projeto de maneira detalhada.
+
+### Primeira Etapa Do projeto
+
+A tabela 1 correspondente às atividades da primeira etapa do projeto no 11/07/2022.
+
 
 | Data  | Atividade                                               | Responsáveis             | Revisores         |
 | ----- | ------------------------------------------------------- | ------------------------ | ----------------- |
-| 09/07 | Equipe        |   Nicolas                  | Todos             |
-| 09/07 | Ferramentas           | Nicolas                    | Todos             |
-| 09/07 | Processo de design            | Guilherme                    | Todos             |
-| 10/07 | Sites avaliados           | Cicero                    | Todos             |
-| 11/07 | Cronograma das atividades           | Arthur                    | Todos             |
-| 11/07 | Site Selecionado            | Leonardo e Bernado                 | Todos             |
-
-
+| 09/07 | Equipe        |   Nicolas                  | Arthur             |
+| 09/07 | Ferramentas           | Nicolas                    | Guilherme             |
+| 09/07 | Processo de design            | Guilherme                    | Bernado             |
+| 10/07 | Sites avaliados           | Cicero                    | Leonardo             |
+| 11/07 | Cronograma das atividades           | Arthur                    | Cicero             |
+| 11/07 | Site Selecionado            | Leonardo e Bernado                 | Nicolas             |
+| 11/07 | Metodologia         | Leonardo                | Nicolas             |
+   
+_Tabela 1: Primeira Etapa_
 
 ## Cronograma Geral das Atividades
+
+O cronograma geral das atividades indica as atividades que serão executadas durante o perido da diciplina, subdivididas em entregas (tabela 2) e apresentações (tabela 3).
 
 ### Entregas
 
@@ -30,7 +40,7 @@
 | 22/08 | Entrega da apresentação do projeto 7: Relato dos resultados do Protótipo de Papel, o Planejamento da Avaliação do protótipo de alta fidelidade e o planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade. |
 | 12/09 | Entrega da apresentação do projeto finals |
 
-
+_Tabela 2: Entregas Gerais_
 
 
 ### Apresentações
@@ -44,8 +54,10 @@
 | 23/08 | Apresentação do projeto etapa 6: Verificação dos artefatos |
 | 06/09 | Apresentação do projeto etapa 7: Relato dos resultados do Protótipo de Papel, o Planejamento da Avaliação do protótipo de alta fidelidade e o Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade |
 
+_Tabela 3: Apresentações Gerais_
+
 ## Histórico de Versões
 
 | Versão | Data       | Descrição                   | Autor             |
 | ------ | ---------- | --------------------------- | ----------------- |
-| 1.0    | 11/07/2022 | Criação dos Cronogramas     | Arthur            |
+| 1.0    | 11/07/2022 | Criação dos Cronogramas     | Arthur            | 

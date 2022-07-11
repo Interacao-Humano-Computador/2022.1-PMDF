@@ -49,7 +49,7 @@ Neste trabalho, será empregado a proposta de processo de design de IHC denomina
 Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)
 Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.R
 
-## Versionamento
+## Histórico de Versões
 | Versão | Data  | Descrição            | Autor(es)       |
 | ------ | ----- | -------------------- | --------------- |
 | 1.0    | 10/07 | Criação do Artefato: Página | Guilherme Brito	  |
