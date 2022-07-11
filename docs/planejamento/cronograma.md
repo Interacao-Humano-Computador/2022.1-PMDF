@@ -6,12 +6,13 @@
 
 | Data  | Atividade                                               | Responsáveis             | Revisores         |
 | ----- | ------------------------------------------------------- | ------------------------ | ----------------- |
+| 09/07 | Equipe        |   Nicolas                  | Todos             |
 | 09/07 | Ferramentas           | Nicolas                    | Todos             |
 | 09/07 | Processo de design            | Guilherme                    | Todos             |
 | 10/07 | Sites avaliados           | Cicero                    | Todos             |
 | 11/07 | Cronograma das atividades           | Arthur                    | Todos             |
 | 11/07 | Site Selecionado            | Leonardo e Bernado                 | Todos             |
-| 11/07 | Equipe        |                     | Todos             |
+
 
 
 ## Cronograma Geral das Atividades
