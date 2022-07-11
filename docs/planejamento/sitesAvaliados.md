@@ -14,7 +14,7 @@ Nessa seção iremos apresentar os sites avaliados durante a seleção do sistem
 _Tabela 1_: Lista de sites avaliados
 
 ## Site Escolhido
-Tendo em vista as avaliações heurísticas(Nielsen, 1994b) dos sites listados na _tabela 1_, foi decidido que o site da
+Tendo em vista as avaliações heurísticas(Nielsen, 1994) dos sites listados na _tabela 1_, foi decidido que o site da
 [PMDF](http://www.pmdf.df.gov.br/) seria a escolha mais adequada para a elaboração do projeto da disciplina, tanto pela oportunidade de melhorias de
 interface, quanto por ser uma organização local e portanto de mais fácil comunicação, caso necessário.
 
@@ -28,3 +28,4 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN
 |--------|-------|-------------------------------------|-------------------|
 | 1.0    | 10/07 | Criação da Página                   | Cícero Fernandes  |
 | 1.1    | 11/07 | Criação do paragrafo site escolhido | Bernardo Pissutti |
+| 1.2    | 11/07 | Correção de erro na citação no texto  | Leonardo Vitoriano |
