@@ -1,7 +1,8 @@
 # Avaliação Heurística
 A avaliação heurística é um método de avaliação de IHC criado para encontrar problemas de usabilidade durante um
 processo de design iterativo (Nielsen e Molich, 1990; Nielse, 1992, 1994b). Esse método de avaliação orienta os 
-avaliadores a inspecionar sistematicamente a interface em busca de problemas que prejudiquem a usabilidade.(Barbosa e Silva,p.281)
+avaliadores a inspecionar sistematicamente a interface em busca de problemas que prejudiquem a usabilidade.(Barbosa e Silva,p.281).
+As figuras 1, 2, 3 são correspondentes à avaliação heurística do site da PMDF.
 
 |![tabela heuristica](../../_media/avaliacaopmdf01.png)|
 |:-----------------------------------------------:|
