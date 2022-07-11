@@ -1,10 +1,10 @@
 # Cronogramas
 
-Planejamento das atividades para a diciplina de Interação Humano Computador, Semestre 2022.1.
+Planejamento das atividades para a disciplina de Interação Humano Computador, Semestre 2022.1.
 
 ## Cronograma Específico das Atividades
 
-O cronograma especifíco das atividades indica as Atividades de cada Etapa do projeto de maneira detalhada.
+O cronograma especifíco das atividades indica as Atividades de cada etapa do projeto de maneira detalhada.
 
 ### Primeira Etapa Do projeto
 
