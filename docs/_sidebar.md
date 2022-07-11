@@ -2,6 +2,8 @@
 - [Apresentações](apresentacoes.md)
 - Planejamento
   - [Cronograma das Atividades](planejamento/cronograma.md)
+  - [Metodologia](planejamento/metodologia.md)
+  - [HeatMap](planejamento/heatmap.md)
   - [Ferramentas](planejamento/ferramentas.md)
   - [Processo de Design](planejamento/processoDesign.md)
   - [Sites Avaliados](planejamento/sitesAvaliados.md)
