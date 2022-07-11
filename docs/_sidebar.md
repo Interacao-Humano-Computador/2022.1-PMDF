@@ -4,3 +4,4 @@
   - [Cronograma das Atividades](planejamento/cronograma.md)
   - [Ferramentas](planejamento/ferramentas.md)
   - [Processo de Design](planejamento/processoDesign.md)
+  - [Sites Avaliados](planejamento/sitesAvaliados.md)
