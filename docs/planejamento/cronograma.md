@@ -36,6 +36,12 @@
 | Data  | Atividade                                                                                                                                                                                 |
 | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 12/07 | Apresentação do projeto etapa 1: planejamento do projeto e do Processo de Design |
+| 21/07 | Apresentação do projeto etapa 2: Perfil do usuário, Aspectos Éticos de Pesquisas com Pessoas, Personas e Análise de tarefas |
+| 02/08 | Apresentação do projeto etapa 3: Princípios Gerais de Projeto, Metas de usabilidade, Guia de Estilo. (Fase: análise de requisitos) |
+| 09/08 |Apresentação do projeto etapa 4: : Planejamento da Avaliação do Storyboard e Análise de tarefas, planejamento do relato dos resultados da avaliação do Storyboard e o planejamento do relato dos resultados da avaliação do Análise de tarefas |
+| 18/08 | Apresentação do projeto etapa 5: Relato dos resultados do Story Board e da Análise de tarefas, o Planejamento da Avaliação do Protótipo de Papel e do planejamento do relato dos resultados da avaliação do Protótipo de Papel |
+| 23/08 | Apresentação do projeto etapa 6: Verificação dos artefatos |
+| 06/09 | Apresentação do projeto etapa 7: Relato dos resultados do Protótipo de Papel, o Planejamento da Avaliação do protótipo de alta fidelidade e o Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade |
 
 ## Histórico de Versões
 
