@@ -4,12 +4,11 @@ Planejamento das atividades para a disciplina de Interação Humano Computador, 
 
 ## Cronograma Específico das Atividades
 
-O cronograma especifíco das atividades indica as atividades de cada etapa do projeto de maneira detalhada.
+O cronograma especifíco das atividades indica as Atividades de cada etapa do projeto de maneira detalhada.
 
 ### Primeira Etapa Do projeto
 
-A tabela 1 correspondente as atividades da primeira etapa do projeto no 11/07/2022.
-
+A tabela 1 correspondente às atividades da primeira etapa do projeto no 11/07/2022.
 
 | Data  | Atividade                                               | Responsáveis             | Revisores         |
 | ----- | ------------------------------------------------------- | ------------------------ | ----------------- |
@@ -18,14 +17,15 @@ A tabela 1 correspondente as atividades da primeira etapa do projeto no 11/07/20
 | 09/07 | Processo de design            | Guilherme                    | Bernado             |
 | 10/07 | Sites avaliados           | Cicero                    | Leonardo             |
 | 11/07 | Cronograma das atividades           | Arthur                    | Cicero             |
-| 11/07 | Site xelecionado            | Leonardo e Bernado                 | Nicolas             |
+| 11/07 | Site Selecionado            | Leonardo e Bernado                 | Nicolas             |
 | 11/07 | Metodologia         | Leonardo                | Nicolas             |
 
 _Tabela 1: Primeira Etapa_
 
+
 ## Cronograma Geral das Atividades
 
-O cronograma geral das atividades indica as atividades que serão executadas durante o período da diciplina, subdivididas em entregas (tabela 2) e apresentações (tabela 3).
+O cronograma geral das atividades indica as atividades que serão executadas durante o perido da diciplina, subdivididas em entregas (tabela 2) e apresentações (tabela 3).
 
 ### Entregas
 
@@ -38,7 +38,7 @@ O cronograma geral das atividades indica as atividades que serão executadas dur
 | 17/08 | Entrega da apresentação do projeto 5: Relato dos resultados do Story Board e da Análise de tarefas, o Planejamento da Avaliação do Protótipo de Papel e do Planejamento do relato dos resultados da avaliação do Protótipo de Papel.  |
 | 22/08 | Entrega da apresentação do projeto 6: Verificação dos artefatos |
 | 22/08 | Entrega da apresentação do projeto 7: Relato dos resultados do Protótipo de Papel, o Planejamento da Avaliação do protótipo de alta fidelidade e o planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade. |
-| 12/09 | Entrega da apresentação do projeto final |
+| 12/09 | Entrega da apresentação do projeto finals |
 
 _Tabela 2: Entregas Gerais_
 
