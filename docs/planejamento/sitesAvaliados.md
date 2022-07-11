@@ -21,6 +21,7 @@ interface, quanto por ser uma organização local e portanto de mais fácil comu
 ## Referências Biblioǵraficas
 Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)
 Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.R
+* [Avaliação Heurística](planejamento/avaliacoes/avaliacaopmdf.md)
 
 ## Histórico de Versões
 
