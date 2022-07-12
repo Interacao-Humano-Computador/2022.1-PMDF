@@ -18,7 +18,8 @@ A tabela 1 correspondente às atividades da primeira etapa do projeto no 11/07/2
 | 10/07 | Sites avaliados           | Cicero                    | Leonardo             |
 | 11/07 | Cronograma das atividades           | Arthur                    | Cicero             |
 | 11/07 | Site Selecionado            | Leonardo e Bernado                 | Nicolas             |
-| 11/07 | Metodologia         | Leonardo                | Nicolas             |
+| 11/07 | Metodologia         | Leonardo                | Nicolas             | 
+| 11/07 | Avaliação Heurística         | Bernado                | Leonardo             |
 
 _Tabela 1: Primeira Etapa_
 
