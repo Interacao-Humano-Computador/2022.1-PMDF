@@ -7,7 +7,7 @@
 
 ## Sobre o Projeto
 
-O objetivo deste projeto é utilizar o site da <a href="http://www.pmdf.df.gov.br/" target="_blank">Polícia Militar do Distrito Federal (PMDF)</a> para avaliar aspectos relacionados a usabilidade, acessibilidade, experiência do usuário, interface etc que foram aprendidos ao longo da disciplina Interação Humano Computador. Para isso, serão utilizadas ferramentas como o Processo de Design de Mayer.
+O objetivo deste projeto é utilizar o site da <a href="http://www.pmdf.df.gov.br/" target="_blank">Polícia Militar do Distrito Federal (PMDF)</a> para avaliar aspectos relacionados a usabilidade, acessibilidade, experiência do usuário, interface etc que foram aprendidos ao longo da disciplina Interação Humano Computador. Para isso, serão utilizadas ferramentas como o Processo de Design de Mayhew.
 
 Uma vez identificados eventuais pontos fracos em tais aspectos, eles serão documentados, detalhados, avaliados e um reprojeto compilando alternativas melhores será criado.
 
