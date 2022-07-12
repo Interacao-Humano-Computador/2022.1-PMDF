@@ -17,11 +17,11 @@ _Tabela 1: Lista de sites avaliados_
 Tendo em vista as avaliações heurísticas(Nielsen, 1994) dos sites listados na _tabela 1_, foi decidido que o site da
 [PMDF](http://www.pmdf.df.gov.br/) seria a escolha mais adequada para a elaboração do projeto da disciplina, tanto pela oportunidade de melhorias de
 interface, quanto por ser uma organização local e portanto de mais fácil comunicação, caso necessário.
+* [Avaliação Heurística](planejamento/avaliacoes/avaliacaopmdf.md)
 
 ## Referências Biblioǵraficas
 Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)
 Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.R
-* [Avaliação Heurística](planejamento/avaliacoes/avaliacaopmdf.md)
 
 ## Histórico de Versões
 
