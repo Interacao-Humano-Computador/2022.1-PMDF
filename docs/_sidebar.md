@@ -1,6 +1,6 @@
 - [Sobre](/README)
 - [Apresentações](apresentacoes.md)
-- Planejamento
+- **Planejamento**
   - [Cronograma das Atividades](planejamento/cronograma.md)
   - [Metodologia](planejamento/metodologia.md)
   - [HeatMap](planejamento/heatmap.md)
