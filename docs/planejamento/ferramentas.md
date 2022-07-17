@@ -79,6 +79,7 @@ A tabela 1 descreve uma lista de ferramentas que serão utilizadas pela equipe p
 *Tabela 1: Tabela de Ferramentas utilizadas*
 
 ## Histórico de Versões
+
 | Versão | Data       | Descrição                                              | Autor                    |
 |--------|------------|--------------------------------------------------------|--------------------------|
 | 1.0    | 09/07/2022 | Importação do arquivo ferramentas.md e alteração para HTML | Nicolas Georgeos Mantzos |
