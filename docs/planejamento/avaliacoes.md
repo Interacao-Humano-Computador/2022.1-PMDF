@@ -6,15 +6,15 @@ avaliadores a inspecionar sistematicamente a interface em busca de problemas que
 ## 1. Avaliação do Site da PMDF
 As _Figuras 1, 2, 3_ mostram a avaliação feita pelo integrante Bernardo Pissutti.
 
-|![tabela heuristica](../../_media/avaliacaopmdf01.png)|
+|![tabela heuristica](../_media/avaliacoes/avaliacaopmdf01.png)|
 |:-----------------------------------------------:|
 |                    Figura 1                     |
 
-| ![tabela heuristica](../../_media/avaliacaopmdf02.png) |
+| ![tabela heuristica](../_media/avaliacoes/avaliacaopmdf02.png) |
 |:-------------------------------------------------:|
 |                     Figura 2                      |
 
-| ![tabela heuristica](../../_media/avaliacaopmdf03.png)|
+| ![tabela heuristica](../_media/avaliacoes/avaliacaopmdf03.png)|
 |:-------------------------------------------------:|
 |                     Figura 3                      |
 
@@ -22,47 +22,47 @@ As _Figuras 1, 2, 3_ mostram a avaliação feita pelo integrante Bernardo Pissut
 ## 2. Avaliação do Site da Prefeitura de Araranguá
 As _Figuras 4, 5, 6, 7_ mostram a avaliação feita pelo integrante Cícero Fernandes.
 
-| ![tabela heuristica](../../_media/avaliacao_ararangua1.png) |
+| ![tabela heuristica](../_media/avaliacoes/avaliacao_ararangua1.png) |
 |:-----------------------------------------------------------:|
 |                          Figura 4                           |
 
-| ![tabela heuristica](../../_media/avaliacao_ararangua2.png) |
-|:-----------------------------------------------------------:|
-|                          Figura 5                           |
+| ![tabela heuristica](../_media/avaliacoes/avaliacao_ararangua2.png) |
+|:----------------------------------------------------------------------:|
+|                                Figura 5                                |
 
-| ![tabela heuristica](../../_media/avaliacao_ararangua3.png) |
+| ![tabela heuristica](../_media/avaliacoes/avaliacao_ararangua3.png) |
 |:-----------------------------------------------------------:|
 |                          Figura 6                           |
 
-| ![tabela heuristica](../../_media/avaliacao_ararangua4.png) |
+| ![tabela heuristica](../_media/avaliacoes/avaliacao_ararangua4.png) |
 |:-----------------------------------------------------------:|
 |                          Figura 7                           |
 
 ## 3. Avaliação do Site da Prefeitura de Macaé
 As _Figuras 8, 9, 10_ mostram a avaliação feita pelo integrante Leonardo Milomes.
 
-| ![tabela heuristica](../../_media/avaliacao_macae1.png) |
+| ![tabela heuristica](../_media/avaliacoes/avaliacao_macae1.png) |
 |:-------------------------------------------------------:|
 |                        Figura 8                         |
 
-| ![tabela heuristica](../../_media/avaliacao_macae2.png) |
+| ![tabela heuristica](../_media/avaliacoes/avaliacao_macae2.png) |
 |:-------------------------------------------------------:|
 |                        Figura 9                         |
 
-| ![tabela heuristica](../../_media/avaliacao_macae3.png) |
-|:-------------------------------------------------------:|
-|                        Figura 10                        |
+| ![tabela heuristica](../_media/avaliacoes/avaliacao_macae3.png) |
+|:---------------------------------------------------------------:|
+|                            Figura 10                            |
 
 ## 4. Avaliação do Site da Prefeitura de Águas Lindas
 As _Figuras 11, 12_ mostram a avaliação feita pelo integrante Guilherme Brito.
 
-| ![tabela heuristica](../../_media/avaliacao_aguaslindas1.png) |
-|:-------------------------------------------------------------:|
-|                           Figura 11                           |
+| ![tabela heuristica](../_media/avaliacoes/avaliacao_aguaslindas1.png) |
+|:---------------------------------------------------------------------:|
+|                               Figura 11                               |
 
-| ![tabela heuristica](../../_media/avaliacao_aguaslindas2.png) |
-|:-------------------------------------------------------------:|
-|                           Figura 12                           |
+| ![tabela heuristica](../_media/avaliacoes/avaliacao_aguaslindas2.png) |
+|:---------------------------------------------------------------------:|
+|                               Figura 12                               |
 
 ## Referências Bibliograficas
 Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)
