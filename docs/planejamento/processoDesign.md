@@ -6,7 +6,7 @@ O projeto de um sistema interativo é um processo
 iterativo de análise, síntese e avaliação, no qual artefatos são coletados e produzidos visando não apenas à
 construção do sistema, mas também à promoção de uma boa experiência de uso desse sistema.
 
-## O que é Design?
+## 1. O que é Design?
 
 Primeiro de tudo, precisamos entender o que é um artefato. **Artefatos** são produtos artificiais, fruto da inteligência e do trabalho humano, construídos com um determinado propósito em mente.
 
@@ -23,7 +23,7 @@ Para resolver esses problemas, diminuir as características desagradáveis e mel
 
 Quando se trata de sistemas computacionais, é comum investigarmos todos os elementos envolvidos durante o uso: os usuários com suas características, necessidades e preferências; as atividades e os objetivos em questão, considerando os artefatos e sistemas computacionais utilizados; e o contexto físico, social e cultural de uso ao longo do tempo (Hackos e Redish, 1998; Sharp et al., 2019). Além desses elementos diretamente envolvidos no uso atual desses artefatos, também é preciso conhecer e articular os interesses das pessoas indiretamente envolvidas, como aquela que paga pelo sistema, geralmente conhecida como cliente, e aquela que constrói o sistema, normalmente chamada de desenvolvedor.
 
-## Processo de Design
+## 2. Processo de Design
 
 Como visto anteriormente, o design é um processo que envolve 3 atividades principais:**análise** da situação atual, **síntese** de uma intervenção e a **avaliação** dessa intervenção projetada ou já aplicada à situação atual. Para isso, vários processos de design foram construídos para detalharem essas atividades básicas de uma forma particular, definindo:
 - Como executar cada atividade
