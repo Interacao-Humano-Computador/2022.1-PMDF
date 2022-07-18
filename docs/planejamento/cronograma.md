@@ -47,12 +47,12 @@ A tabela 1 correspondente às atividades da primeira etapa do projeto no 11/07/2
 | ----- | ------------------------------------------------------- | ------------------------ | ----------------- |
 | 09/07 | Equipe        |   Nicolas                  | Arthur             |
 | 09/07 | Ferramentas           | Nicolas                    | Guilherme             |
-| 09/07 | Processo de design            | Guilherme                    | Bernado             |
+| 09/07 | Processo de design            | Guilherme                    | Bernardo             |
 | 10/07 | Sites avaliados           | Cicero                    | Leonardo             |
 | 11/07 | Cronograma das atividades           | Arthur                    | Cicero             |
-| 11/07 | Site Selecionado            | Leonardo e Bernado                 | Nicolas             |
+| 11/07 | Site Selecionado            | Leonardo e Bernardo                 | Nicolas             |
 | 11/07 | Metodologia         | Leonardo                | Nicolas             | 
-| 11/07 | Avaliação Heurística         | Bernado                | Leonardo             |
+| 11/07 | Avaliação Heurística         | Bernardo                | Leonardo             |
 
 _Tabela 1: Primeira Etapa_
 
