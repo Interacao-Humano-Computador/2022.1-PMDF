@@ -13,7 +13,7 @@ Nessa seção iremos apresentar os sites avaliados durante a seleção do sistem
 
 _Tabela 1: Lista de sites avaliados_
 ## 1. Avaliações dos Sites
-As avaliações heurísticas dos sites podem ser encontradas no documento a seguir: [Avaliações Heurísticas](planejamento/avaliacoes/avaliacoes.md)
+As avaliações heurísticas dos sites podem ser encontradas no documento a seguir: [Avaliações Heurísticas](planejamento/avaliacoes.md)
 
 ## 2. Site Escolhido
 Tendo em vista as avaliações heurísticas(Nielsen, 1994) dos sites listados na _Tabela 1_, foi decidido que o site da
