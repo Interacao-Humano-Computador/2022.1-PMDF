@@ -2,33 +2,11 @@
 
 Planejamento das atividades para a disciplina de Interação Humano Computador, Semestre 2022.1.
 
-## Cronograma Específico das Atividades
-
-O cronograma especifíco das atividades indica as Atividades de cada etapa do projeto de maneira detalhada.
-
-### Primeira Etapa Do projeto
-
-A tabela 1 correspondente às atividades da primeira etapa do projeto no 11/07/2022.
-
-| Data  | Atividade                                               | Responsáveis             | Revisores         |
-| ----- | ------------------------------------------------------- | ------------------------ | ----------------- |
-| 09/07 | Equipe        |   Nicolas                  | Arthur             |
-| 09/07 | Ferramentas           | Nicolas                    | Guilherme             |
-| 09/07 | Processo de design            | Guilherme                    | Bernado             |
-| 10/07 | Sites avaliados           | Cicero                    | Leonardo             |
-| 11/07 | Cronograma das atividades           | Arthur                    | Cicero             |
-| 11/07 | Site Selecionado            | Leonardo e Bernado                 | Nicolas             |
-| 11/07 | Metodologia         | Leonardo                | Nicolas             | 
-| 11/07 | Avaliação Heurística         | Bernado                | Leonardo             |
-
-_Tabela 1: Primeira Etapa_
-
-
-## Cronograma Geral das Atividades
+## 1. Cronograma Geral das Atividades
 
 O cronograma geral das atividades indica as atividades que serão executadas durante o perido da diciplina, subdivididas em entregas (tabela 2) e apresentações (tabela 3).
 
-### Entregas
+### 1.1 Entregas
 
 | Data  | Atividade                                                                                                                                                                                 |
 | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -44,7 +22,7 @@ O cronograma geral das atividades indica as atividades que serão executadas dur
 _Tabela 2: Entregas Gerais_
 
 
-### Apresentações
+### 1.2 Apresentações
 | Data  | Atividade                                                                                                                                                                                 |
 | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 12/07 | Apresentação do projeto etapa 1: planejamento do projeto e do Processo de Design |
@@ -56,6 +34,27 @@ _Tabela 2: Entregas Gerais_
 | 06/09 | Apresentação do projeto etapa 7: Relato dos resultados do Protótipo de Papel, o Planejamento da Avaliação do protótipo de alta fidelidade e o Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade |
 
 _Tabela 3: Apresentações Gerais_
+
+## 2. Cronograma Específico das Atividades
+
+O cronograma especifíco das atividades indica as Atividades de cada etapa do projeto de maneira detalhada.
+
+### 2.1 Primeira Etapa Do projeto
+
+A tabela 1 correspondente às atividades da primeira etapa do projeto no 11/07/2022.
+
+| Data  | Atividade                                               | Responsáveis             | Revisores         |
+| ----- | ------------------------------------------------------- | ------------------------ | ----------------- |
+| 09/07 | Equipe        |   Nicolas                  | Arthur             |
+| 09/07 | Ferramentas           | Nicolas                    | Guilherme             |
+| 09/07 | Processo de design            | Guilherme                    | Bernardo             |
+| 10/07 | Sites avaliados           | Cicero                    | Leonardo             |
+| 11/07 | Cronograma das atividades           | Arthur                    | Cicero             |
+| 11/07 | Site Selecionado            | Leonardo e Bernardo                 | Nicolas             |
+| 11/07 | Metodologia         | Leonardo                | Nicolas             | 
+| 11/07 | Avaliação Heurística         | Bernardo                | Leonardo             |
+
+_Tabela 1: Primeira Etapa_
 
 ## Histórico de Versões
 

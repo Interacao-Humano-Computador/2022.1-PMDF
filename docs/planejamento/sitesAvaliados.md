@@ -12,12 +12,16 @@ Nessa seção iremos apresentar os sites avaliados durante a seleção do sistem
 | [PMDF](http://www.pmdf.df.gov.br/)                                  | Bernardo Pissutti |
 
 _Tabela 1: Lista de sites avaliados_
+## 1. Avaliações dos Sites
+As avaliações heurísticas dos sites podem ser encontradas no documento a seguir: [Avaliações Heurísticas](planejamento/avaliacoes.md)
 
-## Site Escolhido
-Tendo em vista as avaliações heurísticas(Nielsen, 1994) dos sites listados na _tabela 1_, foi decidido que o site da
+## 2. Site Escolhido
+Tendo em vista as avaliações heurísticas(Nielsen, 1994) dos sites listados na _Tabela 1_, foi decidido que o site da
 [PMDF](http://www.pmdf.df.gov.br/) seria a escolha mais adequada para a elaboração do projeto da disciplina, tanto pela oportunidade de melhorias de
 interface, quanto por ser uma organização local e portanto de mais fácil comunicação, caso necessário.
-* [Avaliação Heurística](planejamento/avaliacoes/avaliacaopmdf.md)
+
+A avaliação heurística do site da
+PMDF pode ser visualizada na seção 1 do documento de avaliações heurísticas.
 
 ## Referências Biblioǵraficas
 Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)
