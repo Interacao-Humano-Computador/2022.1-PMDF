@@ -36,7 +36,9 @@ Objetivo: Modificar um sistema existente.
 |    1.1.1 Informar nome de usuário e senha    | Inputs: áreas descritas "nome de usuário" e "senha", action: digitar dados            |  
 |    2. clicar em fazer login    | Input: inputs: área descrita "fazer login" action: clicar em botão "fazer login"           |  
 
+## Referencias
 
+Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.R
 
 ## Histórico de Versões
 
