@@ -9,7 +9,7 @@ cujos objetivos devem ser apoiados pelo sistema sendo projetado. Sendo assim, de
 
 O questionário consiste em construir perguntas, podendo ser abertas ou fechadas, para coletar dados dos usuários e enfim chegar em uma conclusão sobre eles. Então, a partir de perguntas fechadas, o objetivo das perguntas realizadas foi entender as características dos usuários e definir os perfis nos quais eles se enquadram.
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/X70c1M5" data-context="false" ><a href="//imgur.com/a/X70c1M5"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<iframe src="https://albumizr.com/a/pmWu" scrolling="no" frameborder="0" allowfullscreen width="700" height="400"></iframe>
 
 O questionário foi realizado via Google Forms, e tendo em vista os resultados obtidos, dois perfis principais foram identificados. A tabela 1 explicita as respectivas caracterísitcas do perfil A e B.
 
