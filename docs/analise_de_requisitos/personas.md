@@ -1,5 +1,6 @@
 # Personas
 
+## 1. Introdução
 A partir de um perfil do usuário bem definido, é possível então determinar as personas que serão utilizadas
 para o sistema em destaque. 
 
@@ -7,6 +8,8 @@ As personas são um grupo de pessoas fictícias, ou seja, um arquétipo de grupo
 Elas são entendidas principalmente por seus objetivos, os quais  são determinados num processo de refinamentos sucessivos durante a investigação inicial do domínio de atividade do usuário. (Barbosa, 2021)
 
 Para cada papel de usuário deve ser criado ao menos uma persona formando um elenco de personas para o projeto que consiste entre 3 a 12 personas distintas. A equipe determinou 3 personas e 1 antipersona para o site da PMDF. Sendo a antipersona responsável por representar o perfil de usuário que contrário ao público-alvo que utiliza o sistema.
+
+## 2. Construção das Personas
 
 ### Persona 1: Otavio Maranhão.
 
@@ -92,7 +95,7 @@ Objetivos práticos:
 -  realizar agendamento médico.
 
 
-### Antipersona: Tiago Gonçalves:
+### 2.4 Antipersona: Tiago Gonçalves:
 
 |![Figura 4](../_media/ihc-antipersona.jpg)|
 |:----:|
