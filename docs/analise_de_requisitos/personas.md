@@ -11,6 +11,9 @@ Para cada papel de usuário deve ser criado ao menos uma persona formando um ele
 
 ## 2. Construção das Personas
 
+
+Na construção das personas foi utilizado, principalmente, um perfil do usuário previamente definido, mas com a finalidade de visualizar as características e objetivos das personas, uma imagem é atríbuida a cada persona. Essa imagem, a qual trata-se de uma pessoa que não existe, é gerada a partir de uma IA (Inteligência Artifical) do site ["this person does not exist"](https://thispersondoesnotexist.xyz/). 
+
 ### Persona 1: Otavio Maranhão.
 
 <div style="text-align:center">
@@ -119,6 +122,8 @@ Objetivos pessoais:
 
 Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)
 Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.R
+
+https://thispersondoesnotexist.xyz/
 
 ## Histórico de Versões
 

@@ -1,6 +1,6 @@
 # Aspectos Éticos de Pesquisas com Pessoas
 
-## 1. Instrodução
+## 1. Introdução
 É de responsabilidade da equipe de design proteger o bem-estar físico e psicológico dos participantes de qualquer estudo, pesquisa ou análise realizado (Johnson, 2008). No Brasil, a
 Resolução No 466/2012 do Conselho Nacional de Saúde regulamenta as pesquisas científicas envolvendo pessoas, em qualquer área do conhecimento. Tendo em vista essa resolução e suas
 recomendações segue um lista de princípios a se considerar durante o trabalho do avaliador.

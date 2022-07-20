@@ -11,7 +11,7 @@ O questionário consiste em construir perguntas, podendo ser abertas ou fechadas
 
 <iframe src="https://albumizr.com/a/pmWu" scrolling="no" frameborder="0" allowfullscreen width="700" height="400"></iframe>
 
-O questionário foi realizado via Google Forms, e tendo em vista os resultados obtidos, dois perfis principais foram identificados. A tabela 1 explicita as respectivas caracterísitcas do perfil A e B.
+O questionário foi realizado via Google Forms, e tendo em vista os resultados obtidos, dois perfis principais foram identificados. A *tabela 1* explicita as respectivas caracterísitcas do perfil A e B.
 
 | Perfil| A | B |
 | -------- | -------- | -------- |
@@ -33,9 +33,9 @@ não acessam a aplicação e, então, não são considerados o público-alvo.
 
 A entrevista é considerada uma conversa guiada por um roteiro de perguntas ou tópicos, na qual um entrevistador	busca	obter informações de um	entrevistado. Sendo assim, ela permite coletar muitas informações detalhadas e profundas de usuários individuais, mais do que questionários e grupos de foco. (Barbosa, 2021)
 
-As entrevistas foram realizadas de maneira presencial, seguindo um roteiro estruturado, sendo que o Termo de Consentimento foi apresentado previamente para os entrevistados, e no ínicio da gravação, os entrevistados concordaram com o Termo, e então a entrevista prosseguiu.
+As entrevistas foram realizadas de maneira presencial, seguindo um roteiro estruturado, sendo que o Termo de Consentimento foi apresentado previamente para os entrevistados, e no ínicio da gravação, os entrevistados concordaram com o Termo, e então a entrevista prossegue. Após a finalização das entrevistas, as respostas dos entrevistados foram analisadas e, portanto, se enquadram no Perfil do Usuário A, definido na *tabela 1*.
 
-As perguntas definadas pelo Roteiro Estruturado foram:
+As perguntas definidas pelo Roteiro Estruturado foram:
 
 - Qual seu nome?
 - Qual sua idade?
@@ -77,7 +77,7 @@ As perguntas definadas pelo Roteiro Estruturado foram:
 
 **Quais funcionalidades ou áreas do site que você mais acessa**
 
-"O que eu mais acesso é na parte da Intranet e aonde vejo a parte de serviço administrativo interno da poícia militar".
+"O que eu mais acesso é na parte da Intranet e aonde vejo a parte de serviço administrativo interno da polícia militar".
 
 **Qual sua opinião sobre a estrutura e design site**
 
