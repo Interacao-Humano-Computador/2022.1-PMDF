@@ -17,15 +17,24 @@ Auxilia a indentificar oque as pessoas fazem com o porque e as consequências ca
 
 O HTA busca examinar objetivos de alto nível e decompor estes em subojetivos, subojetivos são relacionados com outros objetivos indicando um plano, que definem os subojetivos para que os objetivos maiores sejam atingidos. 
 
-### Objetivos da análise:
+### Análise:
 
-Modificar um sistema existente.
+Segundo dados obtidos através do questionário é podemos inferir que a funcionalidade intranet é a mais utilizada pelos usuário e será nosso objeto de estudo para a 
+Objetivo: Modificar um sistema existente.
 
-![image](https://user-images.githubusercontent.com/60429513/180081518-6e88828e-9561-4fb8-b8e5-a91c25410f58.png)
+#### Representação Gráfica
 
+![image](https://user-images.githubusercontent.com/60429513/180089432-2413ef7c-8188-4e37-88b7-f13d0ef10c1e.png)
 
+#### Tabela
 
-
+| Objetivo | input / Action / feedback / Problema                                       |     
+|--------|------------|
+|    0. Logar no Intranet    |            |  
+|    1. acessar página  intranet    | Input: área descrita "intranet", action: clicar no botão "intranet", Problema: pequena caixa para inserir nome de usuário e senha , Recomendação: utilizar uma pagina facilitando a visualização para usuários com problema de vista          | 
+|    1.1 Informar Dados do usuário    |            |  
+|    1.1.1 Informar nome de usuário e senha    | Inputs: áreas descritas "nome de usuário" e "senha", action: digitar dados            |  
+|    2. clicar em fazer login    | Input: inputs: área descrita "fazer login" action: clicar em botão "fazer login"           |  
 
 
 
