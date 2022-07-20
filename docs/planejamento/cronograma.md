@@ -6,7 +6,7 @@ Planejamento das atividades para a disciplina de Interação Humano Computador, 
 
 O cronograma geral das atividades indica as atividades que serão executadas durante o período da disciplina, apresentado na tabela 1.
 
-### 1.1 Entregas
+### 1.1 Entregas e Apresentações da disciplina
 
 | Data  | Atividade                                                                                                                                                                                                                                                                            |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -30,11 +30,11 @@ _Tabela 1: Cronograma geral_
 
 ## 2. Cronograma Específico das Atividades
 
-O cronograma especifíco das atividades indica as Atividades de cada etapa do projeto de maneira detalhada.
+O cronograma específico das atividades indica as Atividades de cada etapa do projeto de maneira detalhada.
 
 ### 2.1 Primeira Etapa Do projeto
 
-A tabela 1 correspondente às atividades da primeira etapa do projeto no 11/07/2022.
+A tabela 2 correspondente às atividades da primeira etapa do projeto no 11/07/2022.
 
 | Data  | Atividade                 | Responsáveis        | Revisores |
 | ----- | ------------------------- | ------------------- | --------- |
@@ -47,10 +47,58 @@ A tabela 1 correspondente às atividades da primeira etapa do projeto no 11/07/2
 | 11/07 | Metodologia               | Leonardo            | Nicolas   |
 | 11/07 | Avaliação Heurística      | Bernardo            | Leonardo  |
 
-_Tabela 1: Primeira Etapa_
+_Tabela 2: Primeira Etapa_
+
+### 2.2 Segunda Etapa Do projeto
+
+A tabela 3 correspondente às atividades da primeira etapa do projeto no 20/07/2022.
+
+| Data  | Atividade                          | Responsáveis        | Revisores |
+| ----- | ---------------------------------- | ------------------- | --------- |
+| 19/07 | Perfil do usuário                  | Leonardo            | Guilherme |
+| 20/07 | Análise de tarefas                 | Guilherme e Nicolas | Bernardo  |
+| 18/07 | Entrevista                         | Leonardo            | Nicolas   |
+| 18/07 | Questionário                       | Leonardo e Arthur   | Todos     |
+| 19/07 | Personas                           | Leonardo            | Bernardo  |
+| 19/07 | Aspectos éticos                    | Leonardo            | Todos     |
+| 20/07 | Cronograma de atividades da equipe | Cícero              | Todos     |
+| 20/07 | Gravação da entrega                | Todos               | Todos     |
+
+_Tabela 3: Segunda Etapa_
+
+## 3. Roadmap e Sprints
+
+O quadro kaban e o roadmap são elementos que irão nos ajudar durante o desenvolvimento do projeto, explicados melhor na seção de metodologia. Nessa seção será apresentado o desenvolvimento dos dois com o passar das entregas.
+
+### 3.2 Sprints
+
+#### 3.2.1 Sprint 1
+
+O backlog da sprint 1 está apresentado na _Figura 1_, e o seu quadro kanbak final apresentado na _Figura 2_ .
+
+| ![image](../_media/BackLogSprint1IHC.png) |
+| ----------------------------------------- |
+| _Figura 1: backlog da sprint 1_           |
+
+| ![image](../_media/QuadroKanbanSprint1IHC.png) |
+| ---------------------------------------------- |
+| _Figura 2: kaban da sprint 1_                  |
+
+#### 3.2.2 Sprint 2
+
+O backlog da sprint 2 representado na _Figura 3_ e na _Figura 4_ o kanban board.
+
+| ![image](../_media/Sprint2BackLogIHC.png) |
+| ----------------------------------------- |
+| _Figura 3: backlog da sprint 2_           |
+
+| ![image](../_media/quadroKanbakSprint2IHC.png) |
+| ---------------------------------------------- |
+| _Figura 4: quadro kanban da sprint 2_          |
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição               | Autor  |
-| ------ | ---------- | ----------------------- | ------ |
-| 1.0    | 11/07/2022 | Criação dos Cronogramas | Arthur |
+| Versão | Data       | Descrição                 | Autor  |
+| ------ | ---------- | ------------------------- | ------ |
+| 1.0    | 11/07/2022 | Criação dos Cronogramas   | Arthur |
+| 1.1    | 20/07/2022 | Adição da segunda entrega | Cícero |
