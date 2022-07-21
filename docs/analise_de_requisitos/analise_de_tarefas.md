@@ -2,8 +2,7 @@
 
 ## 1. Introdução
 
-Segundo Perce [1], a análise de tarefas trata-se de um termo "guarda-chuva"  
-que abrange técnicas utilizadas na investigação de situações existentes e cujo objetivo é
+Segundo Perce [1], a análise de tarefas trata-se de um termo "guarda-chuva" que abrange técnicas utilizadas na investigação de situações existentes e cujo objetivo é
 identificar o andamento e o propósito do que está sendo realizado pelo usuário. Essas técnias costumam, também,
 avaliar a situação em pequenos detalhes e em um alto nível de abstração. Alguns exemplos delas são a análise de tarefa KLM e CMN, a árvore de
 tarefas concorrentes CTT e, principalmente, a Análise Hierárquica de Tarefas HTA.
@@ -35,6 +34,7 @@ Objetivo: Modificar um sistema existente.
 |    1.1 Informar Dados do usuário    |      -      |  
 |    1.1.1 Informar nome de usuário e senha    | Inputs: áreas descritas "nome de usuário" e "senha", action: digitar dados            |  
 |    2. clicar em fazer login    | Input: inputs: área descrita "fazer login" action: clicar em botão "fazer login"           |  
+
 Tabela 1: Elementos da abordagem GOMS
 
 ## 2. GOMS (<i>Goals, Operators, Methods and Selection Rules</i>)
@@ -49,6 +49,7 @@ Objetivos | O que o usuário pretende realizar ao utilizar o software           
 Operadores | Ações disponibilizadas pelo sistema que de fato o usuário pode realizar        |
 Métodos |  Sequências de operadores utilizadas para atingir um objetivo dentro do sistema                                         | 
 Regras de seleção | Referem-se a tomada de decisão por parte do usuário diante da possibilidade de possuir mais de um método para utilizar |
+
 Tabela 2: Elementos da abordagem GOMS
 
 ### 3.1 KLM - GOS
@@ -65,6 +66,7 @@ acompanhados do tempo médio para execução, elementos dessa estratégia, const
 *M*  | Preparação mental       | 1,20s |
 *T(n)*  | Digitação de cadeia de caracteres        |   (n x K) s    |
 *W(t)*  | Espera do usuário pela resposta do sistema        | dependente do sistema      |
+
 Tabela 3: Elementos da implementação KLM - GOS
 
 #### 3.1.1 Análise de tarefa: consultar salário de servidor
@@ -77,7 +79,8 @@ Tabela 3: Elementos da implementação KLM - GOS
 *B*  | soltar o botão "Servidores"        | 0,05s |
 *P*  | levar o mouse até o link do portal da transparência        |   0,05s |
 *B*  | soltar o link do portal da transparência        | 0,05s |
-Tabela 2: Elementos da implementação KLM - GOS para a consulta de salário de servidor
+
+Tabela 4: Elementos da implementação KLM - GOS para a consulta de salário de servidor
 
 ### 3.2 CMN - GOS
 
@@ -95,7 +98,6 @@ Goal 0: Consultar salário de servidor
         OP: Levar o cursor até o botão "Servidores" .
         OP: Levar o mouse até o link do portal da transparência.
         OP: clicar com o botão direito do mouse.
-        
 ~~~
 
 ## Referencias
