@@ -8,16 +8,40 @@ identificar o andamento e o propósito do que está sendo realizado pelo usuári
 avaliar a situação em pequenos detalhes e em um alto nível de abstração. Alguns exemplos delas são a análise de tarefa KLM e CMN, a árvore de
 tarefas concorrentes CTT e, principalmente, a Análise Hierárquica de Tarefas HTA.
 
-Barbosa e Silva [2] complementa a afirmação de Pierce [1] ao pontuar que a análise
+Barbosa e Silva [2] complementa a afirmação de Pierce ao pontuar que a análise
 de tarefas pode ser utilizada para a análise da situação atual, para o (re)design
 de um sistema computacional ou para a avaliação do resultado de uma intervenção que inclua a introdução de um (novo) sistema
 computacional.
 
-## 3. GOMS (<i>Goals, Operators, Methods and Selection Rules</i>)
+## 2. Análise Hierárquica de tarefas (HTA)
+
+Auxilia a indentificar o que as pessoas fazem, o porquê e as consequências caso não façam corretamente, ideia baseada na psicologia funcional. Nesse tipo de análise são utilizadas tarefas, onde são definidas como pequenas partes do trabalho que precisam ser realizadas, ou objetivos. Segundo diaper podemos utilizar da decomposição de tarefas ou redescrição para dividir em objetivos e subobjetivos tarefas mais complexas.
+
+O HTA busca examinar objetivos de alto nível e decompor estes em subojetivos, subojetivos são relacionados com outros objetivos indicando um plano, que definem os subojetivos para que os objetivos maiores sejam atingidos.
+
+Segundo dados obtidos através do questionário é podemos inferir que a funcionalidade intranet é a mais utilizada pelos usuário e será nosso objeto de estudo para a
+Objetivo: Modificar um sistema existente.
+
+#### Representação Gráfica
+
+![image](https://user-images.githubusercontent.com/60429513/180089432-2413ef7c-8188-4e37-88b7-f13d0ef10c1e.png)
+
+#### Tabela
+
+| Objetivo | input / Action / feedback / Problema                                       |     
+|--------|------------|
+|    0. Logar no Intranet    |      -      |  
+|    1. acessar página  intranet    | Input: área descrita "intranet", action: clicar no botão "intranet", Problema: pequena caixa para inserir nome de usuário e senha , Recomendação: utilizar uma pagina facilitando a visualização para usuários com problema de vista          | 
+|    1.1 Informar Dados do usuário    |      -      |  
+|    1.1.1 Informar nome de usuário e senha    | Inputs: áreas descritas "nome de usuário" e "senha", action: digitar dados            |  
+|    2. clicar em fazer login    | Input: inputs: área descrita "fazer login" action: clicar em botão "fazer login"           |  
+Tabela 1: Elementos da abordagem GOMS
+
+## 2. GOMS (<i>Goals, Operators, Methods and Selection Rules</i>)
 
 Trata-se de um método para descrever tarefas que pontua o conhecimento do usuário
 sobre como realizá-la tendo em vista seus objetivos (<i>goals</i>), os operadores utilizados (<i>operators</i>),
-os métodos (<i>methods</i>) disponíveis e as regras de seleção (<i>selection rules</i>), cuja descrição consta na Tabela 1.
+os métodos (<i>methods</i>) disponíveis e as regras de seleção (<i>selection rules</i>), cuja descrição consta na Tabela 2.
 
 |Elementos |                                  Descrição                                  |
 | :------: |:----------------------------------------------------------------------------:|
@@ -25,11 +49,11 @@ Objetivos | O que o usuário pretende realizar ao utilizar o software           
 Operadores | Ações disponibilizadas pelo sistema que de fato o usuário pode realizar        |
 Métodos |  Sequências de operadores utilizadas para atingir um objetivo dentro do sistema                                         | 
 Regras de seleção | Referem-se a tomada de decisão por parte do usuário diante da possibilidade de possuir mais de um método para utilizar |
-_Tabela 1: Elementos da abordagem GOMS_
+Tabela 2: Elementos da abordagem GOMS
 
 ### 3.1 KLM - GOS
 
-Estratégia prática que implementa os princípios do GOMS limitando os operadores a um conjunto pré-definido. O nome e a descrição 
+Estratégia prática que implementa os princípios do GOMS limitando os operadores a um conjunto pré-definido. O nome e a descrição
 acompanhados do tempo médio para execução, elementos dessa estratégia, constam na Tabela 2.
 
 |Operador |                                  Descrição                                  | Tempo médio para execução |
@@ -41,7 +65,7 @@ acompanhados do tempo médio para execução, elementos dessa estratégia, const
 *M*  | Preparação mental       | 1,20s |
 *T(n)*  | Digitação de cadeia de caracteres        |   (n x K) s    |
 *W(t)*  | Espera do usuário pela resposta do sistema        | dependente do sistema      |
-Tabela 1: Elementos da implementação KLM - GOS
+Tabela 3: Elementos da implementação KLM - GOS
 
 #### 3.1.1 Análise de tarefa: consultar salário de servidor
 
@@ -57,9 +81,9 @@ Tabela 2: Elementos da implementação KLM - GOS para a consulta de salário de 
 
 ### 3.2 CMN - GOS
 
-O CMN-GOMS possui uma hierarquia estrita de objetivos na qual os operadores são executados 
-estritamente em ordem sequencial e os métodos são representados numa notação semelhante 
-a um pseudocódigo, que inclui submétodos e condicionais. 
+O CMN-GOMS possui uma hierarquia estrita de objetivos na qual os operadores são executados
+estritamente em ordem sequencial e os métodos são representados numa notação semelhante
+a um pseudocódigo, que inclui submétodos e condicionais.
 
 #### 3.1.1 Análise de tarefa: consultar salário de servidor
 
@@ -74,8 +98,13 @@ Goal 0: Consultar salário de servidor
         
 ~~~
 
+## Referencias
+
+Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.R
+
 ## Histórico de Versões
 
 | Versão | Data       | Descrição                                              | Autor                    |
 |--------|------------|--------------------------------------------------------|--------------------------|
-|  1.0      |  18/07/2022          |  Criação e documentação das primeiras análises |   Nicolas Mantzos                       |
+|    1.0    |  20/07          |    Análise de tarefas                                                     |  Arthur                        |
+|    1.1    |  20/07          |    Adição de novas estratégias                                                    |  Nícolas Mantzos                        |
