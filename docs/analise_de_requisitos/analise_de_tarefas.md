@@ -48,10 +48,10 @@ os métodos (<i>methods</i>) disponíveis e as regras de seleção (<i>selection
 
 |Elementos |                                  Descrição                                  |
 | :------: |:----------------------------------------------------------------------------:|
-Objetivos | O que o usuário pretende realizar ao utilizar o software                        |         
-Operadores | Ações disponibilizadas pelo sistema que de fato o usuário pode realizar        |
-Métodos |  Sequências de operadores utilizadas para atingir um objetivo dentro do sistema                                         | 
-Regras de seleção | Referem-se a tomada de decisão por parte do usuário diante da possibilidade de possuir mais de um método para utilizar |
+Objetivos (<i>Goal</i>)| O que o usuário pretende realizar ao utilizar o software                        |         
+Operadores (<i>OP</i>)  | Ações disponibilizadas pelo sistema que de fato o usuário pode realizar        |
+Métodos (<i>METHOD</i>) |  Sequências de operadores utilizadas para atingir um objetivo dentro do sistema                                         | 
+Regras de seleção (<i>SEL.RULE</i>) | Referem-se a tomada de decisão por parte do usuário diante da possibilidade de possuir mais de um método para utilizar |
 
 Tabela 2: Elementos da abordagem GOMS
 
@@ -112,4 +112,4 @@ Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; B
 | Versão | Data       | Descrição                                              | Autor                    |
 |--------|------------|--------------------------------------------------------|--------------------------|
 |    1.0    |  20/07          |    Análise de tarefas                                                     |  Arthur                        |
-|    1.1    |  20/07          |    Adição de novas estratégias                                                    |  Nícolas Mantzos                        |
+|    1.1    |  20/07          |    Adição de novas estratégias                                            |  Nícolas Mantzos                        |
