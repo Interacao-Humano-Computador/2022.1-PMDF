@@ -1,5 +1,3 @@
-# PMDF
-
 [Acesse nosso Repositório!](https://github.com/Interacao-Humano-Computador/2022.1-PMDF)
 
 <!-- background image -->
