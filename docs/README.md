@@ -1,6 +1,6 @@
 <p align="center">
     <a href="http://www.pmdf.df.gov.br/" target="_blank">
-        <img src="_media/concurso-PMDF.png" height="170px" alt="Logo da PMDF"/>
+        <img src="_media/pmdf_logo2.png" height="170px" alt="Logo da PMDF"/>
     </a>
 </p>
 
