@@ -21,11 +21,14 @@ O HTA busca examinar objetivos de alto nível e decompor estes em subojetivos, s
 Segundo dados obtidos através do questionário é podemos inferir que a funcionalidade intranet é a mais utilizada pelos usuário e será nosso objeto de estudo para a
 Objetivo: Modificar um sistema existente.
 
+
+### 2.1 Objetivo: Logar na Intranet
+
 #### Representação Gráfica
 
 ![image](https://user-images.githubusercontent.com/60429513/180089432-2413ef7c-8188-4e37-88b7-f13d0ef10c1e.png)
 
-#### Tabela
+#### Representação Textual
 
 | Objetivo | input / Action / feedback / Problema                                       |     
 |--------|------------|
@@ -35,7 +38,7 @@ Objetivo: Modificar um sistema existente.
 |    1.1.1 Informar nome de usuário e senha    | Inputs: áreas descritas "nome de usuário" e "senha", action: digitar dados            |  
 |    2. clicar em fazer login    | Input: inputs: área descrita "fazer login" action: clicar em botão "fazer login"           |  
 
-Tabela 1: Elementos da abordagem GOMS
+Tabela 1: Elementos do objetivo - logar na intranet
 
 ## 2. GOMS (<i>Goals, Operators, Methods and Selection Rules</i>)
 
