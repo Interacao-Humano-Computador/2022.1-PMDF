@@ -8,7 +8,7 @@
   - [Processo de Design](planejamento/processoDesign.md)
   - [Sites Avaliados](planejamento/sitesAvaliados.md)
 - **Análise de Requisitos**
+  - [Perfil do Usuário](analise_de_requisitos/perfil_do_usuario.md)
   - [Personas](analise_de_requisitos/personas.md)
   - [Aspectos Éticos de Pesquisas com Pessoas](analise_de_requisitos/aspectos_eticos.md)
-  - [Perfil do Usuário](analise_de_requisitos/perfil_do_usuario.md)
   - [Análise de Tarefas](analise_de_requisitos/analise_de_tarefas.md)
