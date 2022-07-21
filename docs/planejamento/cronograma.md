@@ -53,26 +53,25 @@ _Tabela 2: Primeira Etapa_
 
 A tabela 3 correspondente às atividades da primeira etapa do projeto no 20/07/2022.
 
-| Data  | Atividade                          | Responsáveis        | Revisores |
-| ----- | ---------------------------------- | ------------------- | --------- |
-| 19/07 | Perfil do usuário                  | Leonardo            | Guilherme |
-| 20/07 | Análise de tarefas                 | Guilherme e Nicolas | Bernardo  |
-| 18/07 | Entrevista                         | Leonardo            | Nicolas   |
-| 18/07 | Questionário                       | Leonardo e Arthur   | Todos     |
-| 19/07 | Personas                           | Leonardo            | Bernardo  |
-| 19/07 | Aspectos éticos                    | Leonardo            | Todos     |
-| 20/07 | Cronograma de atividades da equipe | Cícero              | Todos     |
-| 20/07 | Gravação da entrega                | Todos               | Todos     |
+| Data  | Atividade                          | Responsáveis      | Revisores |
+| ----- | ---------------------------------- |-------------------| --------- |
+| 19/07 | Perfil do usuário                  | Leonardo          | Guilherme |
+| 20/07 | Análise de tarefas                 | Arthur e Nicolas  | Bernardo  |
+| 18/07 | Entrevista                         | Leonardo          | Nicolas   |
+| 18/07 | Questionário                       | Leonardo e Arthur | Todos     |
+| 19/07 | Personas                           | Leonardo          | Bernardo  |
+| 19/07 | Aspectos éticos                    | Leonardo          | Todos     |
+| 20/07 | Cronograma de atividades da equipe | Cícero            | Todos     |
+| 20/07 | Gravação da entrega                | Todos             | Todos     |
 
 _Tabela 3: Segunda Etapa_
 
-## 3. Roadmap e Sprints
+## 3. Sprints
 
-O quadro kaban e o roadmap são elementos que irão nos ajudar durante o desenvolvimento do projeto, explicados melhor na seção de metodologia. Nessa seção será apresentado o desenvolvimento dos dois com o passar das entregas.
+O quadro kaban e o roadmap são elementos que irão nos ajudar durante o desenvolvimento do projeto, explicados melhor na seção de metodologia. 
+Nessa seção será apresentado o desenvolvimento dos dois com o passar das entregas.
 
-### 3.2 Sprints
-
-#### 3.2.1 Sprint 1
+### 3.1 Sprint 1
 
 O backlog da sprint 1 está apresentado na _Figura 1_, e o seu quadro kanbak final apresentado na _Figura 2_ .
 
@@ -84,7 +83,7 @@ O backlog da sprint 1 está apresentado na _Figura 1_, e o seu quadro kanbak fin
 | ---------------------------------------------- |
 | _Figura 2: kaban da sprint 1_                  |
 
-#### 3.2.2 Sprint 2
+### 3.2 Sprint 2
 
 O backlog da sprint 2 representado na _Figura 3_ e na _Figura 4_ o kanban board.
 

@@ -1,11 +1,11 @@
 # Perfil do Usuário
 
-## Introdução
+## 1. Introdução
 
 O perfil de usuário é uma descrição detalhada das características dos usuários
 cujos objetivos devem ser apoiados pelo sistema sendo projetado. Sendo assim, deve-se identificar as características de interesse (e.g., cargo, função, experiência, nível de instrução, atividades principais, faixa etária etc.) e conduzir um estudo (e.g., através de entrevistas e questionários) para coletar os dados dos usuários. (Barbosa, 2021)
 
-## Questionário 
+## 2. Questionário 
 
 O questionário consiste em construir perguntas, podendo ser abertas ou fechadas, para coletar dados dos usuários e enfim chegar em uma conclusão sobre eles. Então, a partir de perguntas fechadas, o objetivo das perguntas realizadas foi entender as características dos usuários e definir os perfis nos quais eles se enquadram.
 
@@ -29,7 +29,7 @@ O perfil A está mais relacionado com os usuários finais do site da PMDF, afina
 o sistema e portanto possuem uma funcionalidade mais acessada. Enquanto que o perfil B, é baseado em estudantes que 
 não acessam a aplicação e, então, não são considerados o público-alvo. 
 
-## Entrevista
+## 3. Entrevista
 
 A entrevista é considerada uma conversa guiada por um roteiro de perguntas ou tópicos, na qual um entrevistador	busca	obter informações de um	entrevistado. Sendo assim, ela permite coletar muitas informações detalhadas e profundas de usuários individuais, mais do que questionários e grupos de foco. (Barbosa, 2021)
 
@@ -47,9 +47,9 @@ As perguntas definidas pelo Roteiro Estruturado foram:
 - Qual sua opinião sobre a estrutura e design site?
 - Você já possuiu alguma dificuldade em relação ao acesso do site?
 
-## Execução 
+## 4. Execução 
 
-### Entrevista 1
+### 4.1 Entrevista 1
 
 **Qual seu nome?**
 
@@ -87,7 +87,7 @@ As perguntas definidas pelo Roteiro Estruturado foram:
 
 "Não, de vez em quando cai um pouco, mas quando ela ta em funcionalidade, fica tranquilo".
 
-### Entrevista 2
+### 4.2 Entrevista 2
 
 **Qual seu nome?**
 
@@ -125,7 +125,7 @@ As perguntas definidas pelo Roteiro Estruturado foram:
 
 "Algumas vezes, quando acessei ficou fora do ar".
 
-## Vídeos 
+## 5. Vídeos 
 
 A execução das entrevistas pode ser acessada no links:
 

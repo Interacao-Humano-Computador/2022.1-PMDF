@@ -4,7 +4,7 @@
 
 <!-- background image -->
 
-![logo_cover](_media/pmdf_logo.png)
+![logo_cover](_media/concurso-PMDF.png)
 
 <!-- background color -->
 
