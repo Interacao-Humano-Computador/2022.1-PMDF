@@ -103,7 +103,7 @@ Goal 0: Consultar salário de servidor
         OP: clicar com o botão direito do mouse.
 ~~~
 
-## Referencias
+## Referências Bibliograficas
 
 Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.R
 
