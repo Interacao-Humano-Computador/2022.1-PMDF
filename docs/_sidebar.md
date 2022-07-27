@@ -13,3 +13,4 @@
   - [Aspectos Éticos de Pesquisas com Pessoas](analise_de_requisitos/aspectos_eticos.md)
   - [Análise de Tarefas](analise_de_requisitos/analise_de_tarefas.md)
   - [Guia de Estilo](analise_de_requisitos/guia_de_estilo.md)
+  - [Metas de Usabilidade](analise_de_requisitos/metas_de_usabilidade.md)
