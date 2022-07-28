@@ -13,15 +13,15 @@ O questionário consiste em construir perguntas, podendo ser abertas ou fechadas
 
 O questionário foi realizado via Google Forms, e tendo em vista os resultados obtidos, dois perfis principais foram identificados. A *tabela 1* explicita as respectivas caracterísitcas do perfil A e B.
 
-| Perfil| A | B |
-| -------- | -------- | -------- |
-| Profissão | Predominante policial | Predominante estudante | 
-| Faixa etária | de 30 até 60 anos | de 18 até 29 anos | 
-| Escolaridade | Ensino Superior Completo | Ensino Superior Incompleto | 
-| Já acessou o site | 59,3% | 31,9% | 
-| Funcionalidade mais acessada | Intranet | Nenhuma | 
-| Experiência com tecnologia; 1: leigo/novato 5: especialista | 3 | 4 |
-| Atitude perante tecnologia; 1: não gosto 5: gosto           | 3 | 4 |
+| Perfil                                                      | A                        | B                          |
+|-------------------------------------------------------------|--------------------------|----------------------------|
+| Profissão                                                   | Predominante policial    | Predominante estudante     | 
+| Faixa etária                                                | de 30 até 60 anos        | de 18 até 29 anos          | 
+| Escolaridade                                                | Ensino Superior Completo | Ensino Superior Incompleto | 
+| Já acessou o site                                           | 59,3%                    | 31,9%                      | 
+| Funcionalidade mais acessada                                | Intranet                 | Nenhuma                    | 
+| Experiência com tecnologia; 1: leigo/novato 5: especialista | 3                        | 4                          |
+| Atitude perante tecnologia; 1: não gosto 5: gosto           | 3                        | 4                          |
 
 *Tabela 1 - Perfil do Usuário*
 

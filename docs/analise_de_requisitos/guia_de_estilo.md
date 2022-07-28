@@ -16,19 +16,51 @@ considera os seguintes elementos:
 - visualização de informação: design de gráficos, diagramas e mapas;
 - design de telas e elementos de interface (widgets).
 
-## 2. Análise
+## 2. Considerações
+O desenvolvimento de desse artefato se deu com intermédio do Guia de Estilo do Portal Institucional Padrão, uma vez que
+o site análisado é institucional, e por isso deve seguir padrões estipulados pelo Guia. Desse modo, toda a análise do site 
+foi feita levando o "Guia de Estilo do Portal Institucional Padrão" em consideração.
 
-### 2.1 Layout
 
-### 2.2 Tipografia
+## 3. Análise
 
-### 2.3 Simbolismo
+### 3.1 Layout
+O layout do site da PMDF (Figura 1) é disposto em uma grid (Figura 2), onde pode ser identificado 4 partes:
+1. Menu Lateral
+2. Área de Conteúdo
+3. Cabeçalho
+4. Rodapé
 
-### 2.4 Cores
+|       ![foto do site da PMDF](../_media/grid_site_pmdf2.png)        | ![grid do site da PMDF](../_media/grid_site_pmdf.png)                                        |
+|:-------------------------------------------------------------------:|----------------------------------------------------------------------------------------------|
+| Figura 1: Foto do site da PMDF; Fonte: http://www.pmdf.df.gov.br/ . | Figura 2: Exemplo de Grid; Fonte: Pág 15 do "Guia de Estilo do Portal Institucional Padrão". |
 
-### 2.5 Visualização de Informação
+> Conclusão: Esse layout é simples e funcional, visto que as informações em destaque de cada página estarão 
+> visíveis no centro da tela. Também vale mencionar que estilo de grid padrão estabelecido pelo "Guia de Estilo do Portal Institucional Padrão".
 
-### 2.6 Design de Telas e Elementos de Interface
+### 3.2 Tipografia
+O site usa 3 fontes principais: Open Sans, Arial e Myriad Pro.
+- A fonte Open sans é utilizada na maioria do site, títulos, subtitulos, textos corridos, menus.
+- A fonte Arial é somente em um menu de navegação pela página.
+- A fonte Myriad Pro é usada no menu de navegação para outros site do governo.
+
+|                     ![foto do site da PMDF](../_media/utilizacao_de_fontes.png)                     |
+|:---------------------------------------------------------------------------------------------------:|
+| Figura 3: Recomendação de fontes; Fonte: Pág 25 do "Guia de Estilo do Portal Institucional Padrão". |
+
+
+>Conclusão: Apesar do site utilizar da fontes recomendadas pelo Guia de Estilo do Portal Institucional Padrão, as recomendações quando à
+> detalhada dessas fontes não é seguida, como pode ser observado na _Figura 3_. A fonte Open Sans é utilizada em títulos de páginas, títulos de módulos e links de navegação - itens
+> de menu, links de cabeçalho (header), rodapé (footer), módulos, etc. - e textos secundários. A fonte Arial é utilizada em chamadas, linhas finas
+> e textos corridos.(Guia de Estilo do Portal Institucional Padrão)
+
+### 3.3 Simbolismo
+
+### 3.4 Cores
+
+### 3.5 Visualização de Informação
+
+### 3.6 Design de Telas e Elementos de Interface
 
 ## Referências Bibliograficas
 
@@ -37,6 +69,7 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                      | Autor             |
-|--------|------------|--------------------------------|-------------------|
-|  1.0   | 27/07/2022 | Criação da página e introdução | Bernardo Pissutti |
+| Versão | Data       | Descrição                                                                 | Autor               |
+|--------|------------|---------------------------------------------------------------------------|---------------------|
+| 1.0    | 27/07/2022 | Criação da página e introdução                                            | Bernardo Pissutti   |
+| 1.1    | 28/07/2022 | Adição da secão "considerações" e documentação do layout, tipografia      | Bernardo Pissutti   |

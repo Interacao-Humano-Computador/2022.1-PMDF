@@ -40,7 +40,7 @@ Objetivo: Modificar um sistema existente.
 
 Tabela 1: Elementos do objetivo - logar na intranet
 
-## 2. GOMS (<i>Goals, Operators, Methods and Selection Rules</i>)
+## 3. GOMS (<i>Goals, Operators, Methods and Selection Rules</i>)
 
 Trata-se de um método para descrever tarefas que pontua o conhecimento do usuário
 sobre como realizá-la tendo em vista seus objetivos (<i>goals</i>), os operadores utilizados (<i>operators</i>),
