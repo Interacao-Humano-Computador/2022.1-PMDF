@@ -70,12 +70,13 @@ _Tabela 3: Segunda Etapa_
 
 A tabela 4 correspondente às atividades da terceira etapa do projeto no 01/08/2022.
 
-| Data  | Atividade            | Responsáveis       | Revisores          |
-| ----- | -------------------- | ------------------ | ------------------ |
-| 28/07 | Princípios gerais    | Cícero e Guilherme | Bernardo e Arthur  |
-| 29/07 | Guia de estilo       | Bernardo e Arthur  | Nicolas e Leonardo |
-| 29/07 | Metas de Usabilidade | Nicolas e Leonardo | Guilherme e Cícero |
-| 30/07 | Gravação da entrega  | Todos              | Todos              |
+| Data  | Atividade                      | Responsáveis       | Revisores          |
+| ----- | ------------------------------ | ------------------ | ------------------ |
+| 28/07 | Princípios gerais              | Cícero e Guilherme | Bernardo e Arthur  |
+| 29/07 | Guia de estilo                 | Bernardo e Arthur  | Nicolas e Leonardo |
+| 29/07 | Metas de Usabilidade           | Nicolas e Leonardo | Guilherme e Cícero |
+| 28/07 | Cronograma de entrega sprint 3 | Cícero             | Todos              |
+| 30/07 | Gravação da entrega            | Todos              | Todos              |
 
 _Tabela 4: Terceira Etapa_
 
