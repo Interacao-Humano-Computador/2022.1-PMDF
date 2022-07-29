@@ -114,12 +114,12 @@ O backlog da sprint 2 representado na _Figura 3_ e na _Figura 4_ o kanban board.
 O backlog da sprint 3 representado na _Figura 5_ e na _Figura 6_ o kanban board.
 
 | ![image](../_media/backLogSprint3IHC.png) |
-| ----------------------------------------- |
-| _Figura 3: backlog da sprint 3_           |
+|-------------------------------------------|
+| _Figura 5: backlog da sprint 3_           |
 
 | ![image](../_media/quadroKanbanSprint3IHC.png) |
-| ---------------------------------------------- |
-| _Figura 4: quadro kanban da sprint 3_          |
+|------------------------------------------------|
+| _Figura 6: quadro kanban da sprint 3_          |
 
 ## Histórico de Versões
 

@@ -59,6 +59,21 @@ O site usa 3 fontes principais: Open Sans, Arial e Myriad Pro.
 > e textos corridos.(Guia de Estilo do Portal Institucional Padrão)
 
 ### 3.3 Simbolismo
+O site utiliza ícones para direcionar o usuário a outras mídias (Figura 4) e ícones para acessar serviços e aplicações (Figura 5). O acesso
+a outras páginas do site não possuem ícones.
+
+|                   ![foto do site da PMDF](../_media/icone_pmdf1.png)                   | ![foto do site da PMDF](../_media/icone_pmdf2.png)                                        |
+|:--------------------------------------------------------------------------------------:|-------------------------------------------------------------------------------------------|
+| Figura 4: ícone que direciona para outras mídias; Fonte:  http://www.pmdf.df.gov.br/ . | Figura 5: ícones para acessar serviços e aplicações; Fonte:  http://www.pmdf.df.gov.br/ . |
+
+|                         ![foto do site da PMDF](../_media/icone_pmdf3.png)                          |
+|:---------------------------------------------------------------------------------------------------:|
+| Figura 6: Recomendação de icones; Fonte: Pág 31 do "Guia de Estilo do Portal Institucional Padrão". |
+
+> Conclusão: O site possui exemplos de aplicação de ícones, no entanto não são ícones padronizados e não são utilizados amplamente em todo o site.
+> Segundo o Guia a utilização de pictogramas auxiliam no entendimento do conteúdo, por isso é importante ter em mente os casos de utilização deles (Figura 6).
+> É importante salientar que para os casos nos quais não existam ícones pré-estabelecidos, os mesmos poder ser criados baseando-se na utilização de no máximo
+> duas cores (quando cercado de quadrado colorido), na simplicidade e na manutenção de áreas de respiro, como presentes nos ícones da _Figura 6_.
 
 ### 3.4 Cores
 

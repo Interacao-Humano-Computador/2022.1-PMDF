@@ -11,7 +11,7 @@ entre controle e liberdade do usuário; consistência e padronização; promoç�
 antecipação das necessidades do usuário; visibilidade e reconhecimento; conteúdo relevante e expressão
 adequada; e projeto para erros. (Barbosa, 2021)
 
-## Tópicos dos princípios
+## 2. Tópicos dos princípios
 
 Agora, serão apresentados os tópicos que os princípios e diretrizes giram em torno:
 
