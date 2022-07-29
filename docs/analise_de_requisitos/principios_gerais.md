@@ -133,3 +133,4 @@ edition.
 | Versão | Data       | Descrição         | Autor  |
 | ------ | ---------- | ----------------- | ------ |
 | 1.0    | 28/07/2022 | Criação da página | Cícero |
+| 1.0    | 29/07/2022 | Inserção de Tópicos 2.5 a 2.8| Guilherme Brito |
