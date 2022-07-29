@@ -51,35 +51,25 @@ nomes de comandos e das opções de menu.
 
 ### Eficácia
 
-Objetivo: Avaliar se o sistema de fato facilita a organização e gerenciamento de tarefas e objetivos.
-
-Resultado: O conjunto de funcionalidades dispostas pelo Notion, que facilitam desde a concepção até a deleção
-de páginas, auxiliam a organização e gerenciamento de tarefas e objetivos.
+O site da PMDF de fato exibe informações a respeito de funcionários, auditorias, convênios, despesas, licitações etc com alta taxa
+de disponibilidade.
 
 ### Eficiência
 
-Objetivo: Avaliar se o sistema facilita a organização e gerenciamento de tarefas e objetivos sem maiores complicações, 
-permitindo que o usuário cadastre, encontre, edite e associe o que deseja rapidamente.
-
-Resultado: A interface amigável do Notion aliada ao seu inteligente sistema de histórico, muito bom em mostrar as ações passadas e prever as futuras,
-o torna eficiente.
+O site da PMDF exibe informações a respeito de funcionários, auditorias, convênios, despesas, licitações etc
+sem maiores complicações, permitindo que o usuário filtre e encontre o que deseja rapidamente.
 
 ### Segurança
 
-Objetivo: Avaliar se, enquanto o sistema auxilia a organização e gerenciamento de tarefas e objetivos, ele sugere rápidas correções aos erros cometidos pelo usuário ou, 
-na melhor das hipóteses, previne que ele os cometa.
-
-Resultado: Não há clara indicação na interface de como desfazer as ações realizadas, muitas vezes levando o usuário a "apelar" para recursos
-como o ctrl + z.
+Há poucos ou, muitas vezes não há, recursos para que o usuário desfaça o que fez, tendo que 
+por vezes recorrer a recursos do navegador para transitar entre telas, limpar campos etc
 
 ### Utilidade
 
 ### Aprendizagem
 
-Objetivo: Avaliar se, enquanto o sistema auxilia a organização e gerenciamento de tarefas e objetivos, suas funcionalidades são de fácil absorção e entendimento.
-
-Resultado: Há uma inegável facilidade quanto às operações do tipo CRUD, mas os tutoriais fornecem poucas informações quanto à associação de páginas, sobretudo as de tipos distintos.
-Sendo essa uma funcionalidade fundamental, há um grande déficit no meta de aprendizagem.
+A interface é de fácil apreensão e possuí diversos recursos que indicam onde e como cada tipo de operação, desde a busca até a
+consulta, deve ser realizada. 
 
 ### Memorização
 
