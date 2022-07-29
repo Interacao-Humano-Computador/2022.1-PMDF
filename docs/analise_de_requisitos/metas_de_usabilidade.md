@@ -67,7 +67,7 @@ por vezes recorrer a recursos do navegador para transitar entre telas, limpar ca
 ### Utilidade
 
 O site da PMDF de fato exibe informações a respeito de funcionários, auditorias, convênios, despesas, licitações etc e com alta taxa
-de disponibilidade.
+de disponibilidade, o que é util para agentes interessados nessas informações.
 
 ### Aprendizagem
 
