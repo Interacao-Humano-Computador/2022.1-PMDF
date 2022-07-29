@@ -8,23 +8,23 @@ O cronograma geral das atividades indica as atividades que serão executadas dur
 
 ### 1.1 Entregas e Apresentações da disciplina
 
-| Data  | Atividade                                                                                                                                                                                                                                                                            |
-| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 11/07 | Entrega da apresentação do projeto etapa 1: Planejamento do Projeto, equipe, litas de sites avaliados, site selecionado para o projeto da disciplina, Ferramentas do projeto, Processo de Design, cronograma das atividades.                                                         |
-| 12/07 | Apresentação do projeto etapa 1: planejamento do projeto e do Processo de Design                                                                                                                                                                                                     |
-| 20/07 | Entrega da apresentação do projeto etapa 2: Perfil do usuário, Aspectos Éticos de Pesquisas Envolvendo Pessoas,Personas e Análise de tarefas                                                                                                                                         |
-| 21/07 | Apresentação do projeto etapa 2: Perfil do usuário, Aspectos Éticos de Pesquisas com Pessoas, Personas e Análise de tarefas                                                                                                                                                          |
-| 01/08 | Entrega da apresentação do projeto etapa 3: Princípios Gerais de Projeto, Metas de usabilidade, Guia de Estilo. (Fase: análise de requisitos)                                                                                                                                        |
-| 02/08 | Apresentação do projeto etapa 3: Princípios Gerais de Projeto, Metas de usabilidade, Guia de Estilo. (Fase: análise de requisitos)                                                                                                                                                   |
-| 09/08 | Apresentação do projeto etapa 4: : Planejamento da Avaliação do Storyboard e Análise de tarefas, planejamento do relato dos resultados da avaliação do Storyboard e o planejamento do relato dos resultados da avaliação do Análise de tarefas                                       |
-| 11/08 | Entrega da apresentação do projeto etapa 4: Planejamento da Avaliação do Storyboard, o planejamento do relato dos resultados da avaliação do Storyboard,Planejamento da Avaliação do Análise de tarefas e o planejamento do relato dosresultados da avaliação do Análise de tarefas. |
-| 17/08 | Entrega da apresentação do projeto 5: Relato dos resultados do Story Board e da Análise de tarefas, o Planejamento da Avaliação do Protótipo de Papel e do Planejamento do relato dos resultados da avaliação do Protótipo de Papel.                                                 |
-| 18/08 | Apresentação do projeto etapa 5: Relato dos resultados do Story Board e da Análise de tarefas, o Planejamento da Avaliação do Protótipo de Papel e do planejamento do relato dos resultados da avaliação do Protótipo de Papel                                                       |
-| 22/08 | Entrega da apresentação do projeto 6: Verificação dos artefatos                                                                                                                                                                                                                      |
-| 23/08 | Apresentação do projeto etapa 6: Verificação dos artefatos                                                                                                                                                                                                                           |
-| 22/08 | Entrega da apresentação do projeto 7: Relato dos resultados do Protótipo de Papel, o Planejamento da Avaliação do protótipo de alta fidelidade e o planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade.                                               |
-| 12/09 | Entrega da apresentação do projeto finals                                                                                                                                                                                                                                            |
-| 06/09 | Apresentação do projeto etapa 7: Relato dos resultados do Protótipo de Papel, o Planejamento da Avaliação do protótipo de alta fidelidade e o Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade                                                     |
+| Data  | Atividade                                                                                                                                                                                                                                                                             |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 11/07 | Entrega da apresentação do projeto etapa 1: Planejamento do Projeto, equipe, litas de sites avaliados, site selecionado para o projeto da disciplina, Ferramentas do projeto, Processo de Design, cronograma das atividades.                                                          |
+| 12/07 | Apresentação do projeto etapa 1: planejamento do projeto e do Processo de Design                                                                                                                                                                                                      |
+| 20/07 | Entrega da apresentação do projeto etapa 2: Perfil do usuário, Aspectos Éticos de Pesquisas Envolvendo Pessoas,Personas e Análise de tarefas                                                                                                                                          |
+| 21/07 | Apresentação do projeto etapa 2: Perfil do usuário, Aspectos Éticos de Pesquisas com Pessoas, Personas e Análise de tarefas                                                                                                                                                           |
+| 01/08 | Entrega da apresentação do projeto etapa 3: Princípios Gerais de Projeto, Metas de usabilidade, Guia de Estilo. (Fase: análise de requisitos)                                                                                                                                         |
+| 02/08 | Apresentação do projeto etapa 3: Princípios Gerais de Projeto, Metas de usabilidade, Guia de Estilo. (Fase: análise de requisitos)                                                                                                                                                    |
+| 09/08 | Apresentação do projeto etapa 4: : Planejamento da Avaliação do Storyboard e Análise de tarefas, planejamento do relato dos resultados da avaliação do Storyboard e o planejamento do relato dos resultados da avaliação do Análise de tarefas                                        |
+| 11/08 | Entrega da apresentação do projeto etapa 4: Planejamento da Avaliação do Storyboard, o planejamento do relato dos resultados da avaliação do Storyboard,Planejamento da Avaliação do Análise de tarefas e o planejamento do relato dos resultados da avaliação do Análise de tarefas. |
+| 17/08 | Entrega da apresentação do projeto 5: Relato dos resultados do Story Board e da Análise de tarefas, o Planejamento da Avaliação do Protótipo de Papel e do Planejamento do relato dos resultados da avaliação do Protótipo de Papel.                                                  |
+| 18/08 | Apresentação do projeto etapa 5: Relato dos resultados do Story Board e da Análise de tarefas, o Planejamento da Avaliação do Protótipo de Papel e do planejamento do relato dos resultados da avaliação do Protótipo de Papel                                                        |
+| 22/08 | Entrega da apresentação do projeto 6: Verificação dos artefatos                                                                                                                                                                                                                       |
+| 23/08 | Apresentação do projeto etapa 6: Verificação dos artefatos                                                                                                                                                                                                                            |
+| 22/08 | Entrega da apresentação do projeto 7: Relato dos resultados do Protótipo de Papel, o Planejamento da Avaliação do protótipo de alta fidelidade e o planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade.                                                |
+| 12/09 | Entrega da apresentação do projeto finals                                                                                                                                                                                                                                             |
+| 06/09 | Apresentação do projeto etapa 7: Relato dos resultados do Protótipo de Papel, o Planejamento da Avaliação do protótipo de alta fidelidade e o Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade                                                      |
 
 _Tabela 1: Cronograma geral_
 
@@ -51,10 +51,10 @@ _Tabela 2: Primeira Etapa_
 
 ### 2.2 Segunda Etapa Do projeto
 
-A tabela 3 correspondente às atividades da primeira etapa do projeto no 20/07/2022.
+A tabela 3 correspondente às atividades da segunda etapa do projeto no 20/07/2022.
 
 | Data  | Atividade                          | Responsáveis      | Revisores |
-| ----- | ---------------------------------- |-------------------| --------- |
+| ----- | ---------------------------------- | ----------------- | --------- |
 | 19/07 | Perfil do usuário                  | Leonardo          | Guilherme |
 | 20/07 | Análise de tarefas                 | Arthur e Nicolas  | Bernardo  |
 | 18/07 | Entrevista                         | Leonardo          | Nicolas   |
@@ -66,9 +66,22 @@ A tabela 3 correspondente às atividades da primeira etapa do projeto no 20/07/2
 
 _Tabela 3: Segunda Etapa_
 
+### 2.3 Terceira Etapa Do projeto
+
+A tabela 4 correspondente às atividades da terceira etapa do projeto no 01/08/2022.
+
+| Data  | Atividade            | Responsáveis       | Revisores          |
+| ----- | -------------------- | ------------------ | ------------------ |
+| 28/07 | Princípios gerais    | Cícero e Guilherme | Bernardo e Arthur  |
+| 29/07 | Guia de estilo       | Bernardo e Arthur  | Nicolas e Leonardo |
+| 29/07 | Metas de Usabilidade | Nicolas e Leonardo | Guilherme e Cícero |
+| 30/07 | Gravação da entrega  | Todos              | Todos              |
+
+_Tabela 4: Terceira Etapa_
+
 ## 3. Sprints
 
-O quadro kaban e o roadmap são elementos que irão nos ajudar durante o desenvolvimento do projeto, explicados melhor na seção de metodologia. 
+O quadro kaban e o roadmap são elementos que irão nos ajudar durante o desenvolvimento do projeto, explicados melhor na seção de metodologia.
 Nessa seção será apresentado o desenvolvimento dos dois com o passar das entregas.
 
 ### 3.1 Sprint 1
@@ -95,9 +108,22 @@ O backlog da sprint 2 representado na _Figura 3_ e na _Figura 4_ o kanban board.
 | ---------------------------------------------- |
 | _Figura 4: quadro kanban da sprint 2_          |
 
+### 3.2 Sprint 3
+
+O backlog da sprint 3 representado na _Figura 5_ e na _Figura 6_ o kanban board.
+
+| ![image](../_media/backLogSprint3IHC.png) |
+| ----------------------------------------- |
+| _Figura 3: backlog da sprint 3_           |
+
+| ![image](../_media/quadroKanbanSprint3IHC.png) |
+| ---------------------------------------------- |
+| _Figura 4: quadro kanban da sprint 3_          |
+
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                 | Autor  |
-| ------ | ---------- | ------------------------- | ------ |
-| 1.0    | 11/07/2022 | Criação dos Cronogramas   | Arthur |
-| 1.1    | 20/07/2022 | Adição da segunda entrega | Cícero |
+| Versão | Data       | Descrição                  | Autor  |
+| ------ | ---------- | -------------------------- | ------ |
+| 1.0    | 11/07/2022 | Criação dos Cronogramas    | Arthur |
+| 1.1    | 20/07/2022 | Adição da segunda entrega  | Cícero |
+| 1.2    | 28/07/2022 | Adição da Terceira entrega | Cícero |
