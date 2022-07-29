@@ -51,13 +51,13 @@ nomes de comandos e das opções de menu.
 
 ### Eficácia
 
-O site da PMDF de fato exibe informações a respeito de funcionários, auditorias, convênios, despesas, licitações etc com alta taxa
+O site da PMDF de fato exibe informações a respeito de funcionários, auditorias, convênios, despesas, licitações etc e com alta taxa
 de disponibilidade.
 
 ### Eficiência
 
-O site da PMDF exibe informações a respeito de funcionários, auditorias, convênios, despesas, licitações etc
-sem maiores complicações, permitindo que o usuário filtre e encontre o que deseja rapidamente.
+O site exibe e permite a consulta das informações, bem como seu filtro. Porém, não há auxílio 
+através de, por exemplo, ícones explicativos ou categorias bem estruturadas, o que pode ser um dificultador e conta para a pouca eficiência.
 
 ### Segurança
 
@@ -66,6 +66,9 @@ por vezes recorrer a recursos do navegador para transitar entre telas, limpar ca
 
 ### Utilidade
 
+O site da PMDF de fato exibe informações a respeito de funcionários, auditorias, convênios, despesas, licitações etc e com alta taxa
+de disponibilidade.
+
 ### Aprendizagem
 
 A interface é de fácil apreensão e possuí diversos recursos que indicam onde e como cada tipo de operação, desde a busca até a
@@ -73,9 +76,9 @@ consulta, deve ser realizada.
 
 ### Memorização
 
-Objetivo: Avaliar se, enquanto o sistema auxilia a organização e gerenciamento de tarefas e objetivos, suas funcionalidades são de fácil absorção e entendimento.
-
-Resultado: A curva 
+Devido ao caráter universal da estrutura e funcionamento do site, o usuário pode facilmente memorizar como fazer o quê. Entretanto, 
+devido ao elevado número de ícones agrupados, supostamente da mesma natureza, há maior dificuldade de recordação a respeito de onde 
+os conteúdos estão. Tudo é, em suma, muito homogêneo e encontrar algo específico não é tão simples quanto poderia.
 
 ## Referências Bibliograficas
 
