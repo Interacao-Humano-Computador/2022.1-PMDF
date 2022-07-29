@@ -4,9 +4,7 @@
 
 A partir da perspectiva do usuário, a usabilidade visa a assegurar que produtos interativos sejam fáceis de aprender a usar, eficazes e agradáveis (Preece et. al, 2013). Já as metas ajudam a resolver problemas com a produtividade do usuário durante a utilização do sistema e motivações desse usuário para um aprendizado mais eficaz. Sendo assim, as metas de  
 
-A usabilidade se divide em seis metas: 
-
-, sendo normalmente operacionalizadas em perguntas para fornecer ao designer uma forma de avaliação dos diversos aspectos de um sistema e da experiência do usuário. 
+A usabilidade se divide em seis metas, sendo normalmente operacionalizadas em perguntas para fornecer ao designer uma forma de avaliação dos diversos aspectos de um sistema e da experiência do usuário. 
 
 ## 2. Metas de usabilidade
 
@@ -15,7 +13,7 @@ Tendo em vista as definições de meta e de usabilidade explicitadas na introdu�
 ### 2.1 Eficácia
 
 A eficácia é uma meta bastante geral e se refere a quanto um produto é bom em fazer o
-que se espera dele. A eficácia pode ser entendida também como "ser eficaz no uso". Um sistema eficaz possibilita realizar tarefas, acessar as informações necessárias, alcançar os objetivos desejados durante o uso e apredender sobre o sistema.
+que se espera dele. A eficácia pode ser entendida também como "ser eficaz no uso". Um sistema eficaz possibilita realizar as tarefas desejadas, acessar as informações necessárias, alcançar os objetivos desejados durante o uso e a predender sobre o sistema.
 
 ### 2.2 Eficiência
 
@@ -27,20 +25,20 @@ suas tarefas. A eficiência pode ser interpretada também como "ser eficiente no
 
 A segurança envolve proteger o usuário de condições perigosas e situações indesejáveis. A segurança pode ser ilustrada também como "ser segura no uso". Os produtos
 interativos mais seguros envolvem prevenir que o usuário cometa erros
-graves, reduzindo o risco de que ele pressione teclas/botões errados por engano e fornecer aos usuários várias formas de recuperação caso cometam erros.
+graves, reduzindo o risco de que ele pressione teclas/botões errados por engano e fornecendo aos usuários várias formas de recuperação caso cometam erros.
 
 ### 2.4 Utilidade
 
 A utilidade refere-se à medida na qual o produto oferece o tipo certo de funcionalidade,
-de modo que os usuários possam fazer aquilo que precisam ou desejam. A utilidade pode ser exeplificada também como "ter boa utilidade". Um exemplo de
+de modo que os usuários possam fazer aquilo que precisam ou desejam. A utilidade pode ser exemplificada também como "ter boa utilidade". Um exemplo de
 produto com alta utilidade é um pacote de software de contabilidade que fornece uma
 ferramenta computacional poderosa utilizada pelos contadores para realizar declarações
 fiscais. 
 
 ### 2.5 Aprendizagem
 
-A capacidade de aprendizagem (learnability) refere-se à facilidade de aprender a usar
-um sistema. A aprendizagem pode ser identificada também como "ser fácil de aprender". É possível  medir essa facilidade em vezes que o usuário precisa acessar informações auxiliares para fazer uma tarefa. As pessoas não gostam de perder tempo aprendendo a usar um novo sistema, logo, se ele for difícil de usar, elas tendem a desistir dele. 
+A capacidade de aprendizagem (<i>learnability</i>) refere-se à facilidade de aprender a usar
+um sistema. A aprendizagem pode ser identificada também como "ser fácil de aprender". É possível medir essa facilidade em vezes que o usuário precisa acessar informações auxiliares para fazer uma tarefa. As pessoas não gostam de perder tempo aprendendo a usar um novo sistema, logo, se ele for difícil de usar, elas tendem a desistir dele. 
 
 ### 2.6 Memorização
 
@@ -49,7 +47,45 @@ de operações em diferentes estágios de uma tarefa por meio de ícones signifi
 nomes de comandos e das opções de menu.
 
 
-## Metas definidas para nosso projeto
+## Análise das metas de usabilidade no sistema
+
+### Eficácia
+
+Objetivo: Avaliar se o sistema de fato facilita a organização e gerenciamento de tarefas e objetivos.
+
+Resultado: O conjunto de funcionalidades dispostas pelo Notion, que facilitam desde a concepção até a deleção
+de páginas, auxiliam a organização e gerenciamento de tarefas e objetivos.
+
+### Eficiência
+
+Objetivo: Avaliar se o sistema facilita a organização e gerenciamento de tarefas e objetivos sem maiores complicações, 
+permitindo que o usuário cadastre, encontre, edite e associe o que deseja rapidamente.
+
+Resultado: A interface amigável do Notion aliada ao seu inteligente sistema de histórico, muito bom em mostrar as ações passadas e prever as futuras,
+o torna eficiente.
+
+### Segurança
+
+Objetivo: Avaliar se, enquanto o sistema auxilia a organização e gerenciamento de tarefas e objetivos, ele sugere rápidas correções aos erros cometidos pelo usuário ou, 
+na melhor das hipóteses, previne que ele os cometa.
+
+Resultado: Não há clara indicação na interface de como desfazer as ações realizadas, muitas vezes levando o usuário a "apelar" para recursos
+como o ctrl + z.
+
+### Utilidade
+
+### Aprendizagem
+
+Objetivo: Avaliar se, enquanto o sistema auxilia a organização e gerenciamento de tarefas e objetivos, suas funcionalidades são de fácil absorção e entendimento.
+
+Resultado: Há uma inegável facilidade quanto às operações do tipo CRUD, mas os tutoriais fornecem poucas informações quanto à associação de páginas, sobretudo as de tipos distintos.
+Sendo essa uma funcionalidade fundamental, há um grande déficit no meta de aprendizagem.
+
+### Memorização
+
+Objetivo: Avaliar se, enquanto o sistema auxilia a organização e gerenciamento de tarefas e objetivos, suas funcionalidades são de fácil absorção e entendimento.
+
+Resultado: A curva 
 
 ## Referências Bibliograficas
 
@@ -60,4 +96,4 @@ ROGERS, Y.; SHARP, H.; PREECE, J. Design de interação: além da Interação hu
 | Versão | Data       | Descrição                        | Autor              |
 |--------|------------|----------------------------------|--------------------|
 |  1.0   | 27/07/2022 | Criação da introdução e metas de usabilidade | Leonardo Vitoriano |
- 
+|  1.1   | 27/07/2022 | Adição da análise das metas de usabilidade e revisão geral | Nicolas Mantzos |
