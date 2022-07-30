@@ -26,7 +26,8 @@ com que a informação apareça em uma ordem natural e lógica. Para isso, é im
 sequências de ações que são familiares aos usuários e, caso a solução se desvie do que lhes é familiar, deve
 ao menos refletir uma organização lógica que lhes seja plausível.
 
-Levando em conta o sistema estudo nesse projeto, tem-se uma certa dificuldade de entender o fluxo do menu, por exemplo, a interface gera um submenu indesejado quando se clica em um item comum da página que nem no menu está, além disso, não é possível recolher esse submenu, dificultando o encontro de novos itens.
+Levando em conta o sistema estudado nesse projeto, tem-se uma certa dificuldade de entender o fluxo do menu, por 
+exemplo, a interface gera um submenu indesejado quando se clica em um item comum da página que nem no menu está, além disso, não é possível recolher esse submenu, dificultando o encontro de novos itens.
 
 ### 2.2 Simplicidade nas Estruturas das Tarefas
 
