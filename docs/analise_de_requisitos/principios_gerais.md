@@ -59,6 +59,65 @@ ajuda. (Barbosa, 2021)
 
 No sistema estudado, os direcionamentos dos menus levam para páginas que não seguem um padrão, por exemplo, muitas delas se apresentam com textos grandes, porém outras, são constituídas por caixas com tons de azuis diferentes do azul do sistema. E os submenus, quando abertos, não apresentam uma forma de serem fechados, dificultando o uso.
 
+### 2.5 Eficiência do Usuário
+
+Tognazzini recomenda considerar sempre a eficiência do usuário em primeiro lugar, e não a do computador. Isto é, uma economia de tempo e esforço do usuário costumam trazer mais benefícios do que economias semelhantes de processamento ou armazenamento no quesito de hardware. A sugestão de Tognazzini para isso é manter o usuário ocupado. 
+
+Processos demorados não devem prender a interação, mas sim permitir que os usuários continuem seu trabalho com outras partes do sistema, deixando esses processos executando em background.
+
+Tognazzini também defende que o designer deve proteger o trabalho dos usuários, Ou seja, os usuários nunca devem perder o seu trabalho, seja por um erro seu, por uma falha na transmissão de rede, uma falha no fornecimento de energia para o computador ou qualquer outra razão.
+
+Outro ponto importante levantado por Cooper é que o sistema deve se lembrar de tudo o que o usuário disse, para não perguntar de novo e se manter informado sobre o usuário.
+
+Para promover a eficiência de usuários frequentes, Nielsen e Shneiderman recomendam fornecer **atalhos** e **aceleradores**. Isso é importante pois à medida que a frequência de uso aumenta, aumenta também a vontade dos usuários de reduzir o número de interações e acelerar o passo da interação. Um exemplo disso é a utilização por parte de usuários mais experientes das teclas de atalho e comandos ocultos, e que não prejudicam a interação dos usuários novatos. Cypher e Lieberman trazem como sugestão a gravação de macros e programação por demonstração.
+
+Diante de uma breve exposição ao site analisado, é visível que essas recomendações não são seguidas, pois não apresenta atalhos para o uso de usuários mais experientes, os únicos atalhos presentes são os atalhos de acessibilidade. Outro ponto observado é que em caso de lentidão, o usuário não é informado sobre o status do sistema (por exemplo: não há aviso se o usuário precisa aguardar ou se ele pode continuar na navegação).
+
+### 2.6 Antecipação
+
+Outro ponto importante a ser citado é o seguinte:
+> As aplicações devem tentar prever o que o usuário quer e precisa, em vez de esperar que os usuários busquel ou coletem informações os invoquem ferramentas.
+
+Tognazzini defende que o designer deve oferecer ao usuário todas as informações e ferramentas necessárias para cada passo do processo.
+
+Segundo Cooper, o software deve tomar iniciativa e fornecer informações adicionais úteis, em vez de apenas responder precisamente a pergunta que o usuário tiver feito. Um exemplo disso é que ao perguntar sobre o telefone de um restaurante, o software também pode informar seus dias e horários de funcionamento.
+
+Um outro cuidado que Tognazzini alerta é a escolha dos valores e configurações *defaults* pois os usuários tendem a aceitar esses valores para as opções que eles não entendem ou assumem que o sistema já aprendeu sobre elas ou que seja a resposta "certa". Por isso que a escolha deve ser cuidadosa.
+
+### 2.7 Visibilidade e Reconhecimento
+
+Normam afirma que o designer deve tornar as coisas visíveis: abreviar os golfos de execução e avaliação. Antes de executar uma ação, é necessário tornar visível para os usuários o que é possível realizar e como as ações devem ser feitas. Além disso, a interface não deve oferecer opções que não estejam disponíveis ou não falam sentido em um determinado momento da interação.
+
+Nielsen, Shneiderman e Tognazzini afirmam que o estado do sistema, os objetos, as ações e as opções devem estar atualizados e facilmente perceptíveis.
+
+Analisando o site escolhido, vemos que essas diretrizes não são seguidas pois na página principal existem diversos vídeos incorporados que estão indisponíveis, como podemos ver na imagem abaixo (Figura 1).
+
+|![Vídeos Privados](../_media/videos_privados.png)|
+|:--:|
+|Figura 1: Vídeos privados presentes na página principal, ferindo a diretriz de não oferecer opções que não estejam disponíveis|
+
+Uma diretriz que o site segue é a de oferecer ao usuário um mapa de onde ele se encontra no momento e como ele fez para chegar a página atual. Esse "mapa" se encontra no menu lateral, como podemos ver na figura 2 abaixo.
+
+
+|![Menu Lateral](../_media/mapa_lateral.png)|
+|:--:|
+|Figura 2: Mapa lateral que permite ao usuário identificar a página atual e o caminho da mesma|
+
+### 2.8 Conteúdo relevante e Expressão adequada
+
+Segundo Reeves e Nass, as pessoas dão tratamento humano para qualquer mídia ou tecnologia que apresente comportamento semelhante ao de uma pessoa, mesmo sabendo que isso é tolice e negando que tenham feito isso. Em paralelo com o princípio de Grice, eles destacam que uma interação polida segue quatro máximas:
+
+1.  Máxima da Qualidade: Sem mentiras ou especulações.
+2.  Máxima da Quantidade: "Menos é Mais".
+3.  Máxima da Relação ou Relevância: Tudo que for dito deve ter relação clara com os tópicos da página atual e ser relevante aos usuários.
+4.  Máxima do Modo ou Clareza:  Evitar a prolixidade e ambiguidade.
+
+
+
+
+
+
+
 ## Referências Bibliográficas
 
 Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)
@@ -75,3 +134,4 @@ edition.
 | Versão | Data       | Descrição         | Autor  |
 | ------ | ---------- | ----------------- | ------ |
 | 1.0    | 28/07/2022 | Criação da página | Cícero |
+| 1.0    | 29/07/2022 | Inserção de Tópicos 2.5 a 2.8| Guilherme Brito |
