@@ -47,34 +47,34 @@ de operações em diferentes estágios de uma tarefa por meio de ícones signifi
 nomes de comandos e das opções de menu.
 
 
-## Análise das metas de usabilidade no sistema
+## 3. Análise das metas de usabilidade no sistema
 
-### Eficácia
+### 3.1 Eficácia
 
 O site da PMDF de fato exibe informações a respeito de funcionários, auditorias, convênios, despesas, licitações etc e com alta taxa
 de disponibilidade.
 
-### Eficiência
+### 3.2 Eficiência
 
 O site exibe e permite a consulta das informações, bem como seu filtro. Porém, não há auxílio 
 através de, por exemplo, ícones explicativos ou categorias bem estruturadas, o que pode ser um dificultador e conta para a pouca eficiência.
 
-### Segurança
+### 3.3 Segurança
 
 Há poucos ou, muitas vezes não há, recursos para que o usuário desfaça o que fez, tendo que 
 por vezes recorrer a recursos do navegador para transitar entre telas, limpar campos etc
 
-### Utilidade
+### 3.4 Utilidade
 
 O site da PMDF de fato exibe informações a respeito de funcionários, auditorias, convênios, despesas, licitações etc e com alta taxa
 de disponibilidade, o que é util para agentes interessados nessas informações.
 
-### Aprendizagem
+### 3.5 Aprendizagem
 
 A interface é de fácil apreensão e possuí diversos recursos que indicam onde e como cada tipo de operação, desde a busca até a
 consulta, deve ser realizada. 
 
-### Memorização
+### 3.6 Memorização
 
 Devido ao caráter universal da estrutura e funcionamento do site, o usuário pode facilmente memorizar como fazer o quê. Entretanto, 
 devido ao elevado número de ícones agrupados, supostamente da mesma natureza, há maior dificuldade de recordação a respeito de onde 
