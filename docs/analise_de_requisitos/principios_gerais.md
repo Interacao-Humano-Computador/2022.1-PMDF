@@ -92,16 +92,16 @@ Nielsen, Shneiderman e Tognazzini afirmam que o estado do sistema, os objetos, a
 
 Analisando o site escolhido, vemos que essas diretrizes não são seguidas pois na página principal existem diversos vídeos incorporados que estão indisponíveis, como podemos ver na imagem abaixo (Figura 1).
 
-|![Vídeos Privados](../_media/videos_privados.png)|
-|:--:|
-|Figura 1: Vídeos privados presentes na página principal, ferindo a diretriz de não oferecer opções que não estejam disponíveis|
+|                                       ![Vídeos Privados](../_media/videos_privados.png)                                        |
+| :----------------------------------------------------------------------------------------------------------------------------: |
+| Figura 1: Vídeos privados presentes na página principal, ferindo a diretriz de não oferecer opções que não estejam disponíveis |
 
 Uma diretriz que o site segue é a de oferecer ao usuário um mapa de onde ele se encontra no momento e como ele fez para chegar a página atual. Esse "mapa" se encontra no menu lateral, como podemos ver na figura 2 abaixo.
 
 
-|![Menu Lateral](../_media/mapa_lateral.png)|
-|:--:|
-|Figura 2: Mapa lateral que permite ao usuário identificar a página atual e o caminho da mesma|
+|                          ![Menu Lateral](../_media/mapa_lateral.png)                          |
+| :-------------------------------------------------------------------------------------------: |
+| Figura 2: Mapa lateral que permite ao usuário identificar a página atual e o caminho da mesma |
 
 ### 2.8 Conteúdo relevante e Expressão adequada
 
@@ -112,6 +112,23 @@ Segundo Reeves e Nass, as pessoas dão tratamento humano para qualquer mídia ou
 3.  Máxima da Relação ou Relevância: Tudo que for dito deve ter relação clara com os tópicos da página atual e ser relevante aos usuários.
 4.  Máxima do Modo ou Clareza:  Evitar a prolixidade e ambiguidade.
 
+Nielsen, em conjunto com a máxima de quantidade, defende o projeto estético e minimalista. Afirma que os diálogos não devem conter informações que sejam irrelevantes ou raramente necessárias.
+
+Tognazzini oferece uma série de recomendações para melhorar a redação em interfaces gráficas. As mensagens de instrução e ajuda devem ser concisas e informativas sobre problemas que ocorrerem. Os rótulos de menus e botões devem ser claros e livres de ambiguidade.
+
+Além de cuidar do conteúdo, o designer deve se certificar que o texto também seja legível. Para a garantia disso, a fonte deve ser de alto contranste e favorecer texto preto sobre fundo branco ou amarelo-claro, evitando fundos de cor cinza (Tognazzini).
+
+O site analisado segue algumas recomendações como a fonte preta sobre o fundo branco, porém um ponto notado foi a inutilidade da opção 'Alto Contraste' presente no canto da tela, mas que não oferece utilidade nenhuma.
+
+### 2.9 Projeto para Erros
+
+Norman recomenda projetar para o erro, ou seja, assumir que qualquer erro potencial será cometido. O designer deve ajudar o usuário a se recuperar de um erro, informando-lhe sobre o que ocorreu, as consequências disso e como reverter os resultados indesejados. Os sistemas devem ser exploráveis, isto é, fácil de reverter as operações e difícil realizar operações irreversíveis.
+
+Dentre várias recomendações, podemos citar a recomendação de Cooper que defende o posicionamento correto de botões na interface para que controles de funções utilizadas com frequência não fiquem adjacentes a controles perigosos ou que raramente são utilizados.
+
+Nielsen e Shneiderman recomendam que o designer tente evitar que os erros ocorram. Se um erro for cometido,  o sistema deve ser capaz de detectá-lo e oferecer mecanismos simples e inteligíveis para tratá-lo. O designer deve ajudar os usuários a reconhecerem, diagnosticarem e se recuperarem de erros. Além de erros, também é necessário o apoio aos usuários a esclarecem suas dúvidas durante a interação por meio de ajudas e documentações de alta qualidade. Essas informações devem ser de fácil acesso, focadas nas tarefas dos usuários, enumeradas com passos concretos e não muito extensas.
+
+O site avaliado não possui uma documentação e não auxilia o usuário a chegar onde ele quer. As informações são soltas no menu lateral e não possuem uma breve descrição para auxiliar o usuário.
 
 
 
@@ -131,7 +148,8 @@ edition.
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição         | Autor  |
-| ------ | ---------- | ----------------- | ------ |
-| 1.0    | 28/07/2022 | Criação da página | Cícero |
-| 1.0    | 29/07/2022 | Inserção de Tópicos 2.5 a 2.8| Guilherme Brito |
+| Versão | Data       | Descrição                     | Autor           |
+| ------ | ---------- | ----------------------------- | --------------- |
+| 1.0    | 28/07/2022 | Criação da página             | Cícero          |
+| 1.1    | 29/07/2022 | Inserção de Tópicos 2.5 a 2.8 | Guilherme Brito |
+| 1.2    | 30/07/2022 | Inserção de Tópicos 2.8 e 2.9 | Guilherme Brito |
