@@ -76,10 +76,69 @@ a outras páginas do site não possuem ícones.
 > duas cores (quando cercado de quadrado colorido), na simplicidade e na manutenção de áreas de respiro, como presentes nos ícones da _Figura 6_.
 
 ### 3.4 Cores
+As cores seguem o padrão definido pelo Guia de Estilo do Portal Institucional Padrão, como referenciado na figura 7 e comparado a figura 8.
+
+![image](https://user-images.githubusercontent.com/60429513/182256304-964ec363-77b9-4306-a42f-362b8a96b161.png)
+| Figura 7: Tema azul; Fonte: Pág 60 do "Guia de Estilo do Portal Institucional Padrão". |
+
+![image](https://user-images.githubusercontent.com/60429513/182256530-9ef1eb91-c994-423e-8c77-f0244cb3cd0c.png)
+| Figura 8: Imagem Site PMDF; Fonte:  http://www.pmdf.df.gov.br/ . |
+
+A logo do site PMDF pode ser encontrada no site da pmdf, onde é composto por um brasão circular em azul blau e as 26 estrelas, onde só aparecem 12, há um escudo na frente com cores amarelo jalde e vermelho goles, e representando a parte triangular  verde (sinopla) e  amarelo (jalne), 
+
+![image](https://user-images.githubusercontent.com/60429513/182255379-eba73e75-961f-47c9-84c0-cf59ae9befbd.png)
+| Figura 9: Logo PMDF. Fonte: http://www.pmdf.df.gov.br/ |
+
+A Paleta de cores é referenciada abaixo pela figura 10, como podemos ver as cores primárias utilizadas no site, aquelas que estão presentes em todo o site, em seguida, as cores secundárias encontradas no site.
+
+![image](https://user-images.githubusercontent.com/60429513/182254198-cd8590e9-81a3-4cfa-960f-51035d9b63a7.png)
+| Figura 10: Paleta de cores site PMDF.|
 
 ### 3.5 Visualização de Informação
 
+Para o Estilos de interação, Utiliza liguangens de natural e de comando e interação por menus e imagens, e WIMP(Windows Icons Menu and pointers)
+
+****Seleção de um estilo****
+
+O site dispoe do estilo de interação por menu, e WIMP.
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/583e1614-5d91-438a-9f78-22f3e7ba1cc8/Untitled.png)
+
+Aceleradores.
+
+O site dispoe de uma barra de pesquisa avançada. facilitando usuários a buscarem rápidamente sobre o site.
+
 ### 3.6 Design de Telas e Elementos de Interface
+
+Design de telas e elementos da interface (widgets), Descrevem os principais componentes da tela que o usuário terá acesso.
+
+Podemos perceber 6 Elementão e são eles:
+
+#### 3.6.1 Barra padrão
+
+![image](https://user-images.githubusercontent.com/60429513/182257643-1cd5dcbe-a657-4025-af49-d532f4c5af7a.png)
+| Figura 9: Logo PMDF. Fonte: http://www.pmdf.df.gov.br/ |
+#### 3.6.2 Header
+
+![image](https://user-images.githubusercontent.com/60429513/182257681-7614bc57-c853-4202-a23c-7c10db0063b6.png)
+| Figura 9: Logo PMDF. Fonte: http://www.pmdf.df.gov.br/ |
+#### 3.6.3 Coluna de Menus
+
+![image](https://user-images.githubusercontent.com/60429513/182257709-e741fe22-f232-4ebd-8a2e-27296d9fb12c.png)
+| Figura 9: Logo PMDF. Fonte: http://www.pmdf.df.gov.br/ |
+#### 3.6.4 Miolo
+
+![image](https://user-images.githubusercontent.com/60429513/182257756-6e55a781-c4a6-4f34-aac6-991036920f92.png)
+| Figura 9: Logo PMDF. Fonte: http://www.pmdf.df.gov.br/ |
+#### 3.6.5 Rodapé
+
+![image](https://user-images.githubusercontent.com/60429513/182257784-54c64ec3-9271-40b2-8898-6d98cb977df4.png)
+| Figura 9: Logo PMDF. Fonte: http://www.pmdf.df.gov.br/ |
+#### 3.6.6 Barra inferior
+
+![image](https://user-images.githubusercontent.com/60429513/182257831-03fbcca0-60eb-4289-9503-54310e910291.png)
+| Figura 9: Logo PMDF. Fonte: http://www.pmdf.df.gov.br/ |
+
 
 ## Referências Bibliográficas
 
