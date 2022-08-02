@@ -91,28 +91,55 @@ A logo do site PMDF pode ser encontrada no site da pmdf, onde é composto por um
 
 A Paleta de cores é referenciada abaixo pela figura 10, como podemos ver as cores primárias utilizadas no site, aquelas que estão presentes em todo o site, em seguida, as cores secundárias encontradas no site.
 
-![image](https://user-images.githubusercontent.com/60429513/182254198-cd8590e9-81a3-4cfa-960f-51035d9b63a7.png)
-| Figura 10: Paleta de cores site PMDF.|
-
 |                         ![image](https://user-images.githubusercontent.com/60429513/182254198-cd8590e9-81a3-4cfa-960f-51035d9b63a7.png)                         |
 |:---------------------------------------------------------------------------------------------------:|
 | Figura 10: Paleta de cores site PMDF.|
 
 ### 3.5 Visualização de Informação
 
-Para o Estilos de interação, Utiliza liguangens de natural e de comando e interação por menus e imagens, e WIMP(Windows Icons Menu and pointers)
+A medida em que avançamos no design de interação nos preocupamos em definir a parte física do sistema no qual o usuário entrará em contato.
 
-****Seleção de um estilo****
+#### 3.5.1 Estilo de interação
 
-O site dispoe do estilo de interação por menu, e WIMP.
+Para o Estilos de interação, Utiliza liguangens de natural e interação por menus, oferencendo um conjunto de opções dentre as quais o usuário, Também utiliza o formulário para Login e busca avançada.
 
-Aceleradores.
+O site dispoe do estilo de interação barras de navegação, e WIMP(Windows, Icons, Menu and pointers).
+
+#### 3.5.2 Aceleradores
 
 O site dispoe de uma barra de pesquisa avançada. facilitando usuários a buscarem rápidamente sobre o site.
 
-|                         ![image](https://user-images.githubusercontent.com/60429513/182259591-39458d8a-2740-4ad5-92f8-98d82f5d716f.png)                        |
+| ![image](https://user-images.githubusercontent.com/60429513/182259591-39458d8a-2740-4ad5-92f8-98d82f5d716f.png)   |
 |:---------------------------------------------------------------------------------------------------:|
 | Figura 11: busca avançada PMDF. Fonte:http://www.pmdf.df.gov.br/ |
+
+#### 3.5.3 Diagrama MoLIC
+
+Para representar decisões comumente tomadas ao projetar a interface com usuário utilizamos o diagramas MoLIC, que representa uma conversa.
+
+Para isso Precisamos definir os acesso ubíquos, pontos de entrada da conversa dirigida por objetivos.
+
+
+Objetivo: Conhecer informações sobre a lei
+
+| ![image](https://user-images.githubusercontent.com/60429513/182264014-0c811c82-7349-4498-99ed-4f0e717550dd.png)  |
+|:---------------------------------------------------------------------------------------------------:|
+| Figura 12: Mapeamento de uma cena para unidade de apresentação |
+
+Diagrama MoLIC:
+
+|![image](https://user-images.githubusercontent.com/60429513/182266285-c7635f49-f778-4b2f-9455-385f969c4e4b.png)|
+|:---------------------------------------------------------------------------------------------------:|
+| Figura 13: Dialogo mapeado em elemento de interface. |
+
+
+|legenda |
+|:---------------------------------------------------------------------------------------------------:|
+|cena Consultar Conheça a lei, mapeado empara unidade de apresentação Conheça lei. (indicação 1 na figura 13)|
+|dialogo Ver informações básicas sobre a lei e deeplink's com relação a lei. (indicação 2 na figura 13)|
+|fala de usuário u: visualizar lei. (indicação 3 na figura 13)|
+|fala de usuário u: cancelar visulaização. (indicação 4 na figura 13)|
+
 
 ### 3.6 Design de Telas e Elementos de Interface
 
@@ -122,7 +149,7 @@ Podemos perceber 6 Elementão e são eles:
 
 #### 3.6.1 Barra padrão
 
-|[image](https://user-images.githubusercontent.com/60429513/182257643-1cd5dcbe-a657-4025-af49-d532f4c5af7a.png)|
+|![image](https://user-images.githubusercontent.com/60429513/182257643-1cd5dcbe-a657-4025-af49-d532f4c5af7a.png)|
 |:---------------------------------------------------------------------------------------------------:|
 | Figura 12: Barra padrão. Fonte: http://www.pmdf.df.gov.br/ |
 
@@ -133,7 +160,6 @@ Podemos perceber 6 Elementão e são eles:
 | Figura 13: Header PMDF. Fonte: http://www.pmdf.df.gov.br/ |
 
 #### 3.6.3 Coluna de Menus
-
 
 |![image](https://user-images.githubusercontent.com/60429513/182257709-e741fe22-f232-4ebd-8a2e-27296d9fb12c.png)|
 |:---------------------------------------------------------------------------------------------------:|
@@ -155,7 +181,7 @@ Podemos perceber 6 Elementão e são eles:
 
 |![image](https://user-images.githubusercontent.com/60429513/182257831-03fbcca0-60eb-4289-9503-54310e910291.png)|
 |:---------------------------------------------------------------------------------------------------:|
-| Figura 11: Barra inferior PMDF. Fonte:http://www.pmdf.df.gov.br/ |
+| Figura 17: Barra inferior PMDF. Fonte:http://www.pmdf.df.gov.br/ |
 
 ## Referências Bibliográficas
 
