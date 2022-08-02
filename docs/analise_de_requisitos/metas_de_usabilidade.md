@@ -2,7 +2,7 @@
 
 ## 1. Introdução 
 
-A partir da perspectiva do usuário, a usabilidade visa a assegurar que produtos interativos sejam fáceis de aprender a usar, eficazes e agradáveis (Preece et. al, 2013). Já as metas ajudam a resolver problemas com a produtividade do usuário durante a utilização do sistema e motivações desse usuário para um aprendizado mais eficaz. Sendo assim, as metas de  
+A partir da perspectiva do usuário, a usabilidade visa a assegurar que produtos interativos sejam fáceis de aprender a usar, eficazes e agradáveis (Preece et. al, 2013). Já as metas ajudam a resolver problemas com a produtividade do usuário durante a utilização do sistema e motivações desse usuário para um aprendizado mais eficaz.
 
 A usabilidade se divide em seis metas, sendo normalmente operacionalizadas em perguntas para fornecer ao designer uma forma de avaliação dos diversos aspectos de um sistema e da experiência do usuário. 
 
