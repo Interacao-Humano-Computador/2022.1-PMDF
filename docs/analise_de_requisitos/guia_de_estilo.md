@@ -119,7 +119,6 @@ Para representar decisões comumente tomadas ao projetar a interface com usuári
 
 Para isso Precisamos definir os acesso ubíquos, pontos de entrada da conversa dirigida por objetivos.
 
-
 Objetivo: Conhecer informações sobre a lei
 
 | ![image](https://user-images.githubusercontent.com/60429513/182264014-0c811c82-7349-4498-99ed-4f0e717550dd.png)  |
@@ -128,7 +127,8 @@ Objetivo: Conhecer informações sobre a lei
 
 Diagrama MoLIC:
 
-|![image](https://user-images.githubusercontent.com/60429513/182266285-c7635f49-f778-4b2f-9455-385f969c4e4b.png)|
+
+|![image](https://user-images.githubusercontent.com/60429513/182267803-d2e2d50d-a534-4bf1-8aa8-af9f08e77c6e.png)|
 |:---------------------------------------------------------------------------------------------------:|
 | Figura 13: Dialogo mapeado em elemento de interface. |
 
@@ -151,37 +151,37 @@ Podemos perceber 6 Elementão e são eles:
 
 |![image](https://user-images.githubusercontent.com/60429513/182257643-1cd5dcbe-a657-4025-af49-d532f4c5af7a.png)|
 |:---------------------------------------------------------------------------------------------------:|
-| Figura 12: Barra padrão. Fonte: http://www.pmdf.df.gov.br/ |
+| Figura 14: Barra padrão. Fonte: http://www.pmdf.df.gov.br/ |
 
 #### 3.6.2 Header
 
 |![image](https://user-images.githubusercontent.com/60429513/182257681-7614bc57-c853-4202-a23c-7c10db0063b6.png)|
 |:---------------------------------------------------------------------------------------------------:|
-| Figura 13: Header PMDF. Fonte: http://www.pmdf.df.gov.br/ |
+| Figura 15: Header PMDF. Fonte: http://www.pmdf.df.gov.br/ |
 
 #### 3.6.3 Coluna de Menus
 
 |![image](https://user-images.githubusercontent.com/60429513/182257709-e741fe22-f232-4ebd-8a2e-27296d9fb12c.png)|
 |:---------------------------------------------------------------------------------------------------:|
-| Figura 14: Coluna de Menus PMDF. Fonte: http://www.pmdf.df.gov.br/ |
+| Figura 16: Coluna de Menus PMDF. Fonte: http://www.pmdf.df.gov.br/ |
 
 #### 3.6.4 Miolo
 
 |![image](https://user-images.githubusercontent.com/60429513/182257756-6e55a781-c4a6-4f34-aac6-991036920f92.png)|
 |:---------------------------------------------------------------------------------------------------:|
-| Figura 15: Miolo PMDF. Fonte: http://www.pmdf.df.gov.br/ |
+| Figura 17: Miolo PMDF. Fonte: http://www.pmdf.df.gov.br/ |
 
 #### 3.6.5 Rodapé
 
 |![image](https://user-images.githubusercontent.com/60429513/182257784-54c64ec3-9271-40b2-8898-6d98cb977df4.png)|
 |:---------------------------------------------------------------------------------------------------:|
-| Figura 16: Rodapé PMDF. Fonte: http://www.pmdf.df.gov.br/ |
+| Figura 18: Rodapé PMDF. Fonte: http://www.pmdf.df.gov.br/ |
 
 #### 3.6.6 Barra inferior
 
 |![image](https://user-images.githubusercontent.com/60429513/182257831-03fbcca0-60eb-4289-9503-54310e910291.png)|
 |:---------------------------------------------------------------------------------------------------:|
-| Figura 17: Barra inferior PMDF. Fonte:http://www.pmdf.df.gov.br/ |
+| Figura 19: Barra inferior PMDF. Fonte:http://www.pmdf.df.gov.br/ |
 
 ## Referências Bibliográficas
 
@@ -194,4 +194,4 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN
 | ------ | ---------- | -------------------------------------------------------------------- | ----------------- |
 | 1.0    | 27/07/2022 | Criação da página e introdução                                       | Bernardo Pissutti |
 | 1.1    | 28/07/2022 | Adição da secão "considerações" e documentação do layout, tipografia | Bernardo Pissutti |
-| 1.2    | 01/08/2022 | Criação de Cores,VIsualização de Informação, Design de Telas e Elementos de Interface  | Arthur José |
+| 1.2    | 01/08/2022 | Criação de Cores, Visualização de Informação, Design de Telas e Elementos de Interface  | Arthur José |
