@@ -76,10 +76,112 @@ a outras páginas do site não possuem ícones.
 > duas cores (quando cercado de quadrado colorido), na simplicidade e na manutenção de áreas de respiro, como presentes nos ícones da _Figura 6_.
 
 ### 3.4 Cores
+As cores seguem o padrão definido pelo Guia de Estilo do Portal Institucional Padrão, como referenciado na figura 7 e comparado a figura 8.
+
+
+|![image](https://user-images.githubusercontent.com/60429513/182256304-964ec363-77b9-4306-a42f-362b8a96b161.png) | ![image](https://user-images.githubusercontent.com/60429513/182256530-9ef1eb91-c994-423e-8c77-f0244cb3cd0c.png) |
+|:---------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------:|
+| Figura 7: Tema azul; Fonte: Pág 60 do "Guia de Estilo do Portal Institucional Padrão". | Figura 8: Imagem Site PMDF; Fonte:  http://www.pmdf.df.gov.br/ . |
+
+A logo do site PMDF pode ser encontrada no site da pmdf, onde é composto por um brasão circular em azul blau e as 26 estrelas, onde só aparecem 12, há um escudo na frente com cores amarelo jalde e vermelho goles, e representando a parte triangular  verde (sinopla) e  amarelo (jalne), 
+
+|                         ![image](https://user-images.githubusercontent.com/60429513/182255379-eba73e75-961f-47c9-84c0-cf59ae9befbd.png)                          |
+|:---------------------------------------------------------------------------------------------------:|
+| Figura 9: Logo PMDF. Fonte: http://www.pmdf.df.gov.br/  |
+
+A Paleta de cores é referenciada abaixo pela figura 10, como podemos ver as cores primárias utilizadas no site, aquelas que estão presentes em todo o site, em seguida, as cores secundárias encontradas no site.
+
+|                         ![image](https://user-images.githubusercontent.com/60429513/182254198-cd8590e9-81a3-4cfa-960f-51035d9b63a7.png)                         |
+|:---------------------------------------------------------------------------------------------------:|
+| Figura 10: Paleta de cores site PMDF.|
 
 ### 3.5 Visualização de Informação
 
+A medida em que avançamos no design de interação nos preocupamos em definir a parte física do sistema no qual o usuário entrará em contato.
+
+#### 3.5.1 Estilo de interação
+
+Para o Estilos de interação, Utiliza liguangens de natural e interação por menus, oferencendo um conjunto de opções dentre as quais o usuário, Também utiliza o formulário para Login e busca avançada.
+
+O site dispoe do estilo de interação barras de navegação, e WIMP(Windows, Icons, Menu and pointers).
+
+#### 3.5.2 Aceleradores
+
+O site dispoe de uma barra de pesquisa avançada. facilitando usuários a buscarem rápidamente sobre o site.
+
+| ![image](https://user-images.githubusercontent.com/60429513/182259591-39458d8a-2740-4ad5-92f8-98d82f5d716f.png)   |
+|:---------------------------------------------------------------------------------------------------:|
+| Figura 11: busca avançada PMDF. Fonte:http://www.pmdf.df.gov.br/ |
+
+#### 3.5.3 Diagrama MoLIC
+
+Para representar decisões comumente tomadas ao projetar a interface com usuário utilizamos o diagramas MoLIC, que representa uma conversa.
+
+Para isso Precisamos definir os acesso ubíquos, pontos de entrada da conversa dirigida por objetivos.
+
+Objetivo: Conhecer informações sobre a lei
+
+| ![image](https://user-images.githubusercontent.com/60429513/182264014-0c811c82-7349-4498-99ed-4f0e717550dd.png)  |
+|:---------------------------------------------------------------------------------------------------:|
+| Figura 12: Mapeamento de uma cena para unidade de apresentação |
+
+Diagrama MoLIC:
+
+
+|![image](https://user-images.githubusercontent.com/60429513/182267803-d2e2d50d-a534-4bf1-8aa8-af9f08e77c6e.png)|
+|:---------------------------------------------------------------------------------------------------:|
+| Figura 13: Dialogo mapeado em elemento de interface. |
+
+
+|legenda |
+|:---------------------------------------------------------------------------------------------------:|
+|cena Consultar Conheça a lei, mapeado empara unidade de apresentação Conheça lei. (indicação 1 na figura 13)|
+|dialogo Ver informações básicas sobre a lei e deeplink's com relação a lei. (indicação 2 na figura 13)|
+|fala de usuário u: visualizar lei. (indicação 3 na figura 13)|
+|fala de usuário u: cancelar visulaização. (indicação 4 na figura 13)|
+
+
 ### 3.6 Design de Telas e Elementos de Interface
+
+Design de telas e elementos da interface (widgets), Descrevem os principais componentes da tela que o usuário terá acesso.
+
+Podemos perceber 6 Elementão e são eles:
+
+#### 3.6.1 Barra padrão
+
+|![image](https://user-images.githubusercontent.com/60429513/182257643-1cd5dcbe-a657-4025-af49-d532f4c5af7a.png)|
+|:---------------------------------------------------------------------------------------------------:|
+| Figura 14: Barra padrão. Fonte: http://www.pmdf.df.gov.br/ |
+
+#### 3.6.2 Header
+
+|![image](https://user-images.githubusercontent.com/60429513/182257681-7614bc57-c853-4202-a23c-7c10db0063b6.png)|
+|:---------------------------------------------------------------------------------------------------:|
+| Figura 15: Header PMDF. Fonte: http://www.pmdf.df.gov.br/ |
+
+#### 3.6.3 Coluna de Menus
+
+|![image](https://user-images.githubusercontent.com/60429513/182257709-e741fe22-f232-4ebd-8a2e-27296d9fb12c.png)|
+|:---------------------------------------------------------------------------------------------------:|
+| Figura 16: Coluna de Menus PMDF. Fonte: http://www.pmdf.df.gov.br/ |
+
+#### 3.6.4 Miolo
+
+|![image](https://user-images.githubusercontent.com/60429513/182257756-6e55a781-c4a6-4f34-aac6-991036920f92.png)|
+|:---------------------------------------------------------------------------------------------------:|
+| Figura 17: Miolo PMDF. Fonte: http://www.pmdf.df.gov.br/ |
+
+#### 3.6.5 Rodapé
+
+|![image](https://user-images.githubusercontent.com/60429513/182257784-54c64ec3-9271-40b2-8898-6d98cb977df4.png)|
+|:---------------------------------------------------------------------------------------------------:|
+| Figura 18: Rodapé PMDF. Fonte: http://www.pmdf.df.gov.br/ |
+
+#### 3.6.6 Barra inferior
+
+|![image](https://user-images.githubusercontent.com/60429513/182257831-03fbcca0-60eb-4289-9503-54310e910291.png)|
+|:---------------------------------------------------------------------------------------------------:|
+| Figura 19: Barra inferior PMDF. Fonte:http://www.pmdf.df.gov.br/ |
 
 ## Referências Bibliográficas
 
@@ -92,3 +194,4 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN
 | ------ | ---------- | -------------------------------------------------------------------- | ----------------- |
 | 1.0    | 27/07/2022 | Criação da página e introdução                                       | Bernardo Pissutti |
 | 1.1    | 28/07/2022 | Adição da secão "considerações" e documentação do layout, tipografia | Bernardo Pissutti |
+| 1.2    | 01/08/2022 | Criação de Cores, Visualização de Informação, Design de Telas e Elementos de Interface  | Arthur José |
