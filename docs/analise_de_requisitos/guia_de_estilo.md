@@ -101,9 +101,9 @@ A medida em que avançamos no design de interação nos preocupamos em definir a
 
 #### 3.5.1 Estilo de interação
 
-Para o Estilos de interação, Utiliza liguangens de natural e interação por menus, oferencendo um conjunto de opções dentre as quais o usuário, Também utiliza o formulário para Login e busca avançada.
+Para o estilos de interação, Utiliza liguangens de natural e interação por menus, oferencendo um conjunto de opções dentre as quais o usuário, Também utiliza o formulário para Login e busca avançada.
 
-O site dispoe do estilo de interação barras de navegação, e WIMP(Windows, Icons, Menu and pointers).
+O site dispõe do estilo de interação barras de navegação, e WIMP(Windows, Icons, Menu and pointers).
 
 #### 3.5.2 Aceleradores
 
@@ -130,15 +130,15 @@ Diagrama MoLIC:
 
 |![image](https://user-images.githubusercontent.com/60429513/182267803-d2e2d50d-a534-4bf1-8aa8-af9f08e77c6e.png)|
 |:---------------------------------------------------------------------------------------------------:|
-| Figura 13: Dialogo mapeado em elemento de interface. |
+| Figura 13: diálogo mapeado em elemento de interface. |
 
 
 |legenda |
 |:---------------------------------------------------------------------------------------------------:|
-|cena Consultar Conheça a lei, mapeado empara unidade de apresentação Conheça lei. (indicação 1 na figura 13)|
-|dialogo Ver informações básicas sobre a lei e deeplink's com relação a lei. (indicação 2 na figura 13)|
-|fala de usuário u: visualizar lei. (indicação 3 na figura 13)|
-|fala de usuário u: cancelar visulaização. (indicação 4 na figura 13)|
+|Cena: consultar Conheça a lei, mapeado para unidade de apresentação Conheça lei. (indicação 1 na figura 13)|
+|Diálogo: ver informações básicas sobre a lei e deeplink's com relação a lei. (indicação 2 na figura 13)|
+|Fala de usuário: visualizar lei. (indicação 3 na figura 13)|
+|Fala de usuário: cancelar visulaização. (indicação 4 na figura 13)|
 
 
 ### 3.6 Design de Telas e Elementos de Interface
