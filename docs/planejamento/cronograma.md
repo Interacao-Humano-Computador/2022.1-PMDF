@@ -1,4 +1,4 @@
-# Cronogramas
+# <center> Cronogramas
 
 Planejamento das atividades para a disciplina de Interação Humano Computador, Semestre 2022.1.
 

@@ -1,4 +1,4 @@
-# Aspectos Éticos de Pesquisas com Pessoas
+# <center> Aspectos Éticos de Pesquisas com Pessoas
 
 ## 1. Introdução
 

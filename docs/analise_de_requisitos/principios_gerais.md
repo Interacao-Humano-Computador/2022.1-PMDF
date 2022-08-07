@@ -1,4 +1,4 @@
-# Princípios Gerais
+# <center> Princípios Gerais
 
 ## 1. Introdução
 

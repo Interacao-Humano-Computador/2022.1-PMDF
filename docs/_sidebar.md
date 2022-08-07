@@ -17,4 +17,5 @@
   - [Princípios Gerais](analise_de_requisitos/principios_gerais.md)
 - **Design, Avaliação e Desenvolviento**
   - *Nível 1*
-    - [Planejamento de Avaliação - StoryBoard](nivel1/planejamento_avaliacao_storyboard.md)
+    - [Planejamento de Avaliação - Storyboard](nivel1/planejamento_avaliacao_storyboard.md)
+    - [Planejamento do Relato - Storyboard](nivel1/planejamento_relato_storyboard.md)
