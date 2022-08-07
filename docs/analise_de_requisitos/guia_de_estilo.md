@@ -1,4 +1,4 @@
-# Guia de Estilo
+# <center> Guia de Estilo
 
 ## 1. Introdução
 
