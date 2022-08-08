@@ -24,8 +24,11 @@ ao escolher o público-alvo de forma heterogênea ou mesmo quando ele for extrem
 | Número | <center> Pergunta                                  | <center> Opções de resposta                   |
 |:-----:|:---------------------------------------------------|:----------------------------------------------|
 | 1     | Quantos anos você tem?                                  |                                               |
-| 2     | Possui formação superior?      | Sim <br> Não |
-| 3     | Já consultou o salário de algum servidor?  | [ ] Sim<br>[ ] Não<br> |
+| 2     | Possui formação superior?      | [ ] Sim<br>[ ] Não<br> |
+| 3     | Já utilizou o site da PMDF?      | [ ] Sim<br> [ ] Não<br> |
+| 4     | Já acessou a rede interna do site (Intranet)?      | [ ] Sim<br> [ ] Não<br> (Caso a resposta seja negativa, pular para a pergunta...)|
+| 4     | Já consultou o salário de algum servidor?  | [ ] Sim<br>[ ] Não<br> |
+| 5    |  Suponha que você esteja na home do site e deseje consultar o salário de algum servidor. O que você faria primeiro?  | [ ] Tentaria encontrar um botão "Servidores" ou "Salários" <br>[ ] Outra<br> |
 
 | Número | <center>Perguntas extras e abertas                                                                                |
 |:------:|:-----------------------------------------------------------------------------------------------------------------|
@@ -38,14 +41,6 @@ ao escolher o público-alvo de forma heterogênea ou mesmo quando ele for extrem
 | 25     | Existe alguma funcionalidade neste site que seria util no site da BCE?                                           |
 | 26     | Qual funcionalidade você gostaria que existisse no site da BCE?                                                  |
 | 27     | Para você, qual seria um sistema ideal para a biblioteca?
-
-
-## 5. Entrevista
-
-### 5.1 
-
-
-### 5.2
 
 ## Referências Bibliograficas
 
