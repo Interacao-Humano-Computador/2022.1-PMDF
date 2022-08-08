@@ -90,7 +90,7 @@ A tabela 5 correspondente às atividades da quarta etapa do projeto no 08/08/202
 | 08/08         | Planejamento da avaliação do storyboard         | Leonardo            | Cícero               |
 | 07/08 - 08/08 | Planejamento do relato da análise de tarefas    | Nicolas             | Leonardo             |
 | 07/08         | Planejamento do relato do storyboard            | Bernardo            | Arthur               |
-| 07/08         | Storyboard                                      | Guilherme, Bernardo | Nícolas              |
+| 08/08         | Storyboard                                      | Guilherme, Bernardo | Nícolas              |
 | 08/08         | Cronograma de entrega sprint 4                  | Cícero              | Todos                |
 | 08/08         | Gravação da entrega                             | Todos               | Todos                |
 
