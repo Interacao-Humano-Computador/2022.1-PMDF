@@ -80,6 +80,22 @@ A tabela 4 correspondente às atividades da terceira etapa do projeto no 01/08/2
 
 _Tabela 4: Terceira Etapa_
 
+### 2.4 Quarta Etapa Do projeto
+
+A tabela 5 correspondente às atividades da quarta etapa do projeto no 08/08/2022.
+
+| Data          | Atividade                                       | Responsáveis        | Revisores            |
+| ------------- | ----------------------------------------------- | ------------------- | -------------------- |
+| 08/08         | Planejamento da avaliação da análise de tarefas | Cícero e Arthur     | Bernardo e Guilherme |
+| 08/08         | Planejamento da avaliação do storyboard         | Leonardo            | Cícero               |
+| 07/08 - 08/08 | Planejamento do relato da análise de tarefas    | Nicolas             | Leonardo             |
+| 07/08         | Planejamento do relato do storyboard            | Bernardo            | Arthur               |
+| 07/08         | Storyboard                                      | Guilherme, Bernardo | Nícolas              |
+| 08/08         | Cronograma de entrega sprint 4                  | Cícero              | Todos                |
+| 08/08         | Gravação da entrega                             | Todos               | Todos                |
+
+_Tabela 5: Terceira Etapa_
+
 ## 3. Sprints
 
 O quadro kaban e o roadmap são elementos que irão nos ajudar durante o desenvolvimento do projeto, explicados melhor na seção de metodologia.
@@ -109,16 +125,28 @@ O backlog da sprint 2 representado na _Figura 3_ e na _Figura 4_ o kanban board.
 | ---------------------------------------------- |
 | _Figura 4: quadro kanban da sprint 2_          |
 
-### 3.2 Sprint 3
+### 3.3 Sprint 3
 
 O backlog da sprint 3 representado na _Figura 5_ e na _Figura 6_ o kanban board.
 
 | ![image](../_media/backLogSprint3IHC.png) |
-|-------------------------------------------|
+| ----------------------------------------- |
 | _Figura 5: backlog da sprint 3_           |
 
 | ![image](../_media/quadroKanbanSprint3IHC.png) |
-|------------------------------------------------|
+| ---------------------------------------------- |
+| _Figura 6: quadro kanban da sprint 3_          |
+
+### 3.4 Sprint 4
+
+O backlog da sprint 4 representado na _Figura 7_ e na _Figura 8_ o kanban board.
+
+| ![image](../_media/backLogSprint4IHC.png) |
+| ----------------------------------------- |
+| _Figura 5: backlog da sprint 3_           |
+
+| ![image](../_media/quadroKanbanSprint4IHC.png) |
+| ---------------------------------------------- |
 | _Figura 6: quadro kanban da sprint 3_          |
 
 ## Histórico de Versões
@@ -128,3 +156,4 @@ O backlog da sprint 3 representado na _Figura 5_ e na _Figura 6_ o kanban board.
 | 1.0    | 11/07/2022 | Criação dos Cronogramas    | Arthur |
 | 1.1    | 20/07/2022 | Adição da segunda entrega  | Cícero |
 | 1.2    | 28/07/2022 | Adição da Terceira entrega | Cícero |
+| 1.3    | 08/08/2022 | Adição da Quarta entrega   | Cícero |
