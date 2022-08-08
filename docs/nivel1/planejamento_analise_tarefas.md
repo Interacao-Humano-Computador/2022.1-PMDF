@@ -26,21 +26,11 @@ ao escolher o público-alvo de forma heterogênea ou mesmo quando ele for extrem
 | 1     | Quantos anos você tem?                                  |                                               |
 | 2     | Possui formação superior?      | [ ] Sim<br>[ ] Não<br> |
 | 3     | Já utilizou o site da PMDF?      | [ ] Sim<br> [ ] Não<br> |
-| 4     | Já acessou a rede interna do site (Intranet)?      | [ ] Sim<br> [ ] Não<br> (Caso a resposta seja negativa, pular para a pergunta...)|
-| 4     | Já consultou o salário de algum servidor?  | [ ] Sim<br>[ ] Não<br> |
-| 5    |  Suponha que você esteja na home do site e deseje consultar o salário de algum servidor. O que você faria primeiro?  | [ ] Tentaria encontrar um botão "Servidores" ou "Salários" <br>[ ] Outra<br> |
+| 4     | Já acessou a rede interna do site (Intranet)?      | [ ] Sim<br> [ ] Não<br> (Caso a resposta seja negativa, pular para a pergunta...)    |
+| 5    |  Suponha que você esteja na home do site e deseje acessar a intranet  | [ ] Tentaria encontrar a página de login da Intranet <br>[ ] Outra<br> |
+| 5    | Já consultou o salário de algum servidor?  | [ ] Sim<br>[ ] Não<br> |
+| 7   |  Suponha que você esteja na home do site e deseje consultar o salário de algum servidor. O que você faria primeiro?  | [ ] Tentaria encontrar um botão "Servidores" ou "Salários" <br>[ ] Outra<br> |
 
-| Número | <center>Perguntas extras e abertas                                                                                |
-|:------:|:-----------------------------------------------------------------------------------------------------------------|
-| 19     | Qual sua maior dificuldade ao usar o site da BCE?<br>⚠️ Caso não haja dificuldades, pule para a pergunta 21       |
-| 20     | O que você acredita que poderia ser feito para resolver essas dificuldades?                                      |
-| 21     | O que acha sobre a busca no catálogo?                                                                            |
-| 22     | Já houve casos da pesquisa no catalogo não trazer os resultados esperados?                                       |
-| 23     | O que acha da estrutura de menus e submenus do site?                                                             |
-| 24     | Já utilizou algum outro sistema parecido com o da BCE?<br>⚠️ Caso a resposta seja "não", pule para a pergunta 27  |
-| 25     | Existe alguma funcionalidade neste site que seria util no site da BCE?                                           |
-| 26     | Qual funcionalidade você gostaria que existisse no site da BCE?                                                  |
-| 27     | Para você, qual seria um sistema ideal para a biblioteca?
 
 ## Referências Bibliograficas
 
