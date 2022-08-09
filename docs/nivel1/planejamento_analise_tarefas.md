@@ -30,6 +30,9 @@ ao escolher o público-alvo de forma heterogênea ou mesmo quando ele for extrem
 | 5     |  Suponha que você esteja na home do site e deseje acessar a intranet. O que você faria primeiro?  | [ ] Tentaria encontrar a página de login da Intranet <br>[ ] Outra<br> |
 | 5     |  Já consultou o salário de algum servidor?  | [ ] Sim [ ] Não |
 | 7     |  Suponha que você esteja na home do site e deseje consultar o salário de algum servidor. O que você faria primeiro?  | [ ] Tentaria encontrar um botão "Servidores" ou "Salários" <br>[ ] Outra<br> |
+| 8     |  O que você acha da página de login da intranet?  | [ ] Boa [ ] Regular [ ] Ruim |
+| 9     |  Você costuma pedir renovação das credenciais de acesso?  | [ ] Sim  [ ] Não |
+| 10     |  Como costuma identificar o servidor desejado?  | [ ] Nome  [ ] Cpf [ ] Outro |
 
 
 ## Referências Bibliograficas
