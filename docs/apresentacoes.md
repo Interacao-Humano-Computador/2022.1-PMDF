@@ -22,9 +22,15 @@ allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oDBo79jatc8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## 4. Apresentação 4
+
+### 4.1 Vídeo
+
+
 ## Histórico de Versões
 | Versão | Data  | Descrição                    | Autor(es)         |
 |--------|-------|------------------------------|-------------------|
 | 1.0    | 11/07 | Criação da Página            | Bernardo Pissutti |
 | 1.1    | 20/07 | Adição do video da entrega 2 | Beranrdo Pissutti |
-| 1.2    | 02/08 | Adição do video da entrega 3 | Arthur josé |
+| 1.2    | 02/08 | Adição do video da entrega 3 | Arthur josé       |
+| 1.3    | 08/08 | Adição do vídeo da entrega 4 | Bernardo Pissutti |
