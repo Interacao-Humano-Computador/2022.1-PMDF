@@ -46,7 +46,7 @@ A figura a seguir (Figura 1) apresenta o storyboard referente a tarefa de Logar 
 |:------------------------------------------------------------------------------------------------------------------:|
 | Figura 1: Storyboard referente a tarefa de Logar na Intranet <br/>Autoria: Bernardo Pissutti (Integrante do Grupo) |
 
-#### [Tarefa 2: Consultar Salário de Servidor](Logar na Intranet)
+#### [Tarefa 2: Consultar Salário de Servidor](analise_de_requisitos/analise_de_tarefas.md?id=_3-goms-goals-operators-methods-and-selection-rules)
 
 A figura a seguir (Figura 2) apresenta o storyboard referente a tarefa de Logar na Intranet.
 
