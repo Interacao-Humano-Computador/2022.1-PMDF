@@ -24,7 +24,7 @@ ao escolher o público-alvo de forma heterogênea ou mesmo quando ele for extrem
 Tendo como base o perfil do usuário levantado, optamos por aplicar a entrevista em dois policiais de meia idade, ambos com ensino superior completo. 
 
 O entrevistador deverá se apresentar e informar os objetivos principais da entrevista. Em seguida, coletará dados gerais como sexo, idade e formação e, em seguida, 
-seguirá para a realização das perguntas. Após elas, haverá uma solenidade de agradecimento na qual eventuais anotações serão apresentadas para crítica do entrevistado.
+seguirá para a realização das perguntas. Após elas, haverá uma solenidade de agradecimento na qual eventuais anotações doe entrevistador podem ser apresentadas para crítica e análise do entrevistado.
 
 ## 5. Perguntas
 
