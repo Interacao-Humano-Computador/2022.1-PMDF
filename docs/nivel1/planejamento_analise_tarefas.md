@@ -1,4 +1,4 @@
-# Planejamento da Análise de Tareafas
+# Planejamento da Análise de Tarefas
 
 ## 1. Introdução
 
@@ -23,12 +23,12 @@ ao escolher o público-alvo de forma heterogênea ou mesmo quando ele for extrem
 
 | Número | <center> Pergunta                                  | <center> Opções de resposta                   |
 |:-----:|:---------------------------------------------------|:----------------------------------------------|
-| 1     | Quantos anos você tem?                                  |                                               |
-| 2     | Possui formação superior?      | [ ] Sim [ ] Não |
-| 3     | Já utilizou o site da PMDF?      | [ ] Sim<br> [ ] Não<br> |
-| 4     | Já acessou a rede interna do site (Intranet)?      | [ ] Sim<br> [ ] Não<br>    |
+| 1     |  Quantos anos você tem?                                  |                                               |
+| 2     |  Possui formação superior?      | [ ] Sim [ ] Não |
+| 3     |  Já utilizou o site da PMDF?      | [ ] Sim<br> [ ] Não<br> |
+| 4     |  Já acessou a rede interna do site (Intranet)?      | [ ] Sim<br> [ ] Não<br>    |
 | 5     |  Suponha que você esteja na home do site e deseje acessar a intranet. O que você faria primeiro?  | [ ] Tentaria encontrar a página de login da Intranet <br>[ ] Outra<br> |
-| 5     | Já consultou o salário de algum servidor?  | [ ] Sim<br>[ ] Não<br> |
+| 5     |  Já consultou o salário de algum servidor?  | [ ] Sim<br>[ ] Não<br> |
 | 7     |  Suponha que você esteja na home do site e deseje consultar o salário de algum servidor. O que você faria primeiro?  | [ ] Tentaria encontrar um botão "Servidores" ou "Salários" <br>[ ] Outra<br> |
 
 
