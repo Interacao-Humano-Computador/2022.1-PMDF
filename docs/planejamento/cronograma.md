@@ -84,15 +84,15 @@ _Tabela 4: Terceira Etapa_
 
 A tabela 5 correspondente às atividades da quarta etapa do projeto no 08/08/2022.
 
-| Data          | Atividade                                       | Responsáveis        | Revisores            |
-| ------------- | ----------------------------------------------- | ------------------- | -------------------- |
-| 08/08         | Planejamento da avaliação da análise de tarefas | Cícero e Arthur     | Bernardo e Guilherme |
-| 08/08         | Planejamento da avaliação do storyboard         | Leonardo            | Cícero               |
-| 07/08 - 08/08 | Planejamento do relato da análise de tarefas    | Nicolas             | Leonardo             |
-| 07/08         | Planejamento do relato do storyboard            | Bernardo            | Arthur               |
-| 08/08         | Storyboard                                      | Guilherme, Bernardo | Nícolas              |
-| 08/08         | Cronograma de entrega sprint 4                  | Cícero              | Todos                |
-| 08/08         | Gravação da entrega                             | Todos               | Todos                |
+| Data          | Atividade                                                 | Responsáveis        | Revisores            |
+| ------------- | --------------------------------------------------------- | ------------------- | -------------------- |
+| 08/08         | Planejamento do relato da avaliação da análise de tarefas | Cícero e Arthur     | Bernardo e Guilherme |
+| 08/08         | Planejamento da avaliação do storyboard                   | Leonardo            | Cícero               |
+| 07/08 - 08/08 | Planejamento de avaliação da análise de tarefas           | Nicolas             | Leonardo             |
+| 07/08         | Planejamento do relato do storyboard                      | Bernardo            | Arthur               |
+| 08/08         | Storyboard                                                | Guilherme, Bernardo | Nícolas              |
+| 08/08         | Cronograma de entrega sprint 4                            | Cícero              | Todos                |
+| 08/08         | Gravação da entrega                                       | Todos               | Todos                |
 
 _Tabela 5: Terceira Etapa_
 
@@ -143,11 +143,11 @@ O backlog da sprint 4 representado na _Figura 7_ e na _Figura 8_ o kanban board.
 
 | ![image](../_media/backLogSprint4IHC.png) |
 | ----------------------------------------- |
-| _Figura 5: backlog da sprint 3_           |
+| _Figura 7: backlog da sprint 4_           |
 
 | ![image](../_media/quadroKanbanSprint4IHC.png) |
 | ---------------------------------------------- |
-| _Figura 6: quadro kanban da sprint 3_          |
+| _Figura 8: quadro kanban da sprint 4_          |
 
 ## Histórico de Versões
 
