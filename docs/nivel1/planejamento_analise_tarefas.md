@@ -13,7 +13,7 @@ Planejar como será a submissão das tarefas levantadas ao escrutínio dos usuá
 
 ## 3. Metodologia
 
-A metodologia consitirá, primariamente, na realização de entrevistas com os usuários do site da PMDF.
+A metodologia consistirá, primariamente, na realização de entrevistas com os usuários do site da PMDF.
 
 Dado o caráter muitas vezes informal dessa estratégia, é possível facilmente coletar dados antes ignorados sobre os fluxos e objetivos que o usuário deseja alcançar através da interface, além
 de enumerar possíveis problemas que ele possa ter. Embora tenda a exigir mais tempo que os questionários tradicionais, tende também a produzir resultados significativos 
@@ -48,6 +48,7 @@ ROGERS, Y.; SHARP, H.; PREECE, J. Design de interação: além da Interação hu
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                        | Autor              |
-|--------|------------|----------------------------------|--------------------|
-|  1.0   | 07/08/2022 | Escrita do documento | Nícolas Georgeos Mantzos |
+| Versão | Data       | Descrição                                | Autor                    |
+|--------|------------|------------------------------------------|--------------------------|
+| 1.0    | 07/08/2022 | Escrita do documento                     | Nícolas Georgeos Mantzos |
+| 1.1    | 08/08/2022 | Revisão do Documento - Correção de Erros | Guilherme Brito          |
