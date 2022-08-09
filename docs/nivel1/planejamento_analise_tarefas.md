@@ -19,7 +19,14 @@ Dado o caráter muitas vezes informal dessa estratégia, é possível facilmente
 de enumerar possíveis problemas que ele possa ter. Embora tenda a exigir mais tempo que os questionários tradicionais, tende também a produzir resultados significativos 
 ao escolher o público-alvo de forma heterogênea ou mesmo quando ele for extremamente homogêneo.
 
-## 4. Perguntas
+## 4. Execução
+
+Tendo como base o perfil do usuário levantado, optamos por aplicar a entrevista em dois policiais de meia idade, ambos com ensino superior completo. 
+
+O entrevistador deverá se apresentar e informar os objetivos principais da entrevista. Em seguida, coletará dados gerais como sexo, idade e formação e, em seguida, 
+seguirá para a realização das perguntas. Após elas, haverá uma solenidade de agradecimento na qual eventuais anotações serão apresentadas para crítica do entrevistado.
+
+## 5. Perguntas
 
 | Número | <center> Pergunta                                  | <center> Opções de resposta                   |
 |:-----:|:---------------------------------------------------|:----------------------------------------------|
