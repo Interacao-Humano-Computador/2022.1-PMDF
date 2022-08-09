@@ -13,7 +13,7 @@ Planejar como será a submissão das tarefas levantadas ao escrutínio dos usuá
 
 ## 3. Metodologia
 
-A metodologia consitirá, primariamente, na realização de entrevistas com os usuários do site da PMDF.
+A metodologia consistirá, primariamente, na realização de entrevistas com os usuários do site da PMDF.
 
 Dado o caráter muitas vezes informal dessa estratégia, é possível facilmente coletar dados antes ignorados sobre os fluxos e objetivos que o usuário deseja alcançar através da interface, além
 de enumerar possíveis problemas que ele possa ter. Embora tenda a exigir mais tempo que os questionários tradicionais, tende também a produzir resultados significativos 
