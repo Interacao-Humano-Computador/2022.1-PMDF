@@ -23,7 +23,7 @@ Importante frizar que os protótipos de baixa-fidelidade nunca são projetados p
 
 O storyboard é um exemplo de prototipação de baixa-fidelidade, geralmente utilizado em conjunto com **cenários**;
 
-Consiste em uma seŕie de desenhos mostrando como um usuário pode progredir em uma tarefa utilizando o produto que está sendo desenvolvido, podendo se tratar de uma série de telas esboçadas, no caso de um sistema de software baseado em GUI, ou de uma série de cenas desenhadas mostrando como um usuário pode desempenhar determinada tarefa utilizando um produto.
+Consiste em uma série de desenhos mostrando como um usuário pode progredir em uma tarefa utilizando o produto que está sendo desenvolvido, podendo se tratar de uma série de telas esboçadas, no caso de um sistema de software baseado em GUI, ou de uma série de cenas desenhadas mostrando como um usuário pode desempenhar determinada tarefa utilizando um produto.
 
 ### Como aplicar?
 > Primeiro, é preciso ter uma ideia bem definida do que comunicar e testar. Com base nisso, deve-se elaborar um roteiro por escrito e, em seguida, separar a história em seções, levando em conta:
