@@ -19,6 +19,7 @@
   - *Nível 1*
     - [Planejamento de Avaliação - Storyboard](nivel1/planejamento_avaliacao_storyboard.md)
     - [Planejamento de Avaliação - Análise de Tarefas](nivel1/planejamento_analise_tarefas.md)
-    - [Planejamento do Relato - Storyboard](nivel1/planejamento_relato_storyboard.md)
-    - [Planejamento do Relato - Análise de tarefas](nivel1/planejamento_relato_analise.md)
+    - [Planejamento dos Relatos](nivel1/planejamento_relato_storyboard_analise_tarefa.md)
     - [StoryBoard](nivel1/storyboard.md)
+  - *Nível 2*
+    - [Planejamento do Relato - Protótipo de Pepel](nivel2/planejamento_relato_prototipo_de_papel.md)
