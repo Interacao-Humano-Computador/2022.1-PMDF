@@ -80,7 +80,7 @@ Vianna, M.; Vianna, Y.; Adler, I.; Lucena, B.; Russo, B.; MVJ Press 2012. Design
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                            | Autor              |
-| ------ | ---------- | ------------------------------------ | ------------------ |
-| 1.0    | 07/08/2022 | Criação da Introdução, Objetivo, Metodologia, Aspectos éticos e Avaliação  | Leonardo Vitoriano |
+| Versão | Data        | Descrição                                                                  | Autor                       |
+|--------|-------------|----------------------------------------------------------------------------|-----------------------------|
+| 1.0    | 07/08/2022  | Criação da Introdução, Objetivo, Metodologia, Aspectos éticos e Avaliação  | Leonardo Vitoriano          |
 

@@ -1,4 +1,4 @@
-# Planejamento da Análise de Tarefas
+# <center> Planejamento da Análise de Tarefas
 
 ## 1. Introdução
 

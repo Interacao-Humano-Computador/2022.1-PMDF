@@ -1,4 +1,4 @@
-# <center> Metodologia
+# <center> Metodologia 
 
 Tendo em vista o foco do trabalho na Interação Humano Computador e na importância da documentação sempre destacada nessa área,
 optamos por utilizar abordagens de desenvolvimento dirigidas a plano, nas quais,

@@ -1,8 +1,8 @@
-# <center> Planejamento do Relato dos Resultados da Análise de tarefas
+# <center> Planejamento dos Relatos dos Resultados do Storyboard e da Análise de Tarefas
 
 ## 1. Introdução
 
-Este documento visa especificar como os resultados do [_método de avaliação selecionado_](nivel1/planejamento_analise_tarefas.md)
+Este documento visa especificar como os resultados do [_método de avaliação selecionado_](nivel1/planejamento_avaliacao_storyboard.md)
 devem ser relatados, interpretados, consolidados.
 
 ## 2. Planejamento
@@ -11,19 +11,19 @@ devem ser relatados, interpretados, consolidados.
 
 O relato dos resultados feito pelos avaliadores deve incluir:
 
-- O objetivo da avaliação;
-- O método que a avaliação foi realizada;
-- O perfil dos usuários e avaliadores que participaram da avaliação;
-- Um sumário dos dados coletados;
-- Um relato da interpretação e análise dos dados;
-- Uma lista dos problemas encontrados
+* O objetivo da avaliação;
+* O método que a avaliação foi realizada;
+* O perfil dos usuários e avaliádores que participaram da avalição;
+* Um sumário dos dados coletados;
+* Um relato da interpretação e análise dos dados;
+* Uma lista dos problemas encontrados.
 
 ### 2.2 Interpretação
 
 A interpretação do avaliador deve ser orientada pelo método de avaliação selecionado. Uma vez que o método
 selecionado foi uma entrevista, logo a interpretação terá que ser feita de forma manual e levando em consideração
-os focos da análise (quais dados devem ser analisados sob quais perspectivas de análise) tendo em vista o método de
-avaliação escolhido. (Barbosa, Simone; p. 278)
+os focos da análise (quais dados devem ser análisados sob quais perspectivas de análise) tendo em vista o método de 
+avaliação escolhido. (Barbose, Simone; p. 278)
 
 ### 2.3 Consolidação
 
@@ -42,6 +42,7 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição            | Autor                     |
-| ------ | ---------- | -------------------- | ------------------------- |
-| 1.0    | 08/08/2022 | Criação do documento | Cícero Fernandes e Arthur |
+| Versão | Data       | Descrição                            | Autor             |
+|--------|------------|--------------------------------------|-------------------|
+| 1.0    | 07/08/2022 | Criação da Introdução, Consolidação  | Bernardo Pissutti |
+| 1.1    | 08/08/2022 | Criação da Análise e Relato          | Cícero e Artur    |
