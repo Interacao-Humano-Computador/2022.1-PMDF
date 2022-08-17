@@ -22,5 +22,7 @@
     - [Planejamento dos Relatos](nivel1/planejamento_relato_storyboard_analise_tarefa.md)
     - [StoryBoard](nivel1/storyboard.md)
   - _Nível 2_
+    - [Relato da Avaliação - Análise de Tarefas](nivel2/entrevista_analise_tarefas.md)
     - [Planejamento da avaliação - Protótipo de Pepel](nivel2/planejamento_avaliacao_prototipo_papel.md)
     - [Planejamento do Relato - Protótipo de Pepel](nivel2/planejamento_relato_prototipo_de_papel.md)
+    
