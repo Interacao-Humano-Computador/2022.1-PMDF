@@ -1,4 +1,4 @@
-# <center> Cronogramas 
+# <center> Cronogramas
 
 Planejamento das atividades para a disciplina de Interação Humano Computador, Semestre 2022.1.
 
@@ -94,7 +94,22 @@ A tabela 5 correspondente às atividades da quarta etapa do projeto no 08/08/202
 | 08/08         | Cronograma de entrega sprint 4                            | Cícero              | Todos                |
 | 08/08         | Gravação da entrega                                       | Todos               | Todos                |
 
-_Tabela 5: Terceira Etapa_
+_Tabela 5: Quarta Etapa_
+
+### 2.5 Quinta Etapa Do projeto
+
+A tabela 6 correspondente às atividades da quarta etapa do projeto no 08/08/2022.
+
+| Data  | Atividade                                                                | Responsáveis    | Revisores |
+| ----- | ------------------------------------------------------------------------ | --------------- | --------- |
+| 17/08 | Construção do cronograma de atividades                                   | Cícero          | Todos     |
+| 17/08 | Relato dos resultados story board                                        | Leonardo        | Cícero    |
+| 17/08 | Relato dos resultados análise de tarefas                                 | Guilherme       | Nicolas   |
+| 12/08 | Planejamento da avaliação do protótipo de papel                          | Cícero e Arthur | Guilherme |
+| 08/08 | Planejamento do relato dos resultados da avaliação do protótipo de papel | Bernardo        | Nícolas   |
+| 17/08 | Gravação da entrega                                                      | Todos           | Todos     |
+
+_Tabela 6: Quinta Etapa_
 
 ## 3. Sprints
 
@@ -149,6 +164,18 @@ O backlog da sprint 4 representado na _Figura 7_ e na _Figura 8_ o kanban board.
 | ---------------------------------------------- |
 | _Figura 8: quadro kanban da sprint 4_          |
 
+### 3.5 Sprint 5
+
+O backlog da sprint 5 representado na _Figura 9_ e na _Figura 10_ o kanban board.
+
+| ![image](../_media/backLogSprint5IHC.png) |
+| ----------------------------------------- |
+| _Figura 9: backlog da sprint 5_           |
+
+| ![image](../_media/quadroKanbanSprint5IHC.png) |
+| ---------------------------------------------- |
+| _Figura 10: quadro kanban da sprint 5_         |
+
 ## Histórico de Versões
 
 | Versão | Data       | Descrição                  | Autor  |
@@ -157,3 +184,4 @@ O backlog da sprint 4 representado na _Figura 7_ e na _Figura 8_ o kanban board.
 | 1.1    | 20/07/2022 | Adição da segunda entrega  | Cícero |
 | 1.2    | 28/07/2022 | Adição da Terceira entrega | Cícero |
 | 1.3    | 08/08/2022 | Adição da Quarta entrega   | Cícero |
+| 1.4    | 17/08/2022 | Adição da Quinta entrega   | Cícero |
