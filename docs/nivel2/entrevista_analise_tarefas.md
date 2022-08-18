@@ -1,4 +1,4 @@
-# Aválise de Tarefas - Entrevistas de Validação
+# Análise de Tarefas - Entrevistas de Validação
 
 ## 1. Introdução
 
