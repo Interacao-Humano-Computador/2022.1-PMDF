@@ -105,12 +105,17 @@ ____
 **Importante salientar que as perguntas tiveram respostas concisas pois foram escolhidas somente perguntas fechadas no
 planejamento.**
 
+## 3. Conclusão
+
+Pelas respostas dadas, concluí-se que o fluxo das análises de tarefas condiz com o que foi relatado pelos dois usuários
+nas entrevistas.
+
 ## Histórico de Versões
 
-| Versão | Data       | Descrição           | Autor           |
-| ------ |------------|---------------------|-----------------|
-| 1.0    | 17/08/2022 | Criação do Artefato | Guilherme Brito |
-
+| Versão | Data       | Descrição                    | Autor           |
+|--------|------------|------------------------------|-----------------|
+| 1.0    | 17/08/2022 | Criação do Artefato          | Guilherme Brito |
+| 1.1    | 18/08/2022 | Inclusão do Tópico Conclusão | Guilherme Brito |
 
 
 
