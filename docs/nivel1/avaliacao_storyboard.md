@@ -21,10 +21,7 @@ No total, foram feitas 2 entrevistas com policiais militares do Distrito Federal
 
 ### 4.1 Entrevista 1
 
-
-<iframe width="560" height="315" src="https://youtu.be/zIcDyNI_Ld0" title="YouTube video player" 
-frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+O link da entrevista 1 pode ser encontrado <a href="https://youtu.be/zIcDyNI_Ld0">aqui</a>.
 
 A primeira entrevista foi realizada pelo integrante Leonardo Vitoriano, dia 17 de Agosto às 15:00, com a entrevistada Ana Karla, policiail militar do Distrito Federal. O participante disse ter visualizado os storyboards desenvolvidos pelo grupo antes da realização da entrevista.
 
@@ -34,11 +31,9 @@ Já com relação ao segundo storyboard, no qual refere-se à um usuario almejan
 
 ### 4.1 Entrevista 2
 
-<iframe width="560" height="315" src="https://youtu.be/uTPBJdjQPeo" title="YouTube video player" 
-frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+O link da entrevista 2 pode ser encontrado <a href="https://youtu.be/uTPBJdjQPeo">aqui</a>.
 
-A primeira entrevista foi realizada pelo integrante Leonardo Vitoriano, dia 17 de Agosto às 16:00, com o entrevistado Cleber Elias, policiail militar do Distrito Federal. O participante disse ter visualizado os storyboards desenvolvidos pelo grupo antes da realização da entrevista.
+A segunda entrevista foi realizada pelo integrante Leonardo Vitoriano, dia 17 de Agosto às 16:00, com o entrevistado Cleber Elias, policiail militar do Distrito Federal. O participante disse ter visualizado os storyboards desenvolvidos pelo grupo antes da realização da entrevista.
 
 Sobre o primeiro storyboard, no qual diz respeito a dificuldade do usuário policial militar em solicitar um serviço voluntário pois não consegue entrar na intranet, o entrevistado diz concordar com a situação ilustrada, dizendo que já passou pelo contexto mostrado.
 
