@@ -23,7 +23,7 @@ No total, foram feitas 2 entrevistas com policiais militares do Distrito Federal
 
 O link da entrevista 1 pode ser encontrado <a href="https://youtu.be/zIcDyNI_Ld0">aqui</a>.
 
-A primeira entrevista foi realizada pelo integrante Leonardo Vitoriano, dia 17 de Agosto às 15:00, com a entrevistada Ana Karla, policiail militar do Distrito Federal. O participante disse ter visualizado os storyboards desenvolvidos pelo grupo antes da realização da entrevista.
+A primeira entrevista foi realizada pelo integrante Leonardo Vitoriano, dia 17 de Agosto às 15:00, com a entrevistada Ana Karla, policial militar do Distrito Federal. O participante disse ter visualizado os storyboards desenvolvidos pelo grupo antes da realização da entrevista.
 
 Sobre o primeiro storyboard, no qual diz respeito a dificuldade do usuário policial militar em solicitar um serviço voluntário pois não consegue entrar na intranet, a entrevistada diz concordar com a situação ilustrada, completando com a informação de que essa mesma situação já ocorreu ela.
 

@@ -13,6 +13,11 @@ neste [link](nivel1/planejamento_analise_tarefas.md).
 
 ### 2.1 Entrevista 1
 
+> > A primeira entrevista foi realizada pelo integrante Leonardo Vitoriano, dia 17 de Agosto às 18:00, com a
+> > entrevistada Ana Karla, policial militar do Distrito Federal. O participante teve conhecimento do [termo de
+> > consentimento](analise_de_requisitos/aspectos_eticos?id=_22-termo-de-consentimento-análise-de-tarefas) e permitiu o uso da imagem para fins acadêmicos.
+
+
 **Quantos anos você tem?**
 
 > 42.
@@ -57,6 +62,11 @@ A gravação dessa entrevista pode ser vista neste [link](https://www.youtube.co
 ____
 
 ### 2.2 Entrevista 2
+
+> > A segunda entrevista foi realizada pelo integrante Leonardo Vitoriano, dia 17 de Agosto às 19:00, com o entrevistado
+> > Cleber Elias, policial militar do Distrito Federal. O participante teve conhecimento do [termo de
+> > consentimento](analise_de_requisitos/aspectos_eticos?id=_22-termo-de-consentimento-análise-de-tarefas) e permitiu o uso da imagem para fins acadêmicos.
+
 
 **Quantos anos você tem?**
 
@@ -105,12 +115,17 @@ ____
 **Importante salientar que as perguntas tiveram respostas concisas pois foram escolhidas somente perguntas fechadas no
 planejamento.**
 
+## 3. Conclusão
+
+Pelas respostas dadas, concluí-se que o fluxo das análises de tarefas condiz com o que foi relatado pelos dois usuários
+nas entrevistas.
+
 ## Histórico de Versões
 
-| Versão | Data       | Descrição           | Autor           |
-| ------ |------------|---------------------|-----------------|
-| 1.0    | 17/08/2022 | Criação do Artefato | Guilherme Brito |
-
+| Versão | Data       | Descrição                    | Autor           |
+|--------|------------|------------------------------|-----------------|
+| 1.0    | 17/08/2022 | Criação do Artefato          | Guilherme Brito |
+| 1.1    | 18/08/2022 | Inclusão do Tópico Conclusão | Guilherme Brito |
 
 
 
