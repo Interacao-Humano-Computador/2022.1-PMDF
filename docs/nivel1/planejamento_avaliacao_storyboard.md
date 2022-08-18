@@ -24,7 +24,7 @@ A entrevista é considerada uma conversa guiada por um roteiro de perguntas ou t
 
 ## 4. Aspectos Éticos 
 
-Antes de começar a entrevista, é importante que o entrevistador tenha apresentado a pessoa que será entrevistada o [termo de compromisso](../analise_de_requisitos/aspectos_eticos.md). Após o esclarecimento dos aspectos éticos do projeto, tendo em vista que será utilizado para o escopo do nosso projeto, o entrevistado, antes de começar a gravação, deve dizer:
+Antes de começar a entrevista, é importante que o entrevistador tenha apresentado a pessoa que será entrevistada o <a href="https://interacao-humano-computador.github.io/2022.1-PMDF/#/analise_de_requisitos/aspectos_eticos">termo de compromisso</a>. Após o esclarecimento dos aspectos éticos do projeto, tendo em vista que será utilizado para o escopo do nosso projeto, o entrevistado, antes de começar a gravação, deve dizer:
 
 "Eu estou ciente dos termos e dou meu consentimento para sua realização".
 
@@ -36,7 +36,7 @@ Para validação do storyboard serão feitas algumas perguntas com objetivo de s
 
 ### 5.1 Participantes
 
-A definição de quem será entrevistado ou não baseia-se no documento de [perfil do usuario](../analise_de_requisitos/perfil_do_usuario.md). Dentro dele, foi definido que o público-alvo final do sistema avaliado pela nossa equipe compreeende:
+A definição de quem será entrevistado ou não baseia-se no documento de <a href="https://interacao-humano-computador.github.io/2022.1-PMDF/#/analise_de_requisitos/perfil_do_usuario">perfil do usuario</a>. Dentro dele, foi definido que o público-alvo final do sistema avaliado pela nossa equipe compreeende:
 
 - Policial Militar
 - Policial Militar aposentado
@@ -51,12 +51,8 @@ As entrevistas podem ser classificadas como estruturadas, não estruturadas e se
 |:---:|:----------|:-------------------|
 | 1 | Analisando o primeiro storyboard, a situação ilustrada condiz com a realidade? | [ ] Sim<br>[ ] Não<br> Caso afirmativo, vá para a pergunta 3 |
 | 2 | Qual sugestão de alteração ou melhoria para o storyboard 1? | Pergunta discursiva |
-| 3 | Analisando o segundo storyboard,  a situação ilustrada condiz com a realidade? | [ ] Sim<br>[ ] Não<br>  Caso afirmativo, vá para a pergunta 5 |
+| 3 | Analisando o segundo storyboard,  a situação ilustrada condiz com a realidade? | [ ] Sim<br>[ ] Não<br>  Caso afirmativo, finalize a entrevista. |
 | 4 | Qual sugestão de alteração ou melhoria para o storyboard 2? | Pergunta discursiva |
-| 5 | Analisando o terceiro storyboard, a situação ilustrada condiz com a realidade? | [ ] Sim<br>[ ] Não<br> Caso afirmativo, vá para a pergunta 7 |
-| 6 | Qual sugestão de alteração ou melhoria para o storyboard 3? | Pergunta discursiva |
-| 7 | Analisando o quarto storyboard, a situação ilustrada condiz com a realidade? | [ ] Sim<br>[ ] Não<br> Caso afirmativo, finalize a entrevista. |
-| 8 | Qual sugestão de alteração ou melhoria para o storyboard 4? | Pergunta discursiva |
 
 ### 5.3 Execução
 

@@ -34,6 +34,44 @@ Enfim, tendo sido orientado quanto ao teor de todo o aqui mencionado e compreend
 No início da gravação, o participante dirá “Eu estou ciente dos termos e
 dou meu consentimento para sua realização”.
 
+### 2.1 Termo de Consentimento Storyboard
+
+Somos alunos do curso de Engenharia de Software da Universidade UnB, que estamos
+realizando um projeto da disciplina de Interação Humano Computador, com o objetivo
+de analisar a interface do site da PMDF
+(Polícia Militar do Distrito Federal).
+
+O objetivo da entrevista que você pode participar é analisar os storyboards realizados durante a etapa de prototipação de baixa-fidelidade do nosso projeto, para validar se as situações ilustradas são condizentes com a realidade.
+
+A duração da entrevista não irá passar de 35 minutos.
+
+A entrevista será gravada, portanto, tanto a imagem do entrevistado quanto o áudio serão registrados
+para futuras análises. Fui alertado de que, o vídeo será publicado no Youtube, porém com a visualização restrita, na categoria "Não Listado", para acesso somente com o link, sendo este compartilhado estritamente com finalidade acadêmica.
+
+Enfim, tendo sido orientado quanto ao teor de todo o aqui mencionado e compreendido a natureza e o objetivo do já referido estudo, manifesto meu livre consentimento em participar, estando totalmente ciente de que não há nenhum valor econômico, a receber ou a pagar, por minha participação.
+
+No início da gravação, o participante dirá “Eu estou ciente dos termos e
+dou meu consentimento para sua realização”.
+
+### 2.2 Termo de Consentimento Análise de Tarefas
+
+Somos alunos do curso de Engenharia de Software da Universidade UnB, que estamos
+realizando um projeto da disciplina de Interação Humano Computador, com o objetivo
+de analisar a interface do site da PMDF
+(Polícia Militar do Distrito Federal).
+
+O objetivo da entrevista que você pode participar é analisar os fluxos de tarefas, para validar se os passos que o grupo previu são os mesmo que os usuários realizam.
+
+A duração da entrevista não irá passar de 35 minutos.
+
+A entrevista será gravada, portanto, tanto a imagem do entrevistado quanto o áudio serão registrados
+para futuras análises. Fui alertado de que, o vídeo será publicado no Youtube, porém com a visualização restrita, na categoria "Não Listado", para acesso somente com o link, sendo este compartilhado estritamente com finalidade acadêmica.
+
+Enfim, tendo sido orientado quanto ao teor de todo o aqui mencionado e compreendido a natureza e o objetivo do já referido estudo, manifesto meu livre consentimento em participar, estando totalmente ciente de que não há nenhum valor econômico, a receber ou a pagar, por minha participação.
+
+No início da gravação, o participante dirá “Eu estou ciente dos termos e
+dou meu consentimento para sua realização”.
+
 ## Referências Bibliográficas
 
 Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)
@@ -45,3 +83,4 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN
 | ------ | ---------- | -------------------------------- | ------------------ |
 | 1.0    | 19/07/2022 | Criação do Termo de Consentimeto | Leonardo Vitoriano |
 | 1.1    | 20/07/2022 | Adição da seção introdução       | Bernardo Pissutti  |
+| 1.2    | 17/08/2022 | Adição do Termo de Consentimeto Storyboard e Analise de Tarefa | Bernardo Pissutti  |
