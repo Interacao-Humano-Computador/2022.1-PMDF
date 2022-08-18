@@ -35,7 +35,7 @@ seguirá para a realização das perguntas. Após elas, haverá uma solenidade d
 | 3     |  Já utilizou o site da PMDF?      | [ ] Sim [ ] Não |
 | 4     |  Já acessou a rede interna do site (Intranet)?      | [ ] Sim [ ] Não    |
 | 5     |  Suponha que você esteja na home do site e deseje acessar a intranet. O que você faria primeiro?  | [ ] Tentaria encontrar a página de login da Intranet <br>[ ] Outra<br> |
-| 5     |  Já consultou o salário de algum servidor?  | [ ] Sim [ ] Não |
+| 6     |  Já consultou o salário de algum servidor?  | [ ] Sim [ ] Não |
 | 7     |  Suponha que você esteja na home do site e deseje consultar o salário de algum servidor. O que você faria primeiro?  | [ ] Tentaria encontrar um botão "Servidores" ou "Salários" <br>[ ] Outra<br> |
 | 8     |  O que você acha da página de login da intranet?  | [ ] Boa [ ] Regular [ ] Ruim |
 | 9     |  Você costuma pedir renovação das credenciais de acesso?  | [ ] Sim  [ ] Não |
