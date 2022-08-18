@@ -14,8 +14,8 @@ neste [link](nivel1/planejamento_analise_tarefas.md).
 ### 2.1 Entrevista 1
 
 > > A primeira entrevista foi realizada pelo integrante Leonardo Vitoriano, dia 17 de Agosto às 18:00, com a
-> > entrevistada Ana Karla, policial militar do Distrito Federal. O participante teve conhecimento do termo de
-> > consentimento e permitiu o uso da imagem para fins acadêmicos.
+> > entrevistada Ana Karla, policial militar do Distrito Federal. O participante teve conhecimento do [termo de
+> > consentimento](analise_de_requisitos/aspectos_eticos?id=_2-termo-de-consentimento) e permitiu o uso da imagem para fins acadêmicos.
 
 
 **Quantos anos você tem?**
@@ -64,8 +64,8 @@ ____
 ### 2.2 Entrevista 2
 
 > > A segunda entrevista foi realizada pelo integrante Leonardo Vitoriano, dia 17 de Agosto às 19:00, com o entrevistado
-> > Cleber Elias, policial militar do Distrito Federal. O participante teve conhecimento do termo de
-> > consentimento e permitiu o uso da imagem para fins acadêmicos.
+> > Cleber Elias, policial militar do Distrito Federal. O participante teve conhecimento do [termo de
+> > consentimento](analise_de_requisitos/aspectos_eticos?id=_2-termo-de-consentimento) e permitiu o uso da imagem para fins acadêmicos.
 
 
 **Quantos anos você tem?**
