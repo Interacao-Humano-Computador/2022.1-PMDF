@@ -6,12 +6,19 @@ Neste artefato será apresentada a Validação da Análise de Tarefas feita ante
 vista [aqui](analise_de_requisitos/analise_de_tarefas.md).
 Essa validação se dará por meio de entrevistas.
 
-## 2. Entrevistas
+## 2. Metodologia
+
+Segundo Barbosa (2021), a entrevista é considerada uma conversa guiada por um roteiro de perguntas ou tópicos, na qual um entrevistador busca obter informações de um entrevistado. Sendo assim, ela permite coletar muitas informações detalhadas e profundas de usuários individuais, mais do que questionários e grupos de foco.
+
+Os entrevistados se encaixam no perfil do usuário, todavia não foi exigido conhecimento prévio dos entrevistados com relação a experiencia na utilização do sistema nem familiriadade com o site. O único requisito exigido para os entrevistados foi se já utilizaram o sistema ao menos uma vez.
+
+
+## 3. Entrevistas
 
 As perguntas das entrevistas foram definidas na etapa de planejamento e são encontradas aqui
 neste [link](nivel1/planejamento_analise_tarefas.md).
 
-### 2.1 Entrevista 1
+### 3.1 Entrevista 1
 
 > > A primeira entrevista foi realizada pelo integrante Leonardo Vitoriano, dia 17 de Agosto às 18:00, com a
 > > entrevistada Ana Karla, policial militar do Distrito Federal. O participante teve conhecimento do [termo de
@@ -61,7 +68,7 @@ neste [link](nivel1/planejamento_analise_tarefas.md).
 A gravação dessa entrevista pode ser vista neste [link](https://www.youtube.com/watch?v=SUF0ygFnaRY).
 ____
 
-### 2.2 Entrevista 2
+### 3.2 Entrevista 2
 
 > > A segunda entrevista foi realizada pelo integrante Leonardo Vitoriano, dia 17 de Agosto às 19:00, com o entrevistado
 > > Cleber Elias, policial militar do Distrito Federal. O participante teve conhecimento do [termo de
@@ -115,17 +122,17 @@ ____
 **Importante salientar que as perguntas tiveram respostas concisas pois foram escolhidas somente perguntas fechadas no
 planejamento.**
 
-## 3. Conclusão
+## 4. Conclusão
 
 Pelas respostas dadas, concluí-se que o fluxo das análises de tarefas condiz com o que foi relatado pelos dois usuários
 nas entrevistas.
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                    | Autor           |
-|--------|------------|------------------------------|-----------------|
-| 1.0    | 17/08/2022 | Criação do Artefato          | Guilherme Brito |
-| 1.1    | 18/08/2022 | Inclusão do Tópico Conclusão | Guilherme Brito |
+| Versão | Data       | Descrição                                    | Autor           |
+|--------|------------|----------------------------------------------|-----------------|
+| 1.0    | 17/08/2022 | Criação do Artefato                          | Guilherme Brito |
+| 1.1    | 18/08/2022 | Inclusão de Tópicos: Conclusão e Metodologia | Guilherme Brito |
 
 
 
