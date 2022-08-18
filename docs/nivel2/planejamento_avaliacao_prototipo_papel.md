@@ -13,7 +13,7 @@ Para realizar a avaliação de IHC, por meio da prototipação em papel é preci
 
 ## Preparação
 
-Na Etapa de preparação,segundo (SIMONE, 2021) o avaliador define o perfil dos participantes para recrutá-los, em seguida, o avaliador deve convida os usuários a executarem algumas tarefas,
+Na Etapa de preparação,segundo (SIMONE, 2021) o avaliador define o perfil dos participantes para recrutá-los, em seguida, o avaliador deve convidar os usuários a executarem algumas tarefas,
 o avaliador também deve criar protótipos em papel para executar as tarefas, e deve executar um teste-piloto.
 
 ### Tarefas:
