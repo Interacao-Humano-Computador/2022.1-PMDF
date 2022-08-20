@@ -50,6 +50,6 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN
 
 ## Histórico de Versões
 
-| Versão | Data        | Descrição    | Autor                       |
-|--------|-------------|--------------|-----------------------------|
-| 1.0| 16/08/2022  | Criação da Introdução, Objetivo, Metodologia, Aspectos éticos e Avaliação|Leonardo Vitoriano|
+| Versão | Data        | Descrição                                                                 | Autor              |
+|--------|-------------|---------------------------------------------------------------------------|--------------------|
+| 1.0    |  16/08/2022 | Criação da Introdução, Objetivo, Metodologia, Aspectos éticos e Avaliação | Leonardo Vitoriano |
