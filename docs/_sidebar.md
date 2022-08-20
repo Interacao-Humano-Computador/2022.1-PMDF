@@ -26,4 +26,5 @@
   - _Nível 2_
     - [Planejamento da avaliação - Protótipo de Pepel](nivel2/planejamento_avaliacao_prototipo_papel.md)
     - [Planejamento do Relato - Protótipo de Pepel](nivel2/planejamento_relato_prototipo_de_papel.md)
-    
+  - **Análise**
+    - [Verificação](verificacao/verif_principal.md)
