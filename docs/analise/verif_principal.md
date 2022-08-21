@@ -26,7 +26,7 @@ foi levado em conta as etapas definadas por Fagan (1976). As quais são:
 [Verificação 03 : Análise de Tarefas](analise/verificacoes/)<br>
 [Verificação 04 : Principios Gerais](analise/verificacoes/)<br>
 [Verificação 05 : Metas de Usabilidade](analise/verificacoes/)<br>
-[Verificação 06 : Guia de Estilo](analise/verificacoes/)<br>
+[Verificação 06 : Guia de Estilo](analise/verificacoes/verificacao_guia_estilo.md)<br>
 
 
 ### 3.2 Design, Avaliação e Desenvolvimento
