@@ -15,7 +15,7 @@
   - [Guia de Estilo](analise_de_requisitos/guia_de_estilo.md)
   - [Metas de Usabilidade](analise_de_requisitos/metas_de_usabilidade.md)
   - [Princípios Gerais](analise_de_requisitos/principios_gerais.md)
-- **Design, Avaliação e Desenvolviento**
+- **Design, Avaliação e Desenvolvimento**
   - _Nível 1_
     - [Planejamento de Avaliação - Storyboard](nivel1/planejamento_avaliacao_storyboard.md)
     - [Planejamento de Avaliação - Análise de Tarefas](nivel1/planejamento_analise_tarefas.md)
@@ -24,6 +24,8 @@
     - [Relato da Avaliação - Storyboard](nivel1/avaliacao_storyboard.md)
     - [Relato da Avaliação - Análise de Tarefas](nivel1/entrevista_analise_tarefas.md)
   - _Nível 2_
-    - [Planejamento da avaliação - Protótipo de Pepel](nivel2/planejamento_avaliacao_prototipo_papel.md)
-    - [Planejamento do Relato - Protótipo de Pepel](nivel2/planejamento_relato_prototipo_de_papel.md)
+    - [Planejamento da avaliação - Protótipo de Papel](nivel2/planejamento_avaliacao_prototipo_papel.md)
+    - [Planejamento do Relato - Protótipo de Papel](nivel2/planejamento_relato_prototipo_de_papel.md)
+- **Análise**
+  - [Verificação](analise/verif_principal.md)
     
