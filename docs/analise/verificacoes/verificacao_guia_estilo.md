@@ -7,7 +7,7 @@ sobre [Guia de Estilo](/analise_de_requisitos/guia_de_estilo.md).
 
 ## Metodologia
 
-Como descrito no documento [Verificação](/verificacoes/verif_principal.md), o método escolhido foi o da inspeção.
+Como descrito no documento [Verificação](/analise/verif_principal.md), o método escolhido foi o da inspeção.
 A inspeção consiste em um tipo de checagem que elenca itens para verificação. O seu **objetivo** é identificar se as
 condições para a execução das tarefas estão em conformidade com o padrão de qualidade.
 
@@ -69,9 +69,9 @@ Tabela 2: Checklist de Verificação do Artefato: Guia de Estilo
 O seguinte gráfico de Pizza foi construído utilizando da Ferramenta: Google Sheets para melhor rastreamento dos itens
 nas próximas fases.
 
-| ![imagemGráfico](../_media/grafico_guiadeestilo.png) |
-|------------------------------------------------------|
-| Figura 1: Gráfico de Itens atendidos e não atendidos |
+| ![imagemGráfico](../../_media/grafico_guiadeestilo.png) |
+|---------------------------------------------------------|
+| Figura 1: Gráfico de Itens atendidos e não atendidos    |
 
 ### Resultados
 
