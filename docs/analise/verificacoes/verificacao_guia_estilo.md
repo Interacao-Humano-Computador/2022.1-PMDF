@@ -8,7 +8,6 @@ sobre [Guia de Estilo](/analise_de_requisitos/guia_de_estilo.md).
 - Autor do documento: Bernardo Pissutti e Arthur José.
 - Inspetor: Guilherme Brito.
 
-
 ## 2. Metodologia
 
 Como descrito no documento [Verificação](/analise/verif_principal.md), o método escolhido foi o da inspeção.
@@ -39,12 +38,7 @@ Após a preparação das perguntas, a fase seguinte corresponde ao processo de I
 tendo como base as perguntas elicitadas na fase de preparação. Os símbolos utilizados na Checklist são explicados na
 tabela a seguir (Tabela 1).
 
-| Símbolo   |  Significado  |
-|:---------:|:-------------:|
-|     ✅     |   Atendido    |
-|     ❌     | Não atendido  |
 
-_Tabela 1: Símbolos utilizados na checklist e seus significados_
 
 O Checklist foi constrúido com as colunas:
 
@@ -85,12 +79,11 @@ documento.
 
 ## 5. Correção
 
-Para a fase de correção um membro do grupo será escolhido para realizar as correções apontadas no guia de estilo.
 
 ## 6. Acompanhamento
 
 O membro Guilherme Brito será o responsável por acompanhar a tarefa de correção do membro definido no item anterior e
-assim realizar uma nova inspeção para fiscalização dos itens que foram apontados como não atendidos.
+assim .
 
 ## Referências Bibliográficas
 
