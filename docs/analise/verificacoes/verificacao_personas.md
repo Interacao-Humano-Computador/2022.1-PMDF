@@ -32,7 +32,7 @@ _Tabela 1: Itens e identificadores da verificação das personas_
 
 ### 2.2 Inspeção
 
-O resultado do checklist dos itens levantados consta na _tabela 1_ abaixo.
+A inspeção do artefato foi realizado pelo membro: Cícero Fernandes, no dia 22 de Agosto. Após a inspeção, a checklist foi construída e ela pode ser vista na Tabela 2.
 
 | Identificador | Situação |
 | ------------- | -------- |
@@ -46,6 +46,8 @@ O resultado do checklist dos itens levantados consta na _tabela 1_ abaixo.
 | 8             | ✅       |
 | 9             | ✅       |
 | 10            | ❌       |
+
+_Tabela 2: checklist personas_
 
 O gráfico de pizza compilando a porcentagem de itens atendidos e não atendidos consta na _figura 1_ abaixo.
 
