@@ -23,7 +23,7 @@ foi levado em conta as etapas definadas por Fagan (1976). As quais são:
 
 [Verificação 01 : Perfil do Usuário](analise/verificacoes/)<br>
 [Verificação 02 : Personas](analise/verificacoes/)<br>
-[Verificação 03 : Análise de Tarefas](analise/verificacoes/)<br>
+[Verificação 03 : Análise de Tarefas](analise/verificacoes/analiseTarefa.md)<br>
 [Verificação 04 : Principios Gerais](analise/verificacoes/)<br>
 [Verificação 05 : Metas de Usabilidade](analise/verificacoes/)<br>
 [Verificação 06 : Guia de Estilo](analise/verificacoes/verificacao_guia_estilo.md)<br>
@@ -36,7 +36,7 @@ foi levado em conta as etapas definadas por Fagan (1976). As quais são:
 [Verificação 01 : Planejamento da avaliação da Análise de Tarefas](analise/verificacoes/)<br>
 [Verificação 02 : Planejamento da avaliação do Storyboard](analise/verificacoes/)<br>
 [Verificação 03 : Planejamento dos Relatos](analise/verificacoes/)<br>
-[Verificação 04 : Storyboard](analise/verificacoes/)<br>
+[Verificação 04 : Storyboard](analise/verificacoes/verif_storyboards.md)<br>
 
 #### 3.2.2 Nível 2
 
@@ -52,4 +52,4 @@ Fagan, M. (1976) Design and Code Inspections to Reduce Errors in Software Develo
 
 | Versão | Data       | Descrição         | Autor              |
 | ------ | ---------- | ----------------- | ------------------ |
-| 1.0    | 15/08/2022 | Criação da Introdução, Metodologia e Verificações | Leonardo Vitoriano |
+| 1.0    | 21/08/2022 | Criação da Introdução, Metodologia e Verificações | Leonardo Vitoriano |
