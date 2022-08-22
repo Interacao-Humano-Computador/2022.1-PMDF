@@ -58,7 +58,7 @@ nas próximas fases.
 |---------------------------------------------------------|
 | Figura 1: Exemplo de gráfico de itens atendidos e não atendidos    |
 
-Por fim, uma conclusão determinando se o artefato deve ou não ser verificado, quais pontos devem ser priorizados em uma eventual verificação etc
+Por fim, haverá uma conclusão determinando se o artefato deve ou não ser corrigido, quais pontos devem ser priorizados em uma eventual correção etc
 
 ### 5. Correção
 

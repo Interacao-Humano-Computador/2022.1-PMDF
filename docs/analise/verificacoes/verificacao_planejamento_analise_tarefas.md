@@ -13,7 +13,7 @@ de [*Verificação*](../verif_principal.md)
 
 ### 2.1 Preparação
 
-O seguinte *checklist* foi montado para verificar a qualidade do artefato.
+O *checklist* da tabela 1 foi montado para verificar a qualidade do artefato.
 
 | Item | Identificador |
 | ------------ | -------- |
@@ -24,6 +24,7 @@ O seguinte *checklist* foi montado para verificar a qualidade do artefato.
 | As perguntas submetidas aos usuários  exploram diferentes aspectos do fluxo de tarefas?         | 5        |
 | A descrição da execução da entrevista apresenta todas as etapas?         | 6        |
 | A entrevista foi gravada?         | 7        |
+_Tabela 1: Itens e identificadores da verificação do Planejamento da Análise de Tarefas_
 
 ### 2.2 Inspeção
 
@@ -38,7 +39,8 @@ O resultado do checklist dos itens levantados consta na _tabela 1_ abaixo.
 | 5         | ✅        |
 | 6         | ❌        |
 | 7         | ❌        |
- 
+
+O gráfico de pizza compilando a porcentagem de itens atendidos e não atendidos consta na _figura 1_ abaixo.
 
 | ![imagemGráfico](../../_media/grafico_guiadeestilo.png) |
 |---------------------------------------------------------|
@@ -50,7 +52,6 @@ do vídeo da entrevista e o maior detalhamento de como ela foi realizada.
 ### 2.3 Correção
 
 ### 2.4 Acompanhamento
-
 
 ## Referências Bibliográficas
 
