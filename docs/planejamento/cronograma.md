@@ -115,20 +115,21 @@ _Tabela 6: Quinta Etapa_
 
 A tabela 7 correspondente às atividades da sexta etapa do projeto no 22/08/2022.
 
-| Data  | Atividade                                                                          | Responsáveis | Revisores |
-| ----- | ---------------------------------------------------------------------------------- | ------------ | --------- |
-| 22/08 | Construção do cronograma de atividades                                             | Cícero       | Todos     |
-| 22/08 | Verificação planejamento dos relatos                                               | Arthur       | Leonardo  |
-| 22/08 | Verificação planejamento da avaliação do storyboard                                | Arthur       | Nicolas   |
-| 12/08 | Verificação planejamento da avaliação da análise de tarefa e do protótipo de papel | Nicolas      | Guilherme |
-| 20/08 | Verificação Princípios gerais                                                      | Bernardo     | Arthur    |
-| 22/08 | Verificação metas de usabilidade                                                   | Cícero       | Bernardo  |
-| 21/08 | Verificação Guia de estilo                                                         | Guilherme    | Cícero    |
-| 21/08 | Verificação análise de tarefa                                                      | Leonardo     | Nicolas   |
-| 21/08 | Verificação storyboards                                                             | Leonardo     | Gulherme   |
-| 22/08 | Verificação personas                                                               | Cícero       | Guilherme |
-| 20/08 | Verificação perfil do usuário                                                      | Bernardo     | Cícero    |
-| 22/08 | Gravação da entrega                                                                | Todos        | Todos     |
+| Data  | Atividade                                                   | Responsáveis | Revisores |
+| ----- | ----------------------------------------------------------- | ------------ | --------- |
+| 22/08 | Construção do cronograma de atividades                      | Cícero       | Todos     |
+| 22/08 | Verificação planejamento dos relatos                        | Arthur       | Leonardo  |
+| 22/08 | Verificação planejamento da avaliação do storyboard         | Arthur       | Nicolas   |
+| 12/08 | Verificação planejamento da avaliação da análise de tarefa  | Guilherme    | Nicolas   |
+| 12/08 | Verificação planejamento da avaliação do protótipo de papel | Nicolas      | Leonardo  |
+| 20/08 | Verificação Princípios gerais                               | Bernardo     | Arthur    |
+| 22/08 | Verificação metas de usabilidade                            | Cícero       | Bernardo  |
+| 21/08 | Verificação Guia de estilo                                  | Nicolas      | Cícero    |
+| 21/08 | Verificação análise de tarefa                               | Leonardo     | Nicolas   |
+| 21/08 | Verificação storyboards                                     | Leonardo     | Guilherme |
+| 22/08 | Verificação personas                                        | Cícero       | Guilherme |
+| 20/08 | Verificação perfil do usuário                               | Bernardo     | Cícero    |
+| 22/08 | Gravação da entrega                                         | Todos        | Todos     |
 
 _Tabela 7: Sexta Etapa_
 
