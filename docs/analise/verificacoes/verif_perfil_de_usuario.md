@@ -3,7 +3,8 @@
 ## 1. Intrudução
 
 Neste artefato será feita a checklist de avaliação do artefato sobre 
-[Perfil de Usuário](/analise_de_requisitos/perfil_do_usuario.md).
+[Perfil de Usuário](/analise_de_requisitos/perfil_do_usuario.md),
+utilizando a metodologia e as estratégias descritas no documento de [Verificação](/analise/verif_principal.md).
 
 - Autor do documento: Leonardo Vitoriano.
 - Inspetor: Bernardo Pissutti.
@@ -29,6 +30,9 @@ _Tabela 1: Itens e identificadores da verificação do Planejamento da Análise 
 _Obs: a pergunta 7 foi retirada da checklist do projeto [Prefeitura de Concordia](https://interacao-humano-computador.github.io/2021.1-Prefeitura-de-Concordia/verificacao/entrevistas/)_
 
 ### 2.2 Inspeção
+
+A inspeção foi realizada pelo integrante Bernardo Pissutti no dia 20/08/2022.
+O resultado do inspeção dos itens levantados consta na _tabela 2_ abaixo.
 
 | Item | Resposta |
 |------|----------|

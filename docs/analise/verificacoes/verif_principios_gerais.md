@@ -3,7 +3,8 @@
 ## 1. Intrudução
 
 Neste artefato será feita a checklist de avaliação do artefato
-sobre [Princípios Gerais](/analise_de_requisitos/principios_gerais.md).
+sobre [Princípios Gerais](/analise_de_requisitos/principios_gerais.md),
+utilizando a metodologia e as estratégias descritas no documento de [Verificação](/analise/verif_principal.md). 
 
 - Autor do documento: Guilherme Brito e Cícero.
 - Inspetor: Bernardo Pissutti.
@@ -26,8 +27,8 @@ O *checklist* da tabela 1 foi montado para verificar a qualidade do artefato.
 _Tabela 1: Itens e identificadores da verificação do Planejamento da Análise de Tarefas_
 
 ### 2.2 Inspeção
-
-O resultado do checklist dos itens levantados consta na _tabela 2_ abaixo.
+A inspeção foi realizada pelo integrante Bernardo Pissutti no dia 20/08/2022.
+O resultado do inspeção dos itens levantados consta na _tabela 2_ abaixo.
 
 | Crítérios | Resposta |
 |-----------|----------|
