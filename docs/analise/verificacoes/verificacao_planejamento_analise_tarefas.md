@@ -3,19 +3,15 @@
 ## 1. Introdução
 
 Neste artefato será feita a verificação do
-[*Planejamento da Análise de Tarefas*](/nivel1/planejamento_analise_tarefas.md).
+[*Planejamento da Análise de Tarefas*](/nivel1/planejamento_analise_tarefas.md) utilizando a metodologia e as estratégias descritas no documento
+de [*Verificação*](../verif_principal.md)
 
 - Autor do documento: Nícolas Georgeos Mantzos.
 - Inspetor: -.
 
-## 2. Metodologia
-
-Como descrito no documento [*Verificação*](/analise/verif_principal.md), o método escolhido foi o da inspeção por intermédio de checklist.
-
 ## 3. Preparação
 
-Tendo em vista o que foi pontuado pelo professor na aula de apresentação, pelos monitores nos relatórios de avaliação e por [1] na explanação da página 177, o seguinte *checklist* foi montado
-para verificar a qualidade do Planejamento da Análise de Tarefas.
+O seguinte *checklist* foi montado para verificar a qualidade do Planejamento da Análise de Tarefas.
 
 | Item | Identificador |
 | ------------ | -------- |
@@ -29,7 +25,7 @@ para verificar a qualidade do Planejamento da Análise de Tarefas.
 
 ### 4 Inspeção
 
-O resultado do checklist dos itens levantados na etapa de preparação consta na _Tabela 1_ abaixo.
+O resultado do checklist dos itens levantados consta na _tabela 1_ abaixo.
 
 | Identificador | Situação |
 | --------- | -------- |

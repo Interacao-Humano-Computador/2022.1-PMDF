@@ -25,18 +25,33 @@ Um conjunto de perguntas serão elicitadas e listadas a partir da avaliação do
 | ...         | ...        |
 | *p<sub>n</sub>*         | *i<sub>n</sub>*        |
 
+_Tabela 1: Tabela exemplificativa de itens e seus identificadores_
+
 ### 4. Inspeção
 
 Os itens destacados na etapa de preparação serão inspecionados justapondo-os em uma tabela com duas colunas: *Identificador* e *Situação*, referindo-se, respectivamente ao n-ésimo *i<sub>n</sub>* da tabela 1
-e a um dos ícones da tabela 2. No caso, "✅" qualificando o item como "Atendido" e "❌" o tornando "Não atendido". A partir dessa resposta, um gráfico de pizza será montado para facilitar a análise dos resultados, compilado a porcentagem de itens atendidos e 
-não atendidos; exemplo na figura 1.
+e a um dos ícones da tabela 2. No caso, "✅" qualificando o item como "Atendido" e "❌" o tornando "Não atendido", como pode ser visto na tabela 2.
+
+| Identificador | Situação |
+| --------- | -------- |
+| *i<sub>1</sub>*         | ✅        |
+| *i<sub>1</sub>*         | ✅        |
+| *i<sub>1</sub>*         | ❌        |
+| *i<sub>1</sub>*         | ❌        |
+| ...         | ...        |
+| *i<sub>n</sub>*         |   ✅      |
+
+_Tabela 2: Tabela exemplificativa de inspeção de itens (checklist)_
 
 | Símbolo   |  Significado  |
 |:---------:|:-------------:|
 |     ✅     |   Atendido    |
 |     ❌     | Não atendido  |
 
-_Tabela 2: Símbolos utilizados na checklist e seus significados_
+_Tabela 3: Símbolos utilizados nas checklists e seus significados_
+
+A partir dessa resposta, um gráfico de pizza compilado a porcentagem de itens atendidos e
+não atendidos será montado para facilitar a análise dos resultados; exemplo na figura 1.
 
 | ![imagemGráfico](../_media/grafico_guiadeestilo.png) |
 |---------------------------------------------------------|
@@ -48,7 +63,7 @@ Nesta fase, um membro da equipe será alocado para realizar a correção do arte
 
 ### 6. Acompanhamento
 
-Nesta fase, um membro da equipe será alocado para acompanhar a tarefa do item anterior, realizando uma nova inspeção para a fiscalização dos itens que ainda não tenham sido atendidos.
+Nesta fase, um membro da equipe será alocado para acompanhar a tarefa de correção, realizando uma nova inspeção para a fiscalização dos itens que ainda não tenham sido atendidos.
 
 ## 3. Verificações
 
@@ -86,3 +101,4 @@ Fagan, M. (1976) Design and Code Inspections to Reduce Errors in Software Develo
 | Versão | Data       | Descrição         | Autor              |
 | ------ | ---------- | ----------------- | ------------------ |
 | 1.0    | 15/08/2022 | Criação da Introdução, Metodologia e Verificações | Leonardo Vitoriano |
+| 1.1    | 17/08/2022 | Reescrita com maior detalhamento | Nícolas Georgeos Mantzos |
