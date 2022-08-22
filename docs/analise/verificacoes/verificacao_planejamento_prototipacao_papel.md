@@ -1,25 +1,26 @@
-# Verificação do Planejamento da Análise de Tarefas
+# Verificação do Planejamento da Prototipação em Papel
 
-## 1. Contexto
 
-- Técnica utilizada: Inspeção com checklist.
-- Autor do documento: Nícolas Georgeos Mantzos.
-- Inspetor: -.
+Este artefato objetiva realizar a verificação do <a href="https://interacao-humano-computador.github.io/2022.1-PMDF/#/nivel2/planejamento_avaliacao_prototipo_papel"><i>Planejamento da Prototipação em Papel</i></a> 
+utilizado as quatro fases previstas no método de Fagan.## 1. Introdução
 
-O documento verificado está <a href="https://interacao-humano-computador.github.io/2022.1-PMDF/#/nivel1/planejamento_analise_tarefas">aqui</a>
 
-## 2. Checklist
+## 2. Metodologia
 
-Tendo em vista o que foi pontuado pelo professor na aula de apresentação, pelos monitores nos relatórios de avaliação e por [1] na explanação da página 177, o seguinte *checklist* foi montado
-para verificar a qualidade do Planejamento da Análise de Tarefas.
+Como descrito no documento [Verificação](/analise/verif_principal.md), o método escolhido foi o da inspeção.
+A inspeção consiste em um tipo de checagem que elenca itens para verificação. O seu **objetivo** é identificar se as
+condições para a execução das tarefas estão em conformidade com o padrão de qualidade.
+
+## 3. Preparação
+
+Tendo em vista o que foi pontuado pelo professor na aula de apresentação e pelos monitores nos relatórios de avaliação e por [1] na explanação da página 316, o seguinte *checklist* foi montado
+para verificar a qualidade do artefato em questão.
 
 1. Há uma seção introduzindo os objetivos do documento e a teoria que lhe dá suporte?
-2. Há seções apresentando as metodologias e como se dará a execução delas?
-3. Mais de uma estratégia é utilizada para a realização da análise?
-4. As perguntas submetidas aos usuários são de claro entendimento?
-5. As perguntas submetidas aos usuários  exploram diferentes aspectos do fluxo de tarefas?
-6. A descrição da execução da entrevista apresenta todas as etapas?
-7. A entrevista foi gravada?
+2. As quatro etapas da prototipação em papel são apresentadas e executadas?
+3. Há a previsão de realização de uma etapa de simulação?
+4. As tarefas destacadas são diversificadas?
+5. As tarefas destacadas são bem descritas?
 
 ### 2.1 Resultado
 
@@ -51,7 +52,7 @@ relação aos 7 itens definidos na Checklist. A porcentagem de sucesso é descri
 
 | Artefato | Porcentagem de sucesso |
 | -------- | ---------------------- |
-| Planejamento da Análise de Tarefas | 57,1%                  |
+| Personas | 57,1%                  |
 
 _Tabela 3: porcentagem de sucesso do Planejamento da Análise de Tarefas_
 
