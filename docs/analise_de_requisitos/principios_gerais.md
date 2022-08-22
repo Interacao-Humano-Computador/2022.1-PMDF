@@ -132,9 +132,6 @@ O site avaliado não possui uma documentação e não auxilia o usuário a chega
 
 
 
-
-
-
 ## Referências Bibliográficas
 
 Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)

@@ -28,4 +28,4 @@
     - [Planejamento do Relato - Protótipo de Papel](nivel2/planejamento_relato_prototipo_de_papel.md)
 - **Análise**
   - [Verificação](analise/verif_principal.md)
-    
+

@@ -21,10 +21,10 @@ foi levado em conta as etapas definadas por Fagan (1976). As quais são:
 
 ### 3.1 Análise de Requisitos
 
-[Verificação 01 : Perfil do Usuário](analise/verificacoes/)<br>
+[Verificação 01 : Perfil do Usuário](analise/verificacoes/verif_perfil_de_usuario.md)<br>
 [Verificação 02 : Personas](analise/verificacoes/)<br>
-[Verificação 03 : Análise de Tarefas](analise/verificacoes/analiseTarefa.md)<br>
-[Verificação 04 : Principios Gerais](analise/verificacoes/)<br>
+[Verificação 03 : Análise de Tarefas](analise/verificacoes/)<br>
+[Verificação 04 : Principios Gerais](analise/verificacoes/verif_principios_gerais.md)<br>
 [Verificação 05 : Metas de Usabilidade](analise/verificacoes/)<br>
 [Verificação 06 : Guia de Estilo](analise/verificacoes/verificacao_guia_estilo.md)<br>
 
