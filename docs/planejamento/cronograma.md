@@ -124,7 +124,8 @@ A tabela 7 correspondente às atividades da sexta etapa do projeto no 22/08/2022
 | 20/08 | Verificação Princípios gerais                                                      | Bernardo     | Arthur    |
 | 22/08 | Verificação metas de usabilidade                                                   | Cícero       | Bernardo  |
 | 21/08 | Verificação Guia de estilo                                                         | Guilherme    | Cícero    |
-| 22/08 | Verificação análise de tarefa                                                      | Leonardo     | Nicolas   |
+| 21/08 | Verificação análise de tarefa                                                      | Leonardo     | Nicolas   |
+| 21/08 | Verificação storyboards                                                             | Leonardo     | Gulherme   |
 | 22/08 | Verificação personas                                                               | Cícero       | Guilherme |
 | 20/08 | Verificação perfil do usuário                                                      | Bernardo     | Cícero    |
 | 22/08 | Gravação da entrega                                                                | Todos        | Todos     |

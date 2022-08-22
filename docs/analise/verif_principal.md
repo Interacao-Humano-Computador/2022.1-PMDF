@@ -82,6 +82,7 @@ Nesta fase, um membro da equipe será alocado para acompanhar a tarefa de corre�
 [Verificação 05 : Metas de Usabilidade](analise/verificacoes/verificacao_metas.md)<br>
 [Verificação 06 : Guia de Estilo](analise/verificacoes/verificacao_guia_estilo.md)<br>
 
+
 ### 3.2 Design, Avaliação e Desenvolvimento
 
 #### 3.2.1 Nível 1
@@ -89,6 +90,7 @@ Nesta fase, um membro da equipe será alocado para acompanhar a tarefa de corre�
 [Verificação 01 : Planejamento da avaliação da Análise de Tarefas](analise/verificacoes/verificacao_planejamento_analise_tarefas.md)<br>
 [Verificação 02 : Planejamento da avaliação do Storyboard](analise/verificacoes/)<br>
 [Verificação 03 : Planejamento dos Relatos](analise/verificacoes/)<br>
+[Verificação 03 : Planejamento dos Relatos](analise/verificacoes/verif_storyboards.md)<br>
 
 #### 3.2.2 Nível 2
 
