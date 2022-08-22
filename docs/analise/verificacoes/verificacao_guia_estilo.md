@@ -21,15 +21,16 @@ item e seu respectivo identificador.
 | Item                                                                                          | Identificador |
 |-----------------------------------------------------------------------------------------------|---------------|
 | O documento possui versionamento?                                                             | 1             |
-| Existe uma introdução ao conceito abordado?                                                   | 2             |
-| Há uma ordem lógica entre as estruturas?                                                      | 3             |
-| Elementos gráficos estão acompanhados de legendas?                                            | 4             |
-| Existem imagens do sistema analisado para referência visual?                                  | 5             |
-| Existe referência de cores do site analisado no guia de estilo apresentado? (Paleta de Cores) | 6             |
-| É apresentada a tipografia utilizada pelo site?                                               | 7             |
-| O guia de estilo do site apresenta algum padrão pré-estabelecido?                             | 8             |
-| Se sim, esse padrão é apresentado no documento?                                               | 9             |
-| Possui especificação do layout?                                                               | 10            |
+| O documento está gramaticalmente correto?                                                     | 2             |
+| Existe uma introdução ao conceito abordado?                                                   | 3             |
+| Há uma ordem lógica entre as estruturas?                                                      | 4             |
+| Elementos gráficos estão acompanhados de legendas?                                            | 5             |
+| Existem imagens do sistema analisado para referência visual?                                  | 6             |
+| Existe referência de cores do site analisado no guia de estilo apresentado? (Paleta de Cores) | 7             |
+| É apresentada a tipografia utilizada pelo site?                                               | 8             |
+| O guia de estilo do site apresenta algum padrão pré-estabelecido?                             | 9             |
+| Se sim, esse padrão é apresentado no documento?                                               | 10            |
+| Possui especificação do layout?                                                               | 11            |
 
 _Tabela 1: Itens e identificadores da verificação do Guia de Estilo_
 
@@ -38,19 +39,19 @@ _Tabela 1: Itens e identificadores da verificação do Guia de Estilo_
 A inspeção do artefato foi realizado pelo membro: Guilherme Brito, no dia 21 de Agosto às 16h. Após a inspeção, a
 checklist foi construída e ela pode ser vista na _Tabela 2_.
 
-| Item                                                                                          | Situação |
-|:----------------------------------------------------------------------------------------------|:--------:|
-| O documento possui versionamento?                                                             |     ✅     |
-| O documento está gramaticalmente correto?                                                     |     ❌     |
-| Existe uma introdução ao conceito abordado?                                                   |      ✅    |
-| Há uma ordem lógica entre as estruturas?                                                      |      ❌    |
-| Elementos gráficos estão acompanhados de legendas?                                            |     ✅     |
-| Existem imagens do sistema analisado para referência visual?                                  |      ✅    |
-| Existe referência de cores do site analisado no guia de estilo apresentado? (Paleta de Cores) |     ✅     |
-| É apresentada a tipografia utilizada pelo site?                                               |     ✅     |
-| O guia de estilo do site apresenta algum padrão pré-estabelecido?                             |    ✅      |
-| Se sim, esse padrão é apresentado no documento?                                               |     ✅     |
-| Possui especificação do layout?                                                               |     ✅     |
+| Identificador | Situação |
+|:--------------|:--------:|
+| 1             |     ✅     |
+| 2             |     ❌     |
+| 3             |      ✅    |
+| 4             |      ❌    |
+| 5             |     ✅     |
+| 6             |      ✅    |
+| 7             |     ✅     |
+| 8             |     ✅     |
+| 9             |    ✅      |
+| 10            |     ✅     |
+| 11            |     ✅      |
 
 _Tabela 2: Checklist de Verificação do Artefato: Guia de Estilo_
 
@@ -73,6 +74,7 @@ Um membro será definido para executar as correções indicadas nesse documento 
 gerados pela monitora da matéria e comentários feitos pelo professor nas apresentações dos pontos de controle.
 
 ## 2.4 Acompanhamento
+
 O membro Guilherme Brito será o responsável por acompanhar a tarefa de correção do membro definido no item anterior.
 
 ## Referências Bibliográficas
