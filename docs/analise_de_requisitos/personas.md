@@ -1,4 +1,4 @@
-# <center> Personas 
+# <center> Personas
 
 ## 1. Introdução
 
@@ -12,7 +12,7 @@ Para cada papel de usuário deve ser criado ao menos uma persona formando um ele
 
 ## 2. Construção das Personas
 
-Na construção das personas foi utilizado, principalmente, um perfil do usuário previamente definido, mas com a finalidade de visualizar as características e objetivos das personas, uma imagem é atríbuida a cada persona. Essa imagem, a qual trata-se de uma pessoa que não existe, é gerada a partir de uma IA (Inteligência Artifical) do site ["this person does not exist"](https://thispersondoesnotexist.xyz/).
+Na construção das personas foi utilizado, principalmente, um perfil do usuário previamente definido, mas com a finalidade de visualizar as características e objetivos das personas, uma imagem é atribuída a cada persona. Essa imagem, a qual trata-se de uma pessoa que não existe, é gerada a partir de uma IA (Inteligência Artificial) do site ["this person does not exist"](https://thispersondoesnotexist.xyz/).
 
 ### Persona 1: Otavio Maranhão.
 
@@ -32,7 +32,7 @@ Otavio Maranhão , policial militar - "bandido bom é bandido preso"
 - Escolaridade: Ensino Superior Completo.
 - Expectativas: Deseja receber mais do que o salário atual.
 
-Descrição: Otavio Maranhão tem 49 anos, é casado e desde que era criança sempre sonhou em ser policial militar tanto para proteger as pessas quanto para prover boas condições para sua família. Ele reside com os esposa, 3 filhos e um cachorro. Devido ao sonho de Otavio em levar sua família para a Disney, ele está procurando por serviços voluntários dentro da PMDF, pois permite receber um bonus de dinheiro pela carga horária trabalhada além do comum. Ele não é um grande entusiasta da tecnologia, mas para agendar um voluntário, é necessário acessar o site da polícia militar de Brasília.
+Descrição: Otavio Maranhão tem 49 anos, é casado e desde que era criança sempre sonhou em ser policial militar tanto para proteger as pessoas quanto para prover boas condições para sua família. Ele reside com os esposa, 3 filhos e um cachorro. Devido ao sonho de Otavio em levar sua família para a Disney, ele está procurando por serviços voluntários dentro da PMDF, pois permite receber um bonus de dinheiro pela carga horária trabalhada além do comum. Ele não é um grande entusiasta da tecnologia, mas para agendar um voluntário, é necessário acessar o site da polícia militar de Brasília.
 
 Objetivos pessoais:
 
@@ -53,20 +53,20 @@ Objetivos práticos:
 
 </div>
 
-Josilane do Santos, bancária - "sáude em primeiro lugar"
+Josilane do Santos, bancária - "saúde em primeiro lugar"
 
 - Idade: 49.
 - Sexo: Feminino.
-- Profissão: Bnacária.
+- Profissão: Bancária.
 - Escolaridade: Ensino Superior Completo.
 - Expectativas: Deseja receber assistência médica quando necessário.
 
-Descrição: Josilane do Santos tem 49 anos, é casada e sua vida sempre foi muito díficil e sofrida pois seus pais não possuiam empregos fixos. Sabendo da dificuldade em que Josilane se encontrava, ela apostou nos estudos como forma de ascender socialmente, então formou-se em Administração e conseguiu emprego como bancária. Porém, mesmo com seu trabalho, não conseguiu pagar o tratamento de câncer da sua mãe em hospital particular, a qual faleceu tempos depois. Josilane é casada com um polical militar, e como é preoucupada com a própria sáude, de seu marido e filho, ela busca manter as consultas médicas de todas atualizadas, através de marcação de consultas com o convênio de sáude do seu esposo.
+Descrição: Josilane do Santos tem 49 anos, é casada e sua vida sempre foi muito difícil e sofrida pois seus pais não possuíam empregos fixos. Sabendo da dificuldade em que Josilane se encontrava, ela apostou nos estudos como forma de ascender socialmente, então formou-se em Administração e conseguiu emprego como bancária. Porém, mesmo com seu trabalho, não conseguiu pagar o tratamento de câncer da sua mãe em hospital particular, a qual faleceu tempos depois. Josilane é casada com um policial militar, e como é preocupada com a própria saúde, de seu marido e filho, ela busca manter as consultas médicas de todas atualizadas, através de marcação de consultas com o convênio de saúde do seu esposo.
 
 Objetivos pessoais:
 
 - manter a casa arrumada.
-- cuidar da sáude própria e a da sua família.
+- cuidar da saúde própria e a da sua família.
 
 Objetivos práticos:
 
@@ -115,7 +115,7 @@ Tiago Gonçalves, estudante - "programação não é mágica"
 - Escolaridade: Ensino Superior Incompleto.
 - Expectativas: Deseja conseguir o diploma do curso.
 
-Descrição: Tiago Gonçalves possui 19 anos, é estudante da Universidade de Brasília (UnB) e está no 3° semestre do curso de Engenharia de Software. Ele mora Taguatinga e compartilha seu apartamento com sua avó paterna. Tiago desde criança, sempre foi apaixonado por tecnlogias em geral, demonstrando muita facilidade com a utilização dela, já desenvolvia os seus próprios códigos apenas por diversão. Motivado por essa paixão, ele almeja tornar-se um excelente profissional ná área de tecnlogia e sonha até em morar fora do Brasil.
+Descrição: Tiago Gonçalves possui 19 anos, é estudante da Universidade de Brasília (UnB) e está no 3° semestre do curso de Engenharia de Software. Ele mora Taguatinga e compartilha seu apartamento com sua avó paterna. Tiago desde criança, sempre foi apaixonado por tecnologias em geral, demonstrando muita facilidade com a utilização dela, já desenvolvia os seus próprios códigos apenas por diversão. Motivado por essa paixão, ele almeja tornar-se um excelente profissional ná área de tecnologia e sonha até em morar fora do Brasil.
 
 Objetivos pessoais:
 
