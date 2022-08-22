@@ -22,6 +22,7 @@ O *checklist* da tabela 1 foi montado para verificar a qualidade do artefato.
 | Há a previsão de realização de uma etapa de simulação?         | 3        |
 | As tarefas destacadas são diversificadas?         | 4        |
 | As tarefas destacadas são bem descritas?         | 5        |
+_Tabela 1: Itens e identificadores da verificação do Planejamento da Avaliação do Protótipo em Papel_
 
 ### 2.2 Inspeção
 
