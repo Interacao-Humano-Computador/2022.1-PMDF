@@ -15,30 +15,33 @@ de [*Verificação*](../verif_principal.md)
 
 O *checklist* da tabela 1 foi montado para verificar a qualidade do artefato.
 
-| Item | Identificador |
-| ------------ | -------- |
-| Há uma seção introduzindo os objetivos da análise de tarefas bem como a teoria que lhe dá suporte?         | 1        |
-| Há seções apresentando as metodologias e como se dará a execução delas?        | 2        |
-| Mais de uma estratégia é utilizada para a realização da análise?         | 3        |
-| As perguntas submetidas aos usuários são de claro entendimento?         | 4        |
-| As perguntas submetidas aos usuários  exploram diferentes aspectos do fluxo de tarefas?         | 5        |
-| A descrição da execução da entrevista apresenta todas as etapas?         | 6        |
-| A entrevista foi gravada?         | 7        |
+| Item                                                                                               | Identificador   |
+|----------------------------------------------------------------------------------------------------|-----------------|
+| Há uma seção introduzindo os objetivos da análise de tarefas bem como a teoria que lhe dá suporte? | 1               |
+| Há seções apresentando as metodologias e como se dará a execução delas?                            | 2               |
+| Mais de uma estratégia é utilizada para a realização da análise?                                   | 3               |
+| As perguntas submetidas aos usuários são de claro entendimento?                                    | 4               |
+| As perguntas submetidas aos usuários  exploram diferentes aspectos do fluxo de tarefas?            | 5               |
+| A descrição da execução da entrevista apresenta todas as etapas?                                   | 6               |
+| A entrevista foi gravada?                                                                          | 7               |
+
 _Tabela 1: Itens e identificadores da verificação do Planejamento da Análise de Tarefas_
 
 ### 2.2 Inspeção
 
-O resultado do checklist dos itens levantados consta na _tabela 1_ abaixo.
+O resultado do checklist dos itens levantados consta na _tabela 2_ abaixo.
 
 | Identificador | Situação |
-| --------- | -------- |
-| 1         | ✅        |
-| 2         | ✅        |
-| 3         | ❌        |
-| 4         | ✅        |
-| 5         | ✅        |
-| 6         | ❌        |
-| 7         | ❌        |
+|---------------|----------|
+| 1             | ✅        |
+| 2             | ✅        |
+| 3             | ❌        |
+| 4             | ✅        |
+| 5             | ✅        |
+| 6             | ❌        |
+| 7             | ❌        |
+
+_Tabela 2: resultado do checklist_
 
 O gráfico de pizza compilando a porcentagem de itens atendidos e não atendidos consta na _figura 1_ abaixo.
 
