@@ -42,7 +42,7 @@ O resultado do checklist dos itens levantados consta na _tabela 1_ abaixo.
 
 O gráfico de pizza compilando a porcentagem de itens atendidos e não atendidos consta na _figura 1_ abaixo.
 
-| ![imagemGráfico](../../_media/grafico_guiadeestilo.png) |
+| ![imagemGráfico](../../_media/graf_pizza_verif_planej_analise_tarefas.jpg) |
 |---------------------------------------------------------|
 | Figura 1: Gráfico de Itens atendidos e não atendidos    |
 

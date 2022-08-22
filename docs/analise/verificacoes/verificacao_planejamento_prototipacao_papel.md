@@ -1,65 +1,52 @@
-# Verificação do Planejamento da Prototipação em Papel
+# Verificação do 
 
+## 1. Introdução
 
-Este artefato objetiva realizar a verificação do <a href="https://interacao-humano-computador.github.io/2022.1-PMDF/#/nivel2/planejamento_avaliacao_prototipo_papel"><i>Planejamento da Prototipação em Papel</i></a> 
-utilizado as quatro fases previstas no método de Fagan.## 1. Introdução
+Neste artefato será feita a verificação do
+[*Planejamento da Avaliação do Protótipo em Papel*](/nivel2/planejamento_avaliacao_prototipo_papel.md) utilizando a metodologia e as estratégias descritas no documento
+de [*Verificação*](../verif_principal.md)
 
+- Autor(es) do documento: Arthur Lima e Cícero Fernandes
+- Inspetor(es): Nícolas Georgeos Mantzos
 
-## 2. Metodologia
+## 2. Verificação
 
-Como descrito no documento [Verificação](/analise/verif_principal.md), o método escolhido foi o da inspeção.
-A inspeção consiste em um tipo de checagem que elenca itens para verificação. O seu **objetivo** é identificar se as
-condições para a execução das tarefas estão em conformidade com o padrão de qualidade.
+### 2.1 Preparação
 
-## 3. Preparação
+O *checklist* da tabela 1 foi montado para verificar a qualidade do artefato.
 
-Tendo em vista o que foi pontuado pelo professor na aula de apresentação e pelos monitores nos relatórios de avaliação e por [1] na explanação da página 316, o seguinte *checklist* foi montado
-para verificar a qualidade do artefato em questão.
+| Item | Identificador |
+| ------------ | -------- |
+| Há uma seção introduzindo os objetivos do documento e a teoria que lhe dá suporte?         | 1        |
+| As quatro etapas da prototipação em papel são explicadas?        | 2        |
+| Há a previsão de realização de uma etapa de simulação?         | 3        |
+| As tarefas destacadas são diversificadas?         | 4        |
+| As tarefas destacadas são bem descritas?         | 5        |
 
-1. Há uma seção introduzindo os objetivos do documento e a teoria que lhe dá suporte?
-2. As quatro etapas da prototipação em papel são apresentadas e executadas?
-3. Há a previsão de realização de uma etapa de simulação?
-4. As tarefas destacadas são diversificadas?
-5. As tarefas destacadas são bem descritas?
+### 2.2 Inspeção
 
-### 2.1 Resultado
+O resultado do checklist dos itens levantados consta na _tabela 1_ abaixo.
 
-O resultado do checklist do item 2 pode ser encontrado na _Tabela 1_ e sua legenda na _Tabela 2_.
-
-| Crítérios | Resposta |
+| Identificador | Situação |
 | --------- | -------- |
-| 1         | ✓        |
-| 2         | ✓        |
-| 3         | ✘        |
-| 4         | ✓        |
-| 5         | ✓        |
-| 6         | ✘        |
-| 7         | ✘        |
+| 1         | ✅        |
+| 2         | ❌        |
+| 3         | ❌        |
+| 4         | ✅        |
+| 5         | ✅        |
 
-_Tabela 1: critério de aceitação para o artefato_
+O gráfico de pizza compilando a porcentagem de itens atendidos e não atendidos consta na _figura 1_ abaixo.
 
-| Simbolo | Significado           |
-| ------- | --------------------- |
-| ✓       | Critério atendido     |
-| ✘       | Critério não atendido |
+| ![imagemGráfico](../../_media/graf_pizza_verif_planej_prototipo_papel.jpg) |
+|---------------------------------------------------------|
+| Figura 1: Gráfico de Itens atendidos e não atendidos    |
 
-_Tabela 2: legendas_
+Como a porcentagem de sucesso ficou nos 60%, o artefato necessita de correções; sendo as mais emergenciais e agregadoras a previsão de uma 
+etapa de simulação e a adição da quarta etapa prevista em [1].
 
-### 2.2 Dados Percentuais de Acerto
+### 2.3 Correção
 
-Tendo como base a _Tabela 1_ do item 2.1, é possível descrever a porcentagem de sucesso do artefato *Planejamento da Análise de Tarefas* com
-relação aos 7 itens definidos na Checklist. A porcentagem de sucesso é descrita da _Tabela 3_.
-
-| Artefato | Porcentagem de sucesso |
-| -------- | ---------------------- |
-| Personas | 57,1%                  |
-
-_Tabela 3: porcentagem de sucesso do Planejamento da Análise de Tarefas_
-
-## 3. Conclusão
-
-Como a porcentagem de sucesso ficou pouco abaixo dos 60%, o artefato necessita de correções; sendo as mais emergenciais e agregadoras a adição
-do vídeo da entrevista e o maior detalhamento de como ela foi realizada.
+### 2.4 Acompanhamento
 
 ## Referências Bibliográficas
 
@@ -70,4 +57,4 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN
 
 | Versão | Data       | Descrição           | Autor            |
 | ------ | ---------- | ------------------- | ---------------- |
-| 1.0    | 21/08/2022 | Escrita do documento de verificação | - |
+| 1.0    | 21/08/2022 | Escrita do documento de verificação | Nícolas Georgeos Mantzos |
