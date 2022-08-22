@@ -9,9 +9,11 @@ de [*Verificação*](../verif_principal.md)
 - Autor do documento: Nícolas Georgeos Mantzos.
 - Inspetor: -.
 
-## 3. Preparação
+## 2. Verificação
 
-O seguinte *checklist* foi montado para verificar a qualidade do Planejamento da Análise de Tarefas.
+### 2.1 Preparação
+
+O seguinte *checklist* foi montado para verificar a qualidade do artefato.
 
 | Item | Identificador |
 | ------------ | -------- |
@@ -23,7 +25,7 @@ O seguinte *checklist* foi montado para verificar a qualidade do Planejamento da
 | A descrição da execução da entrevista apresenta todas as etapas?         | 6        |
 | A entrevista foi gravada?         | 7        |
 
-### 4 Inspeção
+### 2.2 Inspeção
 
 O resultado do checklist dos itens levantados consta na _tabela 1_ abaixo.
 
@@ -36,18 +38,19 @@ O resultado do checklist dos itens levantados consta na _tabela 1_ abaixo.
 | 5         | ✅        |
 | 6         | ❌        |
 | 7         | ❌        |
-
-O seguinte gráfico de Pizza foi construído utilizando da Ferramenta: Google Sheets para melhor rastreamento dos itens
-nas próximas fases.
+ 
 
 | ![imagemGráfico](../../_media/grafico_guiadeestilo.png) |
 |---------------------------------------------------------|
 | Figura 1: Gráfico de Itens atendidos e não atendidos    |
 
-### 4.1 Conclusão
-
 Como a porcentagem de sucesso ficou pouco abaixo dos 60%, o artefato necessita de correções; sendo as mais emergenciais e agregadoras a adição
 do vídeo da entrevista e o maior detalhamento de como ela foi realizada.
+
+### 2.3 Correção
+
+### 2.4 Acompanhamento
+
 
 ## Referências Bibliográficas
 

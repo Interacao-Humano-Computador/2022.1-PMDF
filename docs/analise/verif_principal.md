@@ -30,16 +30,16 @@ _Tabela 1: Tabela exemplificativa de itens e seus identificadores_
 ### 4. Inspeção
 
 Os itens destacados na etapa de preparação serão inspecionados justapondo-os em uma tabela com duas colunas: *Identificador* e *Situação*, referindo-se, respectivamente ao n-ésimo *i<sub>n</sub>* da tabela 1
-e a um dos ícones da tabela 2. No caso, "✅" qualificando o item como "Atendido" e "❌" o tornando "Não atendido", como pode ser visto na tabela 2.
+e a um dos ícones da tabela 3. No caso, "✅" qualificando o item como "Atendido" e "❌" o tornando "Não atendido", como pode ser visto na tabela 2.
 
 | Identificador | Situação |
 | --------- | -------- |
 | *i<sub>1</sub>*         | ✅        |
-| *i<sub>1</sub>*         | ✅        |
-| *i<sub>1</sub>*         | ❌        |
-| *i<sub>1</sub>*         | ❌        |
+| *i<sub>2</sub>*         | ✅        |
+| *i<sub>3</sub>*         | ❌        |
+| *i<sub>4</sub>*         | ✅        |
 | ...         | ...        |
-| *i<sub>n</sub>*         |   ✅      |
+| *i<sub>n</sub>*         |   ❌      |
 
 _Tabela 2: Tabela exemplificativa de inspeção de itens (checklist)_
 
@@ -50,12 +50,15 @@ _Tabela 2: Tabela exemplificativa de inspeção de itens (checklist)_
 
 _Tabela 3: Símbolos utilizados nas checklists e seus significados_
 
-A partir dessa resposta, um gráfico de pizza compilado a porcentagem de itens atendidos e
-não atendidos será montado para facilitar a análise dos resultados; exemplo na figura 1.
+A partir dessa resposta, um gráfico de pizza como o da figura 1, compilando a porcentagem de itens atendidos e
+não atendidos, será montado para facilitar a análise dos resultados e melhorar o rastreamento dos itens
+nas próximas fases.
 
 | ![imagemGráfico](../_media/grafico_guiadeestilo.png) |
 |---------------------------------------------------------|
 | Figura 1: Exemplo de gráfico de itens atendidos e não atendidos    |
+
+Por fim, uma conclusão determinando se o artefato deve ou não ser verificado, quais pontos devem ser priorizados em uma eventual verificação etc
 
 ### 5. Correção
 
