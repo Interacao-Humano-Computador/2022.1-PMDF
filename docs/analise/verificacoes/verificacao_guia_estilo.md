@@ -73,9 +73,6 @@ documento.
 Um membro será definido para executar as correções indicadas nesse documento e também tomará como base os relatórios
 gerados pela monitora da matéria e comentários feitos pelo professor nas apresentações dos pontos de controle.
 
-### 2.4 Acompanhamento
-
-O membro Guilherme Brito será o responsável por acompanhar a tarefa de correção do membro definido no item anterior.
 
 ## Referências Bibliográficas
 
