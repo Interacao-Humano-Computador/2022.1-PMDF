@@ -81,7 +81,7 @@ Nesta fase, um membro da equipe será alocado para acompanhar a tarefa de corre�
 [Verificação 04 : Princípios Gerais](analise/verificacoes/verif_principios_gerais.md)<br>
 [Verificação 05 : Metas de Usabilidade](analise/verificacoes/verificacao_metas.md)<br>
 [Verificação 06 : Guia de Estilo](analise/verificacoes/verificacao_guia_estilo.md)<br>
-
+[Verificação 07 : Storyboard](analise/verificacoes/verif_storyboards.md)<br>
 
 ### 3.2 Design, Avaliação e Desenvolvimento
 
