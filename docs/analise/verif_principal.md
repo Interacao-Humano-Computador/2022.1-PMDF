@@ -8,17 +8,19 @@ Segundo _Serrano_, a verificação pode ser entendida como _uma análise de mode
 
 As verificações utilizarão, primariamente, as seis etapas definidas pelo método de Fagan (1976) adaptadas. Sendo elas:
 
-### 2.1 Planejamento
+### 2.1 Planejamento (*Planning*)
 
-Alguém tem que fazer isso...
+O objetivo é organizar o ambiente, físico ou virtual, no qual a inspeção se dará, reunindo os participantes e separando os materiais necessários.
 
-### 2.2 Visão Geral
+### 2.2 Visão Geral (*Overview*)
 
-Pois é...alguém tem que ver isso..
+Nesta etapa, os participantes da tarefa de inspeção são deixados a par dos materiais em análise e funções são atribuídas a cada um deles, determinando quem avaliará qual artefato. 
 
-### 2.3 Preparação
+### 2.3 Preparação (*Preparation*)
 
-Um conjunto de perguntas serão elicitadas e listadas a partir da avaliação do professor nas apresentações, dos monitores nos relatórios e da bibliografia, a fim de cobrir os aspectos mais variados e relevantes do artefato. Cada pergunta estará acompanhada de um identificador para referência posterior, como consta na tabela exemplificativa 1 abaixo.
+Nesta etapa, segundo Fagan, *os participantes revisam o item a ser inspecionado e o material de apoio, anotando quaisquer dúvidas ou possíveis defeitos encontrados.*
+Nesse sentido, optamos por elicitar e listar os "defeitos encontrados" como perguntas advindas da avaliação do professor nas apresentações, dos monitores nos relatórios e da bibliografia, a fim de cobrir os aspectos mais variados e relevantes do artefato. 
+Cada pergunta estará acompanhada de um identificador para referência posterior, como consta na tabela exemplificativa 1 abaixo.
 
 | Pergunta        | Identificador   |
 | --------------- | --------------- |
@@ -30,9 +32,9 @@ Um conjunto de perguntas serão elicitadas e listadas a partir da avaliação do
 
 _Tabela 1: Tabela exemplificativa de itens e seus identificadores_
 
-### 2.4 Inspeção
+### 2.4 Inspeção (*Meeting/Inspection*)
 
-Os itens destacados na etapa de preparação serão inspecionados justapondo-os em uma tabela com duas colunas: _Identificador_ e _Situação_, referindo-se, respectivamente ao n-ésimo _i<sub>n</sub>_ da tabela 1
+Aqui, os defeitos são encontrados. Para tal, os itens destacados na etapa de preparação serão inspecionados justapondo-os em uma tabela com duas colunas: _Identificador_ e _Situação_, referindo-se, respectivamente ao n-ésimo _i<sub>n</sub>_ da tabela 1
 e a um dos ícones da tabela 3. No caso, "✅" qualificando o item como "Atendido" e "❌" o tornando "Não atendido", como pode ser visto na tabela 2.
 
 | Identificador   | Situação |
@@ -63,15 +65,24 @@ nas próximas fases.
 
 Por fim, haverá uma conclusão determinando se o artefato deve ou não ser corrigido, quais pontos devem ser priorizados em uma eventual correção etc
 
-### 2.5 Correção
+### 2.5 Correção/retrabalho (*Rework*)
 
-Nesta fase, um membro da equipe será alocado para realizar a correção do artefato a partir do que foi apontado na etapa de inspeção.
+A correção (ou retrabalho) é a *etapa na qual os defeitos encontrados durante a inspeção são resolvidos pelo autor, projetista ou programador*.
+Para esta fase, portanto, foi(ram) alocado(s) o(s) membro(s) da equipe responsável(eis) pela criação do artefato.
 
-### 2.6 Acompanhamento
+### 2.6 Acompanhamento (*Follow-up*)
 
-Nesta fase, um membro da equipe será alocado para acompanhar a tarefa de correção, realizando uma nova inspeção para a fiscalização dos itens que ainda não tenham sido atendidos.
+Na fase de acompanhamento, todos os defeitos devem ser efetivamente corrigidos, sendo de responsabilidade de um
+moderador verificar se isso realmente aconteceu. Além disso, ele deve se certificar de que nenhum novo defeito foi introduzido no processo de correção.
+Foi alocado, para esse papel, um membro da equipe que não realizou a inspeção nem participou da criação do artefato, objetivando evitar enviesamento.
 
-## 3. Verificações
+O fluxo do processo de inspeção de Fagan pode ser observado na figura 2 abaixo.
+
+| ![imagemGráfico](../_media/verificacao_inspecao_fagan.jpeg)            |
+| --------------------------------------------------------------- |
+| Figura 2: Fluxo da inspeção de Fagan |
+
+## 3. Verificação
 
 ### 3.1 Análise de Requisitos
 
