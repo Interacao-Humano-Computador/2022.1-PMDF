@@ -99,15 +99,6 @@ O gráfico de pizza compilando a porcentagem de itens atendidos e não atendidos
 
 Tomando como base a checklist construída, observa-se que o Storyboard 2 está bom, mas carece de atenção quanto aos item 11, portanto, esse item precisa ser corrigido.
 
-### 2.3 Correção
-
-Para a fase de correção um membro do grupo será escolhido para realizar as correções apontadas na Análise de Tarefas.
-
-### 2.4. Acompanhamento
-
-O membro Leonardo Vitoriano será o responsável por acompanhar a tarefa de correção do membro definido no item anterior e
-assim realizar uma nova inspeção para fiscalização dos itens que foram apontados como não atendidos.
-
 ## Referências Bibliográficas
 
 Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)

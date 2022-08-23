@@ -53,10 +53,6 @@ O gráfico de pizza compilando a porcentagem de itens atendidos e não atendidos
 Como a porcentagem de sucesso ficou pouco abaixo dos 60%, o artefato necessita de correções; sendo as mais emergenciais e agregadoras a adição
 do vídeo da entrevista e o maior detalhamento de como ela foi realizada.
 
-### 2.3 Correção
-
-### 2.4 Acompanhamento
-
 ## Referências Bibliográficas
 
 [1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)
