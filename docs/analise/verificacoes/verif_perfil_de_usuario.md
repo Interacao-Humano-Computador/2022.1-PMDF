@@ -55,15 +55,6 @@ Google Sheets para melhor rastreamento dos itens nas próximas fases.
 
 Como a inspeção verificou que o artefato não satisfaz o item 7 da checklist, portanto há a necessidade de correções.
 
-### 2.3 Correção
-
-Para a fase de correção um membro do grupo será escolhido para realizar as correções apontadas no perfil de usuário.
-
-### 2.4 Acompanhamento
-
-O membro Bernardo Pissutti será o responsável por acompanhar a tarefa de correção do membro definido no item anterior
-e assim realizar uma nova inspeção para fiscalização dos itens que foram apontados como não atendidos.
-
 
 ## Referências Bibliográficas
 

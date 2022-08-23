@@ -77,7 +77,7 @@ Nesta fase, um membro da equipe será alocado para acompanhar a tarefa de corre�
 
 [Verificação 01 : Perfil do Usuário](analise/verificacoes/verif_perfil_de_usuario.md)<br>
 [Verificação 02 : Personas](analise/verificacoes/verificacao_personas.md)<br>
-[Verificação 03 : Análise de Tarefas](analise/verificacoes/)<br>
+[Verificação 03 : Análise de Tarefas](analise/verificacoes/verif_analiseTarefa)<br>
 [Verificação 04 : Princípios Gerais](analise/verificacoes/verif_principios_gerais.md)<br>
 [Verificação 05 : Metas de Usabilidade](analise/verificacoes/verificacao_metas.md)<br>
 [Verificação 06 : Guia de Estilo](analise/verificacoes/verificacao_guia_estilo.md)<br>
@@ -87,14 +87,14 @@ Nesta fase, um membro da equipe será alocado para acompanhar a tarefa de corre�
 
 #### 3.2.1 Nível 1
 
-[Verificação 01 : Planejamento da avaliação da Análise de Tarefas](analise/verificacoes/verificacao_planejamento_analise_tarefas.md)<br>
-[Verificação 02 : Planejamento da avaliação do Storyboard](analise/verificacoes/verificacao_planejamento_da_avaliacao_do_storyboard.md)<br>
+[Verificação 01 : Planejamento da Avaliação da Análise de Tarefas](analise/verificacoes/verificacao_planejamento_analise_tarefas.md)<br>
+[Verificação 02 : Planejamento da Avaliação do Storyboard](analise/verificacoes/verificacao_planejamento_da_avaliacao_do_storyboard.md)<br>
 [Verificação 03 : Planejamento dos Relatos do StoryBoard e Análise de Tarefas](analise/verificacoes/verificacao_planejamento_dos_relatos)<br>
 
 #### 3.2.2 Nível 2
 
-[Verificação 01 : Planejamento da avaliação do Protótipo de Papel](analise/verificacoes/verificacao_planejamento_prototipacao_papel.md)<br>
-[Verificação 02 : Planejamento dos Relatos do Protótipo de papel](analise/verificacoes/verificacao_planejamento_dos_relatos_do_prototipo_de_papel.md)<br>
+[Verificação 01 : Planejamento da Avaliação do Protótipo de Papel](analise/verificacoes/verificacao_planejamento_prototipacao_papel.md)<br>
+[Verificação 02 : Planejamento do Relato do Protótipo de Papel](analise/verificacoes/verificacao_planejamento_dos_relatos_do_prototipo_de_papel.md)<br>
 
 ## Referências Bibliográficas
 

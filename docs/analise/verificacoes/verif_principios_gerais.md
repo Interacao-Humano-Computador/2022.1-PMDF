@@ -41,7 +41,6 @@ O resultado do inspeção dos itens levantados consta na _tabela 2_ abaixo.
 
 _Tabela 2: resultado do checklist_
 
-
 O seguinte gráfico de Pizza foi construído utilizando da Ferramenta: Google Sheets para melhor rastreamento dos itens nas próximas fases.
 
 | ![imagemGráfico](../../_media/grafico_principiosgerais.png) |
@@ -49,15 +48,6 @@ O seguinte gráfico de Pizza foi construído utilizando da Ferramenta: Google Sh
 | Figura 1: Gráfico de Itens atendidos e não atendidos        |
 
 Como a inspeção verificou que o artefato satisfaz todos os itens da checklist, não há necessidade de correção.
-
-### 2.3 Correção
-
-Para a fase de correção um membro do grupo será escolhido para realizar as correções apontadas no princípios gerais.
-
-### 2.4 Acompanhamento
-
-O membro Bernardo Pissutti será o responsável por acompanhar a tarefa de correção do membro definido no item anterior
-e assim realizar uma nova inspeção para fiscalização dos itens que foram apontados como não atendidos.
 
 ## Referências Bibliográficas
 

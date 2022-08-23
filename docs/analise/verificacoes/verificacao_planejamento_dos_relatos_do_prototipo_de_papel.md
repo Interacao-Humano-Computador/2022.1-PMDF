@@ -1,4 +1,4 @@
-# Verificação do  Planejamento dos Relatos do Prototipo de papel
+# Verificação do Planejamento do Relato do Prototipo de Papel
 
 ## 1. Introdução
 
@@ -6,8 +6,8 @@ Neste artefato será feita a verificação do
 [* Planejamento dos Relatos do Prototipo de papel*](/nivel1/planejamento_relato_storyboard_analise_tarefa.md) utilizando a metodologia e as estratégias descritas no documento
 de [*Verificação*](../verif_principal.md)
 
-- Autor do documento: Arthur José.
-- Inspetor: .
+- Autor do documento: Bernardo Pissuti, Cícero
+- Inspetor: Arthur José
 
 ## 2. Verificação
 
@@ -48,9 +48,6 @@ O gráfico de pizza compilando a porcentagem de itens atendidos e não atendidos
 | Figura 1: Gráfico de Itens atendidos e não atendidos    |
 
 Como a porcentagem de falha ficou com aproximadamente 87%, o artefato necessita de correções urgentes, Sendo as mais prioritárias como os dados obtidos na avaliação seram representados,a reafirmação dos objetivos da avaliação e o perfil de usuários.
-### 2.3 Correção
-
-### 2.4 Acompanhamento
 
 ## Referências Bibliográficas
 

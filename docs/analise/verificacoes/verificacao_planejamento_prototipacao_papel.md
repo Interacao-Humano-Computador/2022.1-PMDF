@@ -1,4 +1,4 @@
-# Verificação do 
+# Verificação do Planejamento da Avaliação do Protótipo de Papel
 
 ## 1. Introdução
 
@@ -44,10 +44,6 @@ O gráfico de pizza compilando a porcentagem de itens atendidos e não atendidos
 
 Como a porcentagem de sucesso ficou nos 60%, o artefato necessita de correções; sendo as mais emergenciais e agregadoras a previsão de uma 
 etapa de simulação e a adição da quarta etapa prevista em [1].
-
-### 2.3 Correção
-
-### 2.4 Acompanhamento
 
 ## Referências Bibliográficas
 

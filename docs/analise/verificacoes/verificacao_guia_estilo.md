@@ -68,11 +68,6 @@ Tomando como base a checklist construída, observa-se que o artefato está bom, 
 gramaticais e não segue uma estrutura muito lógica entre os itens, alguns itens importantes são apresentados no fim do
 documento.
 
-### 2.3 Correção
-
-Um membro será definido para executar as correções indicadas nesse documento e também tomará como base os relatórios
-gerados pela monitora da matéria e comentários feitos pelo professor nas apresentações dos pontos de controle.
-
 
 ## Referências Bibliográficas
 

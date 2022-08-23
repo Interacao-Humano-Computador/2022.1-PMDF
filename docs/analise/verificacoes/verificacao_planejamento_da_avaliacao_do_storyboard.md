@@ -6,8 +6,8 @@ Neste artefato será feita a verificação do
 [* Planejamento da Avaliação do StoryBoard*](/nivel1/planejamento_relato_storyboard_analise_tarefa.md) utilizando a metodologia e as estratégias descritas no documento
 de [*Verificação*](../verif_principal.md)
 
-- Autor do documento: Arthur José.
-- Inspetor: .
+- Autor do documento: Leonardo Vitoriano
+- Inspetor: Arthur José
 
 ## 2. Verificação
 
@@ -45,9 +45,6 @@ O gráfico de pizza compilando a porcentagem de itens atendidos e não atendidos
 | Figura 1: Gráfico de Itens atendidos e não atendidos    |
 
 Como a porcentagem de acerto representa aproximadamente 87%, o artefato não precisa de tanta urgencia na correção desses elementos.
-### 2.3 Correção
-
-### 2.4 Acompanhamento
 
 ## Referências Bibliográficas
 
