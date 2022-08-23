@@ -59,7 +59,7 @@ Como pode ser aferido pelo gráfico, a porcentagem de atendidos chega na marca d
 
 ### 2.3 Correção
 
-Para a fase de correção um membro do grupo será escolhido para realizar as correções apontadas no perfil de usuário.
+Para a fase de correção um membro do grupo será escolhido para realizar as correções apontadas nas personas.
 
 ### 2.4 Acompanhamento
 

@@ -47,7 +47,7 @@ Como pode ser aferido pelo gráfico, metade dos requisitos não foram atendidos,
 
 ### 2.3 Correção
 
-Para a fase de correção um membro do grupo será escolhido para realizar as correções apontadas no perfil de usuário.
+Para a fase de correção um membro do grupo será escolhido para realizar as correções apontadas nas metas.
 
 ### 2.4 Acompanhamento
 
