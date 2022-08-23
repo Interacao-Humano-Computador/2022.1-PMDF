@@ -3,7 +3,7 @@
 ## 1. Introdução
 
 Neste artefato será feita a verificação do
-[* Planejamento dos Relatos do Prototipo de papel*](/nivel1/planejamento_relato_storyboard_analise_tarefa.md) utilizando a metodologia e as estratégias descritas no documento
+[* Planejamento dos Relatos do Prototipo de papel*](/nivel1/planejamento_relato_prototipo_de_papel.md) utilizando a metodologia e as estratégias descritas no documento
 de [*Verificação*](../verif_principal.md)
 
 - Autor do documento: Bernardo Pissuti, Cícero

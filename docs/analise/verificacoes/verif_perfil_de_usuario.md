@@ -1,6 +1,6 @@
 # Verificação do Perfil de Usuário
 
-## 1. Intrudução
+## 1. Introdução
 
 Neste artefato será feita a checklist de avaliação do artefato sobre 
 [Perfil de Usuário](/analise_de_requisitos/perfil_do_usuario.md),
@@ -23,7 +23,7 @@ O *checklist* da tabela 1 foi montado para verificar a qualidade do artefato.
 | Os perfis de usuário foram categorizados em grupos, com base em suas semelhanças?                                          | 4             |
 | Foi identificado o publico alvo do site?                                                                                   | 5             |
 | Foi utilizado um termo de consentimento para os metodos empregados?                                                        | 6             |
-| O roteiro identifica a familiaridade do perticipante com a tecnologia?                                                     | 7             |
+| O roteiro identifica a familiaridade do participante com a tecnologia?                                                     | 7             |
 
 _Tabela 1: Itens e identificadores da verificação do Planejamento da Análise de Tarefas_
 
@@ -46,7 +46,7 @@ O resultado do inspeção dos itens levantados consta na _tabela 2_ abaixo.
 
 _Tabela 2: resultado do checklist_
 
-O seguinte gráfico de Pizza foi construído utilizando da Ferramenta: 
+O seguinte gráfico de pizza foi construído utilizando da Ferramenta: 
 Google Sheets para melhor rastreamento dos itens nas próximas fases.
 
 | ![imagemGráfico](../../_media/grafico_perfildeusuario.png) |
@@ -54,7 +54,6 @@ Google Sheets para melhor rastreamento dos itens nas próximas fases.
 | Figura 1: Gráfico de Itens atendidos e não atendidos       |
 
 Como a inspeção verificou que o artefato não satisfaz o item 7 da checklist, portanto há a necessidade de correções.
-
 
 ## Referências Bibliográficas
 

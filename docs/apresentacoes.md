@@ -34,6 +34,14 @@ allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sQUmozuH60g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## 6. Apresentação 6
+
+### 6.1 Vídeo
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6Tx7xC7XHpc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
 ## Histórico de Versões
 | Versão | Data  | Descrição                    | Autor(es)         |
 |--------|-------|------------------------------|-------------------|
@@ -41,3 +49,4 @@ allowfullscreen></iframe>
 | 1.1    | 20/07 | Adição do video da entrega 2 | Beranrdo Pissutti |
 | 1.2    | 02/08 | Adição do video da entrega 3 | Arthur josé       |
 | 1.3    | 08/08 | Adição do vídeo da entrega 4 | Bernardo Pissutti |
+| 1.4    | 22/08 | Adição do vídeo da entrega 6 | Bernardo Pissutti |

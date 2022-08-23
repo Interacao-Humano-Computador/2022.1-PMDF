@@ -4,7 +4,7 @@
 
 Neste artefato será feita a verificação do
 [*Planejamento da Avaliação do Protótipo em Papel*](/nivel2/planejamento_avaliacao_prototipo_papel.md) utilizando a metodologia e as estratégias descritas no documento
-de [*Verificação*](../verif_principal.md)
+de [*Verificação*](/analise/verif_principal.md)
 
 - Autor(es) do documento: Arthur Lima e Cícero Fernandes
 - Inspetor(es): Nícolas Georgeos Mantzos

@@ -15,14 +15,14 @@ de [*Verificação*](../verif_principal.md)
 
 O *checklist* da tabela 1 foi montado para verificar a qualidade do artefato.
 
-| Item | Identificador |
-| ------------ | -------- |
-| O artefato segue o framework DECIDE       | 1        |
-| O artefato apresenta tarefas a serem realizadas    | 2        |
-| O artefato possui objetivos claros         | 3        |
-| O artefato possui método a ser utilizado    | 4        |
-| O artefato possui hora/data/local/entrevistados da avaliação    | 5        |
-| O artefato possui aspectos eticos    | 6        |
+| Item                                                         | Identificador  |
+|--------------------------------------------------------------|----------------|
+| O artefato segue o framework DECIDE                          | 1              |
+| O artefato apresenta tarefas a serem realizadas              | 2              |
+| O artefato possui objetivos claros                           | 3              |
+| O artefato possui método a ser utilizado                     | 4              |
+| O artefato possui hora/data/local/entrevistados da avaliação | 5              |
+| O artefato possui aspectos eticos                            | 6              |
 _Tabela 1: Itens e identificadores da verificação Verificação do Planejamento da Avaliação do StoryBoard
 
 ### 2.2 Inspeção
