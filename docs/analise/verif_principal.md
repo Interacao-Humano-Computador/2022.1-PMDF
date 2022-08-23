@@ -10,15 +10,17 @@ As verificações utilizarão, primariamente, as seis etapas definidas pelo mét
 
 ### 1. Planejamento
 
-Alguém tem que fazer isso...
+O objetivo é organizar o ambiente, físico ou virtual, no qual a inspeção se dará, reunindo os participantes e separando os materiais necessários.
 
 ### 2. Visão Geral
 
-Pois é...alguém tem que ver isso..
+Nesta etapa, os participantes da tarefa de inspeção são deixados a par dos materiais em análise e funções são atribuídas a cada um deles, determinando quem avaliará qual artefato. 
 
 ### 3. Preparação
 
-Um conjunto de perguntas serão elicitadas e listadas a partir da avaliação do professor nas apresentações, dos monitores nos relatórios e da bibliografia, a fim de cobrir os aspectos mais variados e relevantes do artefato. Cada pergunta estará acompanhada de um identificador para referência posterior, como consta na tabela exemplificativa 1 abaixo.
+Nesta etapa, segundo Fagan, *os participantes revisam o item a ser inspecionado e o material de apoio, anotando quaisquer dúvidas ou possíveis defeitos encontrados.*
+Nesse sentido, optamos por elicitar e listar os "defeitos encontrados" como perguntas advindas da avaliação do professor nas apresentações, dos monitores nos relatórios e da bibliografia, a fim de cobrir os aspectos mais variados e relevantes do artefato. 
+Cada pergunta estará acompanhada de um identificador para referência posterior, como consta na tabela exemplificativa 1 abaixo.
 
 | Pergunta        | Identificador   |
 | --------------- | --------------- |
@@ -32,7 +34,7 @@ _Tabela 1: Tabela exemplificativa de itens e seus identificadores_
 
 ### 4. Inspeção
 
-Os itens destacados na etapa de preparação serão inspecionados justapondo-os em uma tabela com duas colunas: _Identificador_ e _Situação_, referindo-se, respectivamente ao n-ésimo _i<sub>n</sub>_ da tabela 1
+Aqui, os defeitos são encontrados. Para tal, os itens destacados na etapa de preparação serão inspecionados justapondo-os em uma tabela com duas colunas: _Identificador_ e _Situação_, referindo-se, respectivamente ao n-ésimo _i<sub>n</sub>_ da tabela 1
 e a um dos ícones da tabela 3. No caso, "✅" qualificando o item como "Atendido" e "❌" o tornando "Não atendido", como pode ser visto na tabela 2.
 
 | Identificador   | Situação |
@@ -65,13 +67,16 @@ Por fim, haverá uma conclusão determinando se o artefato deve ou não ser corr
 
 ### 5. Correção
 
-Nesta fase, um membro da equipe será alocado para realizar a correção do artefato a partir do que foi apontado na etapa de inspeção.
+A correção (ou retrabalho) é a *etapa da inspeção de software na qual os defeitos encontrados durante a inspeção são resolvidos pelo autor, projetista ou programador*. C
+Nesta fase, portanto, alocamos o(s) membro(s) da equipe responsável(eis) pela criação do artefato para a realização da correção.
 
 ### 6. Acompanhamento
 
-Nesta fase, um membro da equipe será alocado para acompanhar a tarefa de correção, realizando uma nova inspeção para a fiscalização dos itens que ainda não tenham sido atendidos.
+Na fase de acompanhamento, todos os defeitos encontrados na inspeção devem ser efetivamente corrigidos, sendo de responsabilidade de um
+moderador verificar se esse é o caso. Além disso, ele deve verificar se nenhum novo defeito foi introduzido no processo de correção.
+Foi alocado, portanto, um membro da equipe para realizar o papel de moderador.
 
-## 3. Verificações
+## 3. Verificação
 
 ### 3.1 Análise de Requisitos
 
