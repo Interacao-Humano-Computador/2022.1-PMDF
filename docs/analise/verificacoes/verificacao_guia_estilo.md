@@ -11,7 +11,7 @@ sobre [Guia de Estilo](/analise_de_requisitos/guia_de_estilo.md) utilizando a me
 
 ## 2. Verificação
 
-## 2.1. Preparação
+### 2.1. Preparação
 
 Primeiramente, é preciso construir uma série de perguntas que permitem avaliar a qualidade do documento produzido.
 Após análises de diversos checklists produzidos pelos grupos de projetos de semestres anteriores, foi possível coletar
@@ -34,7 +34,7 @@ item e seu respectivo identificador.
 
 _Tabela 1: Itens e identificadores da verificação do Guia de Estilo_
 
-## 2.2 Inspeção
+### 2.2 Inspeção
 
 A inspeção do artefato foi realizado pelo membro: Guilherme Brito, no dia 21 de Agosto às 16h. Após a inspeção, a
 checklist foi construída e ela pode ser vista na _Tabela 2_.
@@ -68,12 +68,12 @@ Tomando como base a checklist construída, observa-se que o artefato está bom, 
 gramaticais e não segue uma estrutura muito lógica entre os itens, alguns itens importantes são apresentados no fim do
 documento.
 
-## 2.3 Correção
+### 2.3 Correção
 
 Um membro será definido para executar as correções indicadas nesse documento e também tomará como base os relatórios
 gerados pela monitora da matéria e comentários feitos pelo professor nas apresentações dos pontos de controle.
 
-## 2.4 Acompanhamento
+### 2.4 Acompanhamento
 
 O membro Guilherme Brito será o responsável por acompanhar a tarefa de correção do membro definido no item anterior.
 
