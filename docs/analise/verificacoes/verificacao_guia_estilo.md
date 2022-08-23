@@ -13,8 +13,7 @@ sobre [Guia de Estilo](/analise_de_requisitos/guia_de_estilo.md) utilizando a me
 
 ### 2.1. Preparação
 
-Primeiramente, é preciso construir uma série de perguntas que permitem avaliar a qualidade do documento produzido.
-Após análises de diversos checklists produzidos pelos grupos de projetos de semestres anteriores, foi possível coletar
+Após análises de diversos checklists produzidos pelos grupos de projetos de semestres anteriores e leitura da bibliografia da matéria [1], foi possível coletar
 as perguntas mais pertinentes e úteis ao contexto. As perguntas elicitadas podem ser vistas na tabela abaixo, contendo o
 item e seu respectivo identificador.
 
@@ -71,10 +70,15 @@ documento.
 
 ## Referências Bibliográficas
 
+[1] - Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)
+Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.R
+
+
 SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 20. Material apresentado para a disciplina de Requisitos de
 Software no curso de Engenharia de Software da UnB, FGA.
 
 Fagan, M. (1976) Design and Code Inspections to Reduce Errors in Software Development. IBM Systems Journal, 15, 182-211.
+
 
 ## Histórico de Versões
 
