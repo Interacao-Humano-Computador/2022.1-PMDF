@@ -2,7 +2,7 @@
 
 ## 1. Introdução
 
-Segundo *Serrano*, a verificação pode ser entendida como *uma análise de modelos sem que haja direta comparação com o Universo de Informações*, sendo essa análise uma tarefa desempenhada tanto por seres humanos quanto por software, seguindo regras bem definidas e cujo objetivo principal é analisar se os artefatos estão sendo construidos corretamente.
+Segundo _Serrano_, a verificação pode ser entendida como _uma análise de modelos sem que haja direta comparação com o Universo de Informações_, sendo essa análise uma tarefa desempenhada tanto por seres humanos quanto por software, seguindo regras bem definidas e cujo objetivo principal é analisar se os artefatos estão sendo construídos corretamente.
 
 ## 2. Metodologia
 
@@ -11,42 +11,45 @@ As verificações utilizarão, primariamente, as seis etapas definidas pelo mét
 ### 1. Planejamento
 
 Alguém tem que fazer isso...
+
 ### 2. Visão Geral
+
 Pois é...alguém tem que ver isso..
 
 ### 3. Preparação
+
 Um conjunto de perguntas serão elicitadas e listadas a partir da avaliação do professor nas apresentações, dos monitores nos relatórios e da bibliografia, a fim de cobrir os aspectos mais variados e relevantes do artefato. Cada pergunta estará acompanhada de um identificador para referência posterior, como consta na tabela exemplificativa 1 abaixo.
 
-| Pergunta | Identificador |
-| ------------ | -------- |
-| *p<sub>1</sub>*         | *i<sub>1</sub>*        |
-| *p<sub>2</sub>*        | *i<sub>2</sub>*        |
-| *p<sub>3</sub>*         | *i<sub>3</sub>*        |
-| ...         | ...        |
-| *p<sub>n</sub>*         | *i<sub>n</sub>*        |
+| Pergunta        | Identificador   |
+| --------------- | --------------- |
+| _p<sub>1</sub>_ | _i<sub>1</sub>_ |
+| _p<sub>2</sub>_ | _i<sub>2</sub>_ |
+| _p<sub>3</sub>_ | _i<sub>3</sub>_ |
+| ...             | ...             |
+| _p<sub>n</sub>_ | _i<sub>n</sub>_ |
 
 _Tabela 1: Tabela exemplificativa de itens e seus identificadores_
 
 ### 4. Inspeção
 
-Os itens destacados na etapa de preparação serão inspecionados justapondo-os em uma tabela com duas colunas: *Identificador* e *Situação*, referindo-se, respectivamente ao n-ésimo *i<sub>n</sub>* da tabela 1
+Os itens destacados na etapa de preparação serão inspecionados justapondo-os em uma tabela com duas colunas: _Identificador_ e _Situação_, referindo-se, respectivamente ao n-ésimo _i<sub>n</sub>_ da tabela 1
 e a um dos ícones da tabela 3. No caso, "✅" qualificando o item como "Atendido" e "❌" o tornando "Não atendido", como pode ser visto na tabela 2.
 
-| Identificador | Situação |
-| --------- | -------- |
-| *i<sub>1</sub>*         | ✅        |
-| *i<sub>2</sub>*         | ✅        |
-| *i<sub>3</sub>*         | ❌        |
-| *i<sub>4</sub>*         | ✅        |
-| ...         | ...        |
-| *i<sub>n</sub>*         |   ❌      |
+| Identificador   | Situação |
+| --------------- | -------- |
+| _i<sub>1</sub>_ | ✅       |
+| _i<sub>2</sub>_ | ✅       |
+| _i<sub>3</sub>_ | ❌       |
+| _i<sub>4</sub>_ | ✅       |
+| ...             | ...      |
+| _i<sub>n</sub>_ | ❌       |
 
 _Tabela 2: Tabela exemplificativa de inspeção de itens (checklist)_
 
-| Símbolo   |  Significado  |
-|:---------:|:-------------:|
-|     ✅     |   Atendido    |
-|     ❌     | Não atendido  |
+| Símbolo | Significado  |
+| :-----: | :----------: |
+|   ✅    |   Atendido   |
+|   ❌    | Não atendido |
 
 _Tabela 3: Símbolos utilizados nas checklists e seus significados_
 
@@ -54,9 +57,9 @@ A partir dessa resposta, um gráfico de pizza como o da figura 1, compilando a p
 não atendidos, será montado para facilitar a análise dos resultados e melhorar o rastreamento dos itens
 nas próximas fases.
 
-| ![imagemGráfico](../_media/grafico_guiadeestilo.png) |
-|---------------------------------------------------------|
-| Figura 1: Exemplo de gráfico de itens atendidos e não atendidos    |
+| ![imagemGráfico](../_media/grafico_guiadeestilo.png)            |
+| --------------------------------------------------------------- |
+| Figura 1: Exemplo de gráfico de itens atendidos e não atendidos |
 
 Por fim, haverá uma conclusão determinando se o artefato deve ou não ser corrigido, quais pontos devem ser priorizados em uma eventual correção etc
 
@@ -73,10 +76,10 @@ Nesta fase, um membro da equipe será alocado para acompanhar a tarefa de corre�
 ### 3.1 Análise de Requisitos
 
 [Verificação 01 : Perfil do Usuário](analise/verificacoes/verif_perfil_de_usuario.md)<br>
-[Verificação 02 : Personas](analise/verificacoes/)<br>
+[Verificação 02 : Personas](analise/verificacoes/verificacao_personas.md)<br>
 [Verificação 03 : Análise de Tarefas](analise/verificacoes/)<br>
-[Verificação 04 : Principios Gerais](analise/verificacoes/verif_principios_gerais.md)<br>
-[Verificação 05 : Metas de Usabilidade](analise/verificacoes/)<br>
+[Verificação 04 : Princípios Gerais](analise/verificacoes/verif_principios_gerais.md)<br>
+[Verificação 05 : Metas de Usabilidade](analise/verificacoes/verificacao_metas.md)<br>
 [Verificação 06 : Guia de Estilo](analise/verificacoes/verificacao_guia_estilo.md)<br>
 
 
@@ -87,7 +90,7 @@ Nesta fase, um membro da equipe será alocado para acompanhar a tarefa de corre�
 [Verificação 01 : Planejamento da avaliação da Análise de Tarefas](analise/verificacoes/verificacao_planejamento_analise_tarefas.md)<br>
 [Verificação 02 : Planejamento da avaliação do Storyboard](analise/verificacoes/)<br>
 [Verificação 03 : Planejamento dos Relatos](analise/verificacoes/)<br>
-[Verificação 04 : Storyboard](analise/verificacoes/)<br>
+[Verificação 03 : Planejamento dos Relatos](analise/verificacoes/verif_storyboards.md)<br>
 
 #### 3.2.2 Nível 2
 
@@ -101,7 +104,7 @@ Fagan, M. (1976) Design and Code Inspections to Reduce Errors in Software Develo
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição         | Autor              |
-| ------ | ---------- | ----------------- | ------------------ |
-| 1.0    | 15/08/2022 | Criação da Introdução, Metodologia e Verificações | Leonardo Vitoriano |
-| 1.1    | 17/08/2022 | Reescrita com maior detalhamento | Nícolas Georgeos Mantzos |
+| Versão | Data       | Descrição                                         | Autor                    |
+| ------ | ---------- | ------------------------------------------------- | ------------------------ |
+| 1.0    | 15/08/2022 | Criação da Introdução, Metodologia e Verificações | Leonardo Vitoriano       |
+| 1.1    | 17/08/2022 | Reescrita com maior detalhamento                  | Nícolas Georgeos Mantzos |

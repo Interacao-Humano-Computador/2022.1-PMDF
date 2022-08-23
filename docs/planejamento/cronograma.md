@@ -98,7 +98,7 @@ _Tabela 5: Quarta Etapa_
 
 ### 2.5 Quinta Etapa Do projeto
 
-A tabela 6 correspondente às atividades da quarta etapa do projeto no 08/08/2022.
+A tabela 6 correspondente às atividades da quinta etapa do projeto no 17/08/2022.
 
 | Data  | Atividade                                                                | Responsáveis    | Revisores |
 | ----- | ------------------------------------------------------------------------ | --------------- | --------- |
@@ -110,6 +110,28 @@ A tabela 6 correspondente às atividades da quarta etapa do projeto no 08/08/202
 | 17/08 | Gravação da entrega                                                      | Todos           | Todos     |
 
 _Tabela 6: Quinta Etapa_
+
+### 2.6 Sexta Etapa Do projeto
+
+A tabela 7 correspondente às atividades da sexta etapa do projeto no 22/08/2022.
+
+| Data  | Atividade                                                   | Responsáveis | Revisores |
+| ----- | ----------------------------------------------------------- | ------------ | --------- |
+| 22/08 | Construção do cronograma de atividades                      | Cícero       | Todos     |
+| 22/08 | Verificação planejamento dos relatos                        | Arthur       | Leonardo  |
+| 22/08 | Verificação planejamento da avaliação do storyboard         | Arthur       | Nicolas   |
+| 21/08 | Verificação planejamento da avaliação da análise de tarefa  | Guilherme    | Nicolas   |
+| 21/08 | Verificação planejamento da avaliação do protótipo de papel | Nicolas      | Leonardo  |
+| 20/08 | Verificação Princípios gerais                               | Bernardo     | Arthur    |
+| 22/08 | Verificação metas de usabilidade                            | Cícero       | Bernardo  |
+| 21/08 | Verificação Guia de estilo                                  | Guilherme    | Cícero    |
+| 21/08 | Verificação análise de tarefa                               | Leonardo     | Nicolas   |
+| 21/08 | Verificação storyboards                                     | Leonardo     | Guilherme |
+| 22/08 | Verificação personas                                        | Cícero       | Guilherme |
+| 20/08 | Verificação perfil do usuário                               | Bernardo     | Cícero    |
+| 22/08 | Gravação da entrega                                         | Todos        | Todos     |
+
+_Tabela 7: Sexta Etapa_
 
 ## 3. Sprints
 
@@ -176,6 +198,18 @@ O backlog da sprint 5 representado na _Figura 9_ e na _Figura 10_ o kanban board
 | ---------------------------------------------- |
 | _Figura 10: quadro kanban da sprint 5_         |
 
+### 3.6 Sprint 6
+
+O backlog da sprint 6 representado na _Figura 11_ e na _Figura 12_ o kanban board.
+
+| ![image](../_media/backLogSprint6IHC.png) |
+| ----------------------------------------- |
+| _Figura 11: backlog da sprint 6_          |
+
+| ![image](../_media/quadroKanbanSprint6IHC.png) |
+| ---------------------------------------------- |
+| _Figura 12: quadro kanban da sprint 6_         |
+
 ## Histórico de Versões
 
 | Versão | Data       | Descrição                  | Autor  |
@@ -185,3 +219,4 @@ O backlog da sprint 5 representado na _Figura 9_ e na _Figura 10_ o kanban board
 | 1.2    | 28/07/2022 | Adição da Terceira entrega | Cícero |
 | 1.3    | 08/08/2022 | Adição da Quarta entrega   | Cícero |
 | 1.4    | 17/08/2022 | Adição da Quinta entrega   | Cícero |
+| 1.5    | 22/08/2022 | Adição da Sexta entrega    | Cícero |
