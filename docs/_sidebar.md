@@ -19,13 +19,17 @@
   - _Nível 1_
     - [Planejamento de Avaliação - Storyboard](nivel1/planejamento_avaliacao_storyboard.md)
     - [Planejamento de Avaliação - Análise de Tarefas](nivel1/planejamento_analise_tarefas.md)
-    - [Planejamento dos Relatos](nivel1/planejamento_relato_storyboard_analise_tarefa.md)
+    - [Planejamento do Relato - Análise de Tarefas](nivel1/planejamento_relato_analisedetarefa.md)
+    - [Planejamento do Relato - Stotyboard](nivel1/planejamento_relato_storyboard.md)
     - [StoryBoard](nivel1/storyboard.md)
     - [Relato da Avaliação - Storyboard](nivel1/avaliacao_storyboard.md)
     - [Relato da Avaliação - Análise de Tarefas](nivel1/entrevista_analise_tarefas.md)
   - _Nível 2_
     - [Planejamento da avaliação - Protótipo de Papel](nivel2/planejamento_avaliacao_prototipo_papel.md)
     - [Planejamento do Relato - Protótipo de Papel](nivel2/planejamento_relato_prototipo_de_papel.md)
+  - _Nível 3_
+    - [Planejamento do Relato - Protótipo de Alta Fidelidade](nivel3/planejamento_relato_prototipo_alta_fidelidade.md)
+    - [Protótipo de Alta Fidelidade](nivel3/prototipo_alta_fidelidade.md)
 - **Análise**
   - [Verificação](analise/verif_principal.md)
 

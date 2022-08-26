@@ -1,8 +1,8 @@
-# <center> Planejamento dos Relatos dos Resultados do Storyboard e da Análise de Tarefas
+# <center> Planejamento do Relato dos Resultados da Análise de Tarefas
 
 ## 1. Introdução
 
-Este documento visa especificar como os resultados do [_método de avaliação selecionado_](nivel1/planejamento_avaliacao_storyboard.md)
+Este documento visa especificar como os resultados do [_método de avaliação selecionado_](nivel1/planejamento_analise_tarefas.md)
 devem ser relatados, interpretados, consolidados.
 
 ## 2. Planejamento
@@ -11,8 +11,8 @@ devem ser relatados, interpretados, consolidados.
 
 O relato dos resultados feito pelos avaliadores deve incluir:
 
-* O objetivo da avaliação;
-* O método que a avaliação foi realizada;
+* O objetivo da avaliação: coletar dados sobre os fluxos e objetivos que o usuário deseja alcançar através da interface;
+* O método que a avaliação foi realizada: Entrevista;
 * O perfil dos usuários e avaliádores que participaram da avalição;
 * Um sumário dos dados coletados;
 * Um relato da interpretação e análise dos dados;
@@ -22,7 +22,7 @@ O relato dos resultados feito pelos avaliadores deve incluir:
 
 A interpretação do avaliador deve ser orientada pelo método de avaliação selecionado. Uma vez que o método
 selecionado foi uma entrevista, logo a interpretação terá que ser feita de forma manual e levando em consideração
-os focos da análise (quais dados devem ser análisados sob quais perspectivas de análise) tendo em vista o método de 
+os focos da análise (quais dados devem ser análisados sob quais perspectivas de análise) tendo em vista o método de
 avaliação escolhido. (Barbose, Simone; p. 278)
 
 ### 2.3 Consolidação

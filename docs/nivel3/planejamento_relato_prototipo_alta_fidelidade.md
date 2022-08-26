@@ -1,8 +1,8 @@
-# <center> Plenajamento do Relato do Protótipo de Papel
+# <center> Plenajamento do Relato do Protótipo de Alta Fidelidade
 
 ## 1. Introdução
 
-Este documento visa especificar como os resultados do [_método de avaliação selecionado_](nivel2/planejamento_avaliacao_prototipo_papel.md)
+Este documento visa especificar como os resultados do [_método de avaliação selecionado_](nivel3/#)
 devem ser relatados, interpretados, consolidados.
 
 ## 2. Planejamento
@@ -11,8 +11,8 @@ devem ser relatados, interpretados, consolidados.
 
 O relato dos resultados feito pelos avaliadores deve incluir:
 
-* O objetivo da avaliação: receber feedback do usuário e explorar alteranativas de design
-  no [site da PMDF](http://www.pmdf.df.gov.br/);
+* O objetivo da avaliação: validar se o prototipo de alta fidelidade apresenta boas soluções para as heuríticas de usabilidades não atendidas
+no [site da PMDF](http://www.pmdf.df.gov.br/);
 * O método que a avaliação foi realizada: entrevista;
 * O perfil dos usuários e avaliádores que participaram da avalição;
 * Um sumário dos dados coletados;
@@ -21,13 +21,13 @@ O relato dos resultados feito pelos avaliadores deve incluir:
 
 ### 2.2 Interpretação
 
-A interpretação do avaliador deve  levar em consideração os focos da análise (quais dados devem ser analisados 
+A interpretação do avaliador deve  levar em consideração os focos da análise (quais dados devem ser analisados
 sob quais perspectivas de análise) tendo em vista o método de avaliação escolhido (Barbose, Simone; p. 278), nesse caso
 uma entrevista.
 
 ### 2.3 Consolidação
 
-Os resultados individuais são consolidados e analisados em conjunto, em uma análise denominada de 
+Os resultados individuais são consolidados e analisados em conjunto, em uma análise denominada de
 intersujeito ou interparticipante (Nicolaci-da Costa, 1994; Nicolaci-da Costa et al., 2004). Nessa atividade,
 os avaliadores buscam recorrências nos
 resultados de acordo com o método selecionado. As recorrências são importantes porque, ao expressarem
@@ -44,4 +44,6 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN
 
 | Versão | Data       | Descrição                                              | Autor             |
 |--------|------------|--------------------------------------------------------|-------------------|
-| 1.0    | 25/08/2022 | Criação da Introdução, Consolidação , Análise e Relato | Bernardo Pissutti |~~
+| 1.0    | 25/08/2022 | Criação da Introdução, Consolidação , Análise e Relato | Bernardo Pissutti |
+
+
