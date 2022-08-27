@@ -70,7 +70,7 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                    | Autor             |
-|--------|------------|------------------------------|-------------------|
-| 1.0    | 11/07/2022 | Criação da página            | Bernardo Pissutti |
-| 1.1    | 17/07/2022 | Adição das outras avaliações | Bernardo Pissutti |
+| Versão | Data       | Descrição                    | Autor             | Revisor            |
+|--------|------------|------------------------------|-------------------|--------------------|
+| 1.0    | 11/07/2022 | Criação da página            | Bernardo Pissutti | Leonardo Vitoriano |
+| 1.1    | 17/07/2022 | Adição das outras avaliações | Bernardo Pissutti | Leonardo Vitoriano |

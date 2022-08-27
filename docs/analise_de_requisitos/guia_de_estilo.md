@@ -190,8 +190,8 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                                                            | Autor             |
-| ------ | ---------- | -------------------------------------------------------------------- | ----------------- |
-| 1.0    | 27/07/2022 | Criação da página e introdução                                       | Bernardo Pissutti |
-| 1.1    | 28/07/2022 | Adição da secão "considerações" e documentação do layout, tipografia | Bernardo Pissutti |
-| 1.2    | 01/08/2022 | Criação de Cores, Visualização de Informação, Design de Telas e Elementos de Interface  | Arthur José |
+| Versão | Data        | Descrição                                                                              | Autor              | Revisor                    |
+|--------|-------------|----------------------------------------------------------------------------------------|--------------------|----------------------------|
+| 1.0    | 27/07/2022  | Criação da página e introdução                                                         | Bernardo Pissutti  | Nícolas Mantzos e Leonardo |
+| 1.1    | 28/07/2022  | Adição da secão "considerações" e documentação do layout, tipografia                   | Bernardo Pissutti  | Nícolar Mantzos e Leonardo |
+| 1.2    | 01/08/2022  | Criação de Cores, Visualização de Informação, Design de Telas e Elementos de Interface | Arthur José        | Nícolar Mantzos e Leonardo |

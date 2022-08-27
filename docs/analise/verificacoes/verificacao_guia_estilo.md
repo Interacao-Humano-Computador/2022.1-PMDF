@@ -17,19 +17,19 @@ Após análises de diversos checklists produzidos pelos grupos de projetos de se
 as perguntas mais pertinentes e úteis ao contexto. As perguntas elicitadas podem ser vistas na tabela abaixo, contendo o
 item e seu respectivo identificador.
 
-| Item                                                                                          | Identificador |
-|-----------------------------------------------------------------------------------------------|---------------|
-| O documento possui versionamento?                                                             | 1             |
-| O documento está gramaticalmente correto?                                                     | 2             |
-| Existe uma introdução ao conceito abordado?                                                   | 3             |
-| Há uma ordem lógica entre as estruturas?                                                      | 4             |
-| Elementos gráficos estão acompanhados de legendas?                                            | 5             |
-| Existem imagens do sistema analisado para referência visual?                                  | 6             |
-| Existe referência de cores do site analisado no guia de estilo apresentado? (Paleta de Cores) | 7             |
-| É apresentada a tipografia utilizada pelo site?                                               | 8             |
-| O guia de estilo do site apresenta algum padrão pré-estabelecido?                             | 9             |
-| Se sim, esse padrão é apresentado no documento?                                               | 10            |
-| Possui especificação do layout?                                                               | 11            |
+| Item                                                                                          | Identificador  |
+|-----------------------------------------------------------------------------------------------|----------------|
+| O documento possui versionamento?                                                             | 1              |
+| O documento está gramaticalmente correto?                                                     | 2              |
+| Existe uma introdução ao conceito abordado?                                                   | 3              |
+| Há uma ordem lógica entre as estruturas?                                                      | 4              |
+| Elementos gráficos estão acompanhados de legendas?                                            | 5              |
+| Existem imagens do sistema analisado para referência visual?                                  | 6              |
+| Existe referência de cores do site analisado no guia de estilo apresentado? (Paleta de Cores) | 7              |
+| É apresentada a tipografia utilizada pelo site?                                               | 8              |
+| O guia de estilo do site apresenta algum padrão pré-estabelecido?                             | 9              |
+| Se sim, esse padrão é apresentado no documento?                                               | 10             |
+| Possui especificação do layout?                                                               | 11             |
 
 _Tabela 1: Itens e identificadores da verificação do Guia de Estilo_
 
@@ -38,19 +38,19 @@ _Tabela 1: Itens e identificadores da verificação do Guia de Estilo_
 A inspeção do artefato foi realizado pelo membro: Guilherme Brito, no dia 21 de Agosto às 16h. Após a inspeção, a
 checklist foi construída e ela pode ser vista na _Tabela 2_.
 
-| Identificador | Situação |
-|:--------------|:--------:|
-| 1             |     ✅     |
-| 2             |     ❌     |
-| 3             |      ✅    |
-| 4             |      ❌    |
-| 5             |     ✅     |
-| 6             |      ✅    |
-| 7             |     ✅     |
-| 8             |     ✅     |
-| 9             |    ✅      |
-| 10            |     ✅     |
-| 11            |     ✅      |
+| Identificador  | Situação  |
+|:---------------|:---------:|
+| 1              |     ✅     |
+| 2              |     ❌     |
+| 3              |     ✅     |
+| 4              |     ❌     |
+| 5              |     ✅     |
+| 6              |     ✅     |
+| 7              |     ✅     |
+| 8              |     ✅     |
+| 9              |     ✅     |
+| 10             |     ✅     |
+| 11             |     ✅     |
 
 _Tabela 2: Checklist de Verificação do Artefato: Guia de Estilo_
 
@@ -82,7 +82,7 @@ Fagan, M. (1976) Design and Code Inspections to Reduce Errors in Software Develo
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                              | Autor           |
-|--------|------------|----------------------------------------|-----------------|
-| 1.0    | 21/08/2022 | Construção do Artefato                 | Guilherme Brito |
-| 1.1    | 22/08/2022 | Ajuste de Documento ao Padrão definido | Guilherme Brito |
+| Versão | Data       | Descrição                              | Autor           | Revisor |
+|--------|------------|----------------------------------------|-----------------|---------|
+| 1.0    | 21/08/2022 | Construção do Artefato                 | Guilherme Brito | Cicero  |
+| 1.1    | 22/08/2022 | Ajuste de Documento ao Padrão definido | Guilherme Brito | Cicero  |

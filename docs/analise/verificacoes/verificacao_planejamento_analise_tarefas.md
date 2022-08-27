@@ -60,6 +60,6 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                           | Autor           |
-| ------ | ---------- | ----------------------------------- | --------------- |
-| 1.0    | 21/08/2022 | Escrita do documento de verificação | Guilherme Brito |
+| Versão  | Data       | Descrição                           | Autor           | Revisor         |
+|---------|------------|-------------------------------------|-----------------|-----------------|
+| 1.0     | 21/08/2022 | Escrita do documento de verificação | Guilherme Brito | Nícolas Mantzos |

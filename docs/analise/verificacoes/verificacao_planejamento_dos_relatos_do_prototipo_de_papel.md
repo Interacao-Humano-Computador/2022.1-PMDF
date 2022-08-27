@@ -58,6 +58,6 @@ Capitulo 8, Design, prototipação e Construção
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição           | Autor            |
-| ------ | ---------- | ------------------- | ---------------- |
-| 1.0    | 22/08/2022 | Escrita do documento de verificação Planejamento dos Relatos do Prototipo de papel| Arthur José |
+| Versão  | Data       | Descrição                                                                          | Autor       | Revisor  |
+|---------|------------|------------------------------------------------------------------------------------|-------------|----------|
+| 1.0     | 22/08/2022 | Escrita do documento de verificação Planejamento dos Relatos do Prototipo de papel | Arthur José | Leonardo |

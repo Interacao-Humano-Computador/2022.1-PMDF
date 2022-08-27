@@ -129,10 +129,10 @@ nas entrevistas.
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                                    | Autor           |
-|--------|------------|----------------------------------------------|-----------------|
-| 1.0    | 17/08/2022 | Criação do Artefato                          | Guilherme Brito |
-| 1.1    | 18/08/2022 | Inclusão de Tópicos: Conclusão e Metodologia | Guilherme Brito |
+| Versão | Data       | Descrição                                    | Autor           | Revisor |
+|--------|------------|----------------------------------------------|-----------------|---------|
+| 1.0    | 17/08/2022 | Criação do Artefato                          | Guilherme Brito | Nicolas |
+| 1.1    | 18/08/2022 | Inclusão de Tópicos: Conclusão e Metodologia | Guilherme Brito | Nicolas |
 
 
 

@@ -46,8 +46,8 @@ sobre como realizá-la tendo em vista seus objetivos (<i>goals</i>), os operador
 os métodos (<i>methods</i>) disponíveis e as regras de seleção (<i>selection rules</i>), cuja descrição consta na Tabela 2.
 
 |              Elementos              |                                                       Descrição                                                        |
-| :---------------------------------: | :--------------------------------------------------------------------------------------------------------------------: |
-|       Objetivos (<i>Goal</i>)       |                                O que o usuário pretende realizar ao utilizar o software                                |
+|:-----------------------------------:|:----------------------------------------------------------------------------------------------------------------------:|
+|      Objetivos (<i>Goal</i>)        |                                          O que o usuário pretende realizar ao utilizar o software                      |
 |       Operadores (<i>OP</i>)        |                        Ações disponibilizadas pelo sistema que de fato o usuário pode realizar                         |
 |       Métodos (<i>METHOD</i>)       |                     Sequências de operadores utilizadas para atingir um objetivo dentro do sistema                     |
 | Regras de seleção (<i>SEL.RULE</i>) | Referem-se a tomada de decisão por parte do usuário diante da possibilidade de possuir mais de um método para utilizar |
@@ -60,8 +60,8 @@ Estratégia prática que implementa os princípios do GOMS limitando os operador
 acompanhados do tempo médio para execução, elementos dessa estratégia, constam na Tabela 2.
 
 | Operador |                 Descrição                  | Tempo médio para execução |
-| :------: | :----------------------------------------: | :-----------------------: |
-|   _K_    |       Pressionar e soltar uma tecla        |           0,25s           |
+|:--------:|:------------------------------------------:|:-------------------------:|
+|  _K_     |          Pressionar e soltar uma tecla     |               0,25s       |
 |   _P_    |      Levar o cursor até algo na tela       |           1,10s           |
 |   _B_    |   Soltar ou pressionar um botão do mouse   |           0,10s           |
 |   _H_    |   Transitar a mão entre teclado e mouse    |           0,40s           |
@@ -74,8 +74,8 @@ Tabela 3: Elementos da implementação KLM - GOS
 #### 3.1.1 Análise de tarefa: consultar salário de servidor
 
 | Operador |                      Descrição                      | Tempo médio para execução |
-| :------: | :-------------------------------------------------: | :-----------------------: |
-|   _M_    |                     preparação                      |           1,50s           |
+|:--------:|:---------------------------------------------------:|:-------------------------:|
+|  _M_     |                           preparação                |             1,50s         |
 |   _P_    |       levar o cursor até o botão "Servidores"       |           0,50s           |
 |   _B_    |           pressionar o botão "Servidores"           |           0,05s           |
 |   _B_    |             soltar o botão "Servidores"             |           0,05s           |
@@ -108,7 +108,7 @@ Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; B
 
 ## Histórico de Versões
 
-| Versão | Data  | Descrição                   | Autor           |
-| ------ | ----- | --------------------------- | --------------- |
-| 1.0    | 20/07 | Análise de tarefas          | Arthur          |
-| 1.1    | 20/07 | Adição de novas estratégias | Nícolas Mantzos |
+| Versão  | Data  | Descrição                   | Autor           | Revisor           |
+|---------|-------|-----------------------------|-----------------|-------------------|
+| 1.0     | 20/07 | Análise de tarefas          | Arthur          | Bernardo Pissutti |
+| 1.1     | 20/07 | Adição de novas estratégias | Nícolas Mantzos | Bernardo Pissutti |

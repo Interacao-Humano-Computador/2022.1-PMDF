@@ -29,8 +29,8 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN
 
 ## Histórico de Versões
 
-| Versão | Data  | Descrição                           | Autor(es)         |
-|--------|-------|-------------------------------------|-------------------|
-| 1.0    | 10/07 | Criação da Página                   | Cícero Fernandes  |
-| 1.1    | 11/07 | Criação do paragrafo site escolhido | Bernardo Pissutti |
-| 1.2    | 11/07 | Correção de erro na citação no texto  | Leonardo Vitoriano |
+| Versão  | Data    | Descrição                            | Autor(es)          | Revisor  |            
+|---------|---------|--------------------------------------|--------------------|----------|
+| 1.0     | 10/07   | Criação da Página                    | Cícero Fernandes   | Leonardo | 
+| 1.1     | 11/07   | Criação do paragrafo site escolhido  | Bernardo Pissutti  | Leonardo |
+| 1.2     | 11/07   | Correção de erro na citação no texto | Leonardo Vitoriano | -        |

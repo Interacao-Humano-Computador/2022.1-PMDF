@@ -31,7 +31,7 @@ saberem quais entregas devem ser feitas (to do), quais estão sendo feitas (doin
 Sommerville,Ian - Engenharia de Software - 9 ed. - São Paulo: Pearson Prentice Hall, 2011.
 
 ## Histórico de Versões
-| Versão | Data       | Descrição                  | Autor             |
-|--------|------------|----------------------------|-------------------|
-| 1.0    | 11/07/2022 | Criação e edição da página | Leonardo  Vitoriano |
-| 1.1    | 11/07/2022 | Revisão | Nícolas Mantzos |
+| Versão | Data       | Descrição                  | Autor               | Revisor         |
+|--------|------------|----------------------------|---------------------|-----------------|
+| 1.0    | 11/07/2022 | Criação e edição da página | Leonardo  Vitoriano | Nícolas Mantzos |
+| 1.1    | 11/07/2022 | Revisão                    | Nícolas Mantzos     | -               |

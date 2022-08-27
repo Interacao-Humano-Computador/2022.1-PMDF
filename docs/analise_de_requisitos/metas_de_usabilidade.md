@@ -86,7 +86,7 @@ ROGERS, Y.; SHARP, H.; PREECE, J. Design de interação: além da Interação hu
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                        | Autor              |
-|--------|------------|----------------------------------|--------------------|
-|  1.0   | 27/07/2022 | Criação da introdução e metas de usabilidade | Leonardo Vitoriano |
-|  1.1   | 27/07/2022 | Adição da análise das metas de usabilidade e revisão geral | Nicolas Mantzos |
+| Versão | Data       | Descrição                                                  | Autor              | Revisor            |
+|--------|------------|------------------------------------------------------------|--------------------|--------------------|
+|  1.0   | 27/07/2022 | Criação da introdução e metas de usabilidade               | Leonardo Vitoriano | Guilherme e Cicero |
+|  1.1   | 27/07/2022 | Adição da análise das metas de usabilidade e revisão geral | Nicolas Mantzos    | Guilherme e Cicero |

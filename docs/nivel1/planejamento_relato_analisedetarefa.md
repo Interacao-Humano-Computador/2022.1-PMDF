@@ -42,7 +42,7 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                            | Autor             |
-|--------|------------|--------------------------------------|-------------------|
-| 1.0    | 07/08/2022 | Criação da Introdução, Consolidação  | Bernardo Pissutti |
-| 1.1    | 08/08/2022 | Criação da Análise e Relato          | Cícero e Artur    |
+| Versão | Data       | Descrição                            | Autor             | Revisor              |
+|--------|------------|--------------------------------------|-------------------|----------------------|
+| 1.0    | 07/08/2022 | Criação da Introdução, Consolidação  | Bernardo Pissutti | -                    |
+| 1.1    | 08/08/2022 | Criação da Análise e Relato          | Cícero e Artur    | Bernardo e Guilherme |

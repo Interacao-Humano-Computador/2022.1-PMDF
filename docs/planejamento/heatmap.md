@@ -8,6 +8,6 @@ O heatmap, como é possível visualizar na Figura 1, tem por objetivo transparec
 
 
 ## Histórico de Versões
-| Versão | Data       | Descrição         | Autor             |
-|--------|------------|-------------------|-------------------|
-| 1.0    | 11/07/2022 | Criação da página | Leonardo Vitoriano |
+| Versão | Data       | Descrição         | Autor               | Revisor |
+|--------|------------|-------------------|---------------------|---------|
+| 1.0    | 11/07/2022 | Criação da página | Leonardo Vitoriano  | -       |

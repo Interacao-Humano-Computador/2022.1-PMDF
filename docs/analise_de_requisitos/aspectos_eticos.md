@@ -79,8 +79,8 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                        | Autor              |
-| ------ | ---------- | -------------------------------- | ------------------ |
-| 1.0    | 19/07/2022 | Criação do Termo de Consentimeto | Leonardo Vitoriano |
-| 1.1    | 20/07/2022 | Adição da seção introdução       | Bernardo Pissutti  |
-| 1.2    | 17/08/2022 | Adição do Termo de Consentimeto Storyboard e Analise de Tarefa | Bernardo Pissutti  |
+| Versão  | Data         | Descrição                                                      | Autor               | Revisor |
+|---------|--------------|----------------------------------------------------------------|---------------------|---------|
+| 1.0     | 19/07/2022   | Criação do Termo de Consentimeto                               | Leonardo Vitoriano  | Todos   |
+| 1.1     | 20/07/2022   | Adição da seção introdução                                     | Bernardo Pissutti   | -       |
+| 1.2     | 17/08/2022   | Adição do Termo de Consentimeto Storyboard e Analise de Tarefa | Bernardo Pissutti   | -       |

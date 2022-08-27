@@ -106,7 +106,7 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição           | Autor              |
-| ------ | ---------- | ------------------- | -----------------  |
-| 1.0    | 21/08/2022 | Criação do Artefato | Leonardo Vitoriano |
-| 1.1    | 22/08/2022 | Refatorando para modelo único de verificação | Leonardo Vitoriano |
+| Versão  | Data       | Descrição                                    | Autor              | Revisor   |
+|---------|------------|----------------------------------------------|--------------------|-----------|
+| 1.0     | 21/08/2022 | Criação do Artefato                          | Leonardo Vitoriano | Guilherme |
+| 1.1     | 22/08/2022 | Refatorando para modelo único de verificação | Leonardo Vitoriano | Guilherme |

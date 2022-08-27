@@ -23,7 +23,7 @@ Nesse sentido, optamos por elicitar e listar os "defeitos encontrados" como perg
 Cada pergunta estará acompanhada de um identificador para referência posterior, como consta na tabela exemplificativa 1 abaixo.
 
 | Pergunta        | Identificador   |
-| --------------- | --------------- |
+|-----------------|-----------------|
 | _p<sub>1</sub>_ | _i<sub>1</sub>_ |
 | _p<sub>2</sub>_ | _i<sub>2</sub>_ |
 | _p<sub>3</sub>_ | _i<sub>3</sub>_ |
@@ -37,21 +37,21 @@ _Tabela 1: Tabela exemplificativa de itens e seus identificadores_
 Aqui, os defeitos são encontrados. Para tal, os itens destacados na etapa de preparação serão inspecionados justapondo-os em uma tabela com duas colunas: _Identificador_ e _Situação_, referindo-se, respectivamente ao n-ésimo _i<sub>n</sub>_ da tabela 1
 e a um dos ícones da tabela 3. No caso, "✅" qualificando o item como "Atendido" e "❌" o tornando "Não atendido", como pode ser visto na tabela 2.
 
-| Identificador   | Situação |
-| --------------- | -------- |
-| _i<sub>1</sub>_ | ✅       |
-| _i<sub>2</sub>_ | ✅       |
-| _i<sub>3</sub>_ | ❌       |
-| _i<sub>4</sub>_ | ✅       |
-| ...             | ...      |
-| _i<sub>n</sub>_ | ❌       |
+| Identificador   | Situação  |
+|-----------------|-----------|
+| _i<sub>1</sub>_ | ✅         |
+| _i<sub>2</sub>_ | ✅         |
+| _i<sub>3</sub>_ | ❌         |
+| _i<sub>4</sub>_ | ✅         |
+| ...             | ...       |
+| _i<sub>n</sub>_ | ❌         |
 
 _Tabela 2: Tabela exemplificativa de inspeção de itens (checklist)_
 
-| Símbolo | Significado  |
-| :-----: | :----------: |
-|   ✅    |   Atendido   |
-|   ❌    | Não atendido |
+| Símbolo   | Significado   |
+|:---------:|:-------------:|
+|     ✅     |   Atendido    |
+|     ❌     | Não atendido  |
 
 _Tabela 3: Símbolos utilizados nas checklists e seus significados_
 
@@ -60,7 +60,7 @@ não atendidos, será montado para facilitar a análise dos resultados e melhora
 nas próximas fases.
 
 | ![imagemGráfico](../_media/grafico_guiadeestilo.png)            |
-| --------------------------------------------------------------- |
+|-----------------------------------------------------------------|
 | Figura 1: Exemplo de gráfico de itens atendidos e não atendidos |
 
 Por fim, haverá uma conclusão determinando se o artefato deve ou não ser corrigido, quais pontos devem ser priorizados em uma eventual correção etc
@@ -78,9 +78,9 @@ Foi alocado, para esse papel, um membro da equipe que não realizou a inspeção
 
 O fluxo do processo de inspeção de Fagan pode ser observado na figura 2 abaixo.
 
-| ![imagemGráfico](../_media/verificacao_inspecao_fagan.jpeg)            |
-| --------------------------------------------------------------- |
-| Figura 2: Fluxo da inspeção de Fagan |
+| ![imagemGráfico](../_media/verificacao_inspecao_fagan.jpeg)       |
+|-------------------------------------------------------------------|
+| Figura 2: Fluxo da inspeção de Fagan                              |
 
 ## 3. Verificação
 
@@ -115,7 +115,7 @@ Fagan, M. (1976) Design and Code Inspections to Reduce Errors in Software Develo
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                                         | Autor                    |
-| ------ | ---------- | ------------------------------------------------- | ------------------------ |
-| 1.0    | 15/08/2022 | Criação da Introdução, Metodologia e Verificações | Leonardo Vitoriano       |
-| 1.1    | 17/08/2022 | Reescrita com maior detalhamento                  | Nícolas Georgeos Mantzos |
+| Versão  | Data       | Descrição                                         | Autor                    | Revisor         |
+|---------|------------|---------------------------------------------------|--------------------------|-----------------|
+| 1.0     | 15/08/2022 | Criação da Introdução, Metodologia e Verificações | Leonardo Vitoriano       | Nícolas Mantzos |
+| 1.1     | 17/08/2022 | Reescrita com maior detalhamento                  | Nícolas Georgeos Mantzos | Nicolas Mantzos |

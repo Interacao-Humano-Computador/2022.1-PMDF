@@ -62,7 +62,7 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                                                  | Autor           |
-| ------ | ---------- | ---------------------------------------------------------- | --------------- |
-| 1.0    | 12/08/2022 | Criação do Artefato Planejamento avaliação protótipo papel | Arthur e Cicero |
-| 1.1    | 16/08/2022 | Correções de ortografia                                    | Cicero          |
+| Versão  | Data       | Descrição                                                  | Autor           | Revisor    |
+|---------|------------|------------------------------------------------------------|-----------------|------------|
+| 1.0     | 12/08/2022 | Criação do Artefato Planejamento avaliação protótipo papel | Arthur e Cicero | Guilherme  |
+| 1.1     | 16/08/2022 | Correções de ortografia                                    | Cicero          | -          |

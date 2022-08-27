@@ -65,6 +65,6 @@ Rogers, Yvone - Design de Interação (capítulo 8);
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição           | Autor           |
-| ------ | ---------- |---------------------|-----------------|
-| 1.0    | 07/08/2022 | Criação do Artefato | Guilherme Brito |
+| Versão  | Data       | Descrição           | Autor           | Revisor  |
+|---------|------------|---------------------|-----------------|----------|
+| 1.0     | 07/08/2022 | Criação do Artefato | Guilherme Brito | Nicolas  |

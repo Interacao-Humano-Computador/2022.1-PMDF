@@ -62,7 +62,7 @@ e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.R
 
 ## Hitórico de Versões
 
-| Versão  | Data       | Descrição                             | Autor              |
-|---------|------------|---------------------------------------|--------------------|
-| 1.0     | 20/08/2022 | Criação da página                     | Bernardo Pissutti  |
-| 1.1     | 21/08/2022 | Adequação da página pra o novo modelo | Bernardo Pissutti  |
+| Versão  | Data       | Descrição                             | Autor              | Revisor |
+|---------|------------|---------------------------------------|--------------------|---------|
+| 1.0     | 20/08/2022 | Criação da página                     | Bernardo Pissutti  | Cicero  |
+| 1.1     | 21/08/2022 | Adequação da página pra o novo modelo | Bernardo Pissutti  | Cicero  |

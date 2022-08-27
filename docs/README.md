@@ -56,6 +56,7 @@ Uma vez identificados eventuais pontos fracos em tais aspectos, eles serão docu
 
 
 ## Histórico de Versões
-| Versão | Data  | Descrição            | Autor(es)       |
-| ------ | ----- | -------------------- | --------------- |
-| 1.0    | 09/07/2022 | Criação do README, adição dos autores e escrita da seção "Sobre o Projeto". | Nícolas Georgeos	  |
+
+| Versão   | Data       | Descrição                                                                    | Autor              | Revisor |
+|----------|------------|------------------------------------------------------------------------------|--------------------|---------|
+| 1.0      | 09/07/2022 | Criação do README, adição dos autores e escrita da seção "Sobre o Projeto".  | Nícolas Georgeos 	 | Arthur  |

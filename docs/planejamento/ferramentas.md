@@ -80,8 +80,8 @@ A tabela 1 descreve uma lista de ferramentas que serão utilizadas pela equipe p
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                                              | Autor                    |
-|--------|------------|--------------------------------------------------------|--------------------------|
-| 1.0    | 09/07/2022 | Importação do arquivo ferramentas.md e alteração para HTML | Nicolas Georgeos Mantzos |
-| 1.1    | 10/07/2022 | Correção do path das logos                             | Bernardo Pissutti        |
-| 1.2    | 11/07/2022 | Correção de referenciamento de tabela em texto e inserção de Legenda | Guilherme Brito  |
+| Versão | Data       | Descrição                                                            | Autor                    | Revisor         |
+|--------|------------|----------------------------------------------------------------------|--------------------------|-----------------|
+| 1.0    | 09/07/2022 | Importação do arquivo ferramentas.md e alteração para HTML           | Nicolas Georgeos Mantzos | Guilherme Brito |
+| 1.1    | 10/07/2022 | Correção do path das logos                                           | Bernardo Pissutti        | -               |
+| 1.2    | 11/07/2022 | Correção de referenciamento de tabela em texto e inserção de Legenda | Guilherme Brito          | -               |

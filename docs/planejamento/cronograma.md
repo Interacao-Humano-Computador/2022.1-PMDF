@@ -212,11 +212,11 @@ O backlog da sprint 6 representado na _Figura 11_ e na _Figura 12_ o kanban boar
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                  | Autor  |
-| ------ | ---------- | -------------------------- | ------ |
-| 1.0    | 11/07/2022 | Criação dos Cronogramas    | Arthur |
-| 1.1    | 20/07/2022 | Adição da segunda entrega  | Cícero |
-| 1.2    | 28/07/2022 | Adição da Terceira entrega | Cícero |
-| 1.3    | 08/08/2022 | Adição da Quarta entrega   | Cícero |
-| 1.4    | 17/08/2022 | Adição da Quinta entrega   | Cícero |
-| 1.5    | 22/08/2022 | Adição da Sexta entrega    | Cícero |
+| Versão  | Data         | Descrição                  | Autor   | Revisor |
+|---------|--------------|----------------------------|---------|---------|
+| 1.0     | 11/07/2022   | Criação dos Cronogramas    | Arthur  | Cicero  |
+| 1.1     | 20/07/2022   | Adição da segunda entrega  | Cícero  | Todos   |
+| 1.2     | 28/07/2022   | Adição da Terceira entrega | Cícero  | Todos   |
+| 1.3     | 08/08/2022   | Adição da Quarta entrega   | Cícero  | Todos   |
+| 1.4     | 17/08/2022   | Adição da Quinta entrega   | Cícero  | Todos   |
+| 1.5     | 22/08/2022   | Adição da Sexta entrega    | Cícero  | Todos   |

@@ -145,8 +145,8 @@ edition.
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                     | Autor           |
-| ------ | ---------- | ----------------------------- | --------------- |
-| 1.0    | 28/07/2022 | Criação da página             | Cícero          |
-| 1.1    | 29/07/2022 | Inserção de Tópicos 2.5 a 2.8 | Guilherme Brito |
-| 1.2    | 30/07/2022 | Inserção de Tópicos 2.8 e 2.9 | Guilherme Brito |
+| Versão | Data        | Descrição                     | Autor           | Revisor            |
+|--------|-------------|-------------------------------|-----------------|--------------------|
+| 1.0    | 28/07/2022  | Criação da página             | Cícero          | Bernardo e Arthur  |
+| 1.1    | 29/07/2022  | Inserção de Tópicos 2.5 a 2.8 | Guilherme Brito | Bernardo e Arthur  |
+| 1.2    | 30/07/2022  | Inserção de Tópicos 2.8 e 2.9 | Guilherme Brito | Bernardo e Arthur  |

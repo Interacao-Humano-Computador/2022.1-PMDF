@@ -18,9 +18,9 @@ Na construção das personas foi utilizado, principalmente, um perfil do usuári
 
 <div style="text-align:center">
 
-| ![Figura 1](../_media/ihc-persona1.jpg) |
-| :-------------------------------------: |
-|    Imagem 1: Persona Otavio Maranhão    |
+| ![Figura 1](../_media/ihc-persona1.jpg)   |
+|:-----------------------------------------:|
+|     Imagem 1: Persona Otavio Maranhão     |
 
 </div>
 
@@ -48,8 +48,8 @@ Objetivos práticos:
 <div style="text-align:center">
 
 | ![Figura 2](../_media/ihc-persona2.jpg) |
-| :-------------------------------------: |
-|  Imagem 2: Persona Josilane do Santos   |
+|:---------------------------------------:|
+| Imagem 2: Persona Josilane do Santos    |
 
 </div>
 
@@ -77,8 +77,8 @@ Objetivos práticos:
 <div style="text-align:center">
 
 | ![Figura 3](../_media/ihc-persona3.jpg) |
-| :-------------------------------------: |
-|    Imagem 3: Persona Orlando Peixoto    |
+|:---------------------------------------:|
+|  Imagem 3: Persona Orlando Peixoto      |
 
 </div>
 
@@ -104,8 +104,8 @@ Objetivos práticos:
 ### 2.4 Antipersona: Tiago Gonçalves:
 
 | ![Figura 4](../_media/ihc-antipersona.jpg) |
-| :----------------------------------------: |
-|   Imagem 4: Antipersona Tiago Gonçalves    |
+|:------------------------------------------:|
+| Imagem 4: Antipersona Tiago Gonçalves      |
 
 Tiago Gonçalves, estudante - "programação não é mágica"
 
@@ -131,6 +131,6 @@ https://thispersondoesnotexist.xyz/
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                                     | Autor              |
-| ------ | ---------- | --------------------------------------------- | ------------------ |
-| 1.0    | 19/07/2022 | Criação da Introdução, Personas e Antipersona | Leonardo Vitoriano |
+| Versão   | Data        | Descrição                                     | Autor              | Revisor           |
+|----------|-------------|-----------------------------------------------|--------------------|-------------------|
+| 1.0      | 19/07/2022  | Criação da Introdução, Personas e Antipersona | Leonardo Vitoriano | Bernardo Pissutti |

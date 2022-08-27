@@ -48,7 +48,7 @@ ROGERS, Y.; SHARP, H.; PREECE, J. Design de interação: além da Interação hu
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                                | Autor                    |
-|--------|------------|------------------------------------------|--------------------------|
-| 1.0    | 07/08/2022 | Escrita do documento                     | Nícolas Georgeos Mantzos |
-| 1.1    | 08/08/2022 | Revisão do Documento - Correção de Erros | Guilherme Brito          |
+| Versão | Data       | Descrição                                | Autor                    | Revisor  |
+|--------|------------|------------------------------------------|--------------------------|----------|
+| 1.0    | 07/08/2022 | Escrita do documento                     | Nícolas Georgeos Mantzos | Leonardo |
+| 1.1    | 08/08/2022 | Revisão do Documento - Correção de Erros | Guilherme Brito          | -        |

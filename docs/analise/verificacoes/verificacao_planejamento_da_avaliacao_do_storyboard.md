@@ -53,6 +53,6 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição           | Autor            |
-| ------ | ---------- | ------------------- | ---------------- |
-| 1.0    | 22/08/2022 | Escrita do documento de verificação Planejamento da Avaliação do StoryBoard| Arthur José |
+| Versão   | Data       | Descrição                                                                   | Autor         | Revisor         |
+|----------|------------|-----------------------------------------------------------------------------|---------------|-----------------|
+| 1.0      | 22/08/2022 | Escrita do documento de verificação Planejamento da Avaliação do StoryBoard | Arthur José   | Nícolas Mantzos |
