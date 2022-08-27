@@ -43,10 +43,11 @@ allowfullscreen></iframe>
 
 
 ## Histórico de Versões
-| Versão | Data  | Descrição                    | Autor(es)         |
-|--------|-------|------------------------------|-------------------|
-| 1.0    | 11/07 | Criação da Página            | Bernardo Pissutti |
-| 1.1    | 20/07 | Adição do video da entrega 2 | Beranrdo Pissutti |
-| 1.2    | 02/08 | Adição do video da entrega 3 | Arthur josé       |
-| 1.3    | 08/08 | Adição do vídeo da entrega 4 | Bernardo Pissutti |
-| 1.4    | 22/08 | Adição do vídeo da entrega 6 | Bernardo Pissutti |
+| Versão | Data  | Descrição                    | Autor(es)         | Revisor         |
+|--------|-------|------------------------------|-------------------|-----------------|
+| 1.0    | 11/07 | Criação da Página            | Bernardo Pissutti | Nícolas Mantzos |
+| 1.1    | 20/07 | Adição do video da entrega 2 | Beranrdo Pissutti | Todos           |
+| 1.2    | 02/08 | Adição do video da entrega 3 | Arthur josé       | Todos           |
+| 1.3    | 08/08 | Adição do vídeo da entrega 4 | Bernardo Pissutti | Todos           |
+| 1.4    | 22/08 | Adição do vídeo da entrega 6 | Bernardo Pissutti | Todos           |
+                                                                          
