@@ -15,6 +15,8 @@ Segundo Barbosa (2021), a entrevista é considerada uma conversa guiada por um r
 
 Os entrevistados se encaixam no perfil do usuário, todavia não foi exigido conhecimento prévio dos entrevistados com relação a experiencia na utilização do sistema nem familiriadade com o site. O único requisito exigido para os entrevistados foi se já utilizaram o sistema ao menos uma vez. 
 
+O termo de consentimento utilizado nessa entrevista pode ser encontrado [aqui](analise_de_requisitos/aspectos_eticos.md).
+
 ## 4. Entrevistas
 
 No total, foram feitas 2 entrevistas com policiais militares do Distrito Federal, as quais podem ser visualizadas a seguir, assim como o relato e descrição delas.
