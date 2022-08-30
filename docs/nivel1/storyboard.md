@@ -27,16 +27,17 @@ Consiste em uma série de desenhos mostrando como um usuário pode progredir em 
 
 ### Como aplicar?
 > Primeiro, é preciso ter uma ideia bem definida do que comunicar e testar. Com base nisso, deve-se elaborar um roteiro por escrito e, em seguida, separar a história em seções, levando em conta:
-> > - Cenários
-> > - Atores
-> > - Enquadramento
-
+> - Cenários
+> - Atores
+> - Enquadramento
+> 
 > Após essa análise, escolhe-se a técnica de representação gráfica mais adequada para o objetivo, podendo o resultado final ser impresso ou digital.
 
 
 ### Aplicação no trabalho
 
-No contexto deste trabalho, foi feita a confecção de 2 storyboards para retratar as 2 tarefas elicitadas na etapa de [Análise de Tarefas](analise_de_requisitos/analise_de_tarefas.md).
+No contexto deste trabalho, foi feita a confecção de 2 storyboards para retratar as 2 tarefas elicitadas na
+etapa de [Análise de Tarefas](analise_de_requisitos/analise_de_tarefas.md).
 
 #### [Tarefa 1: Logar na Intranet](analise_de_requisitos/analise_de_tarefas.md?id=_2-análise-hierárquica-de-tarefas-hta)
 
@@ -46,13 +47,28 @@ A figura a seguir (Figura 1) apresenta o storyboard referente a tarefa de Logar 
 |:----------------------------------------------------------------------------------------------------------------:|
 | Figura 1: Storyboard referente a tarefa de Logar na Intranet <br/>Fonte: Bernardo Pissutti (Integrante do Grupo) |
 
+Roteiro:
+    
+O usuário tem como objetivo logar na intranet para pedir um voluntario. Ele entra no site mas não se sente muito
+confortavel com a quantidade de informações na tela e as letras pequenas. Mesmo com essa dificuldade ele consegue ir para a tela de login da
+intranet. No entanto ele erra a senha **ou** o nome de usuário, ele não tem como saber qual foi o erro pois o site não fala. Como ele
+não conseguiu conectar ele desiste de tentar acessar a intranet e clica em 'cancel'. Ao fazer essa ação ele é direcionado para uma página
+em ingles que não tem a opção de voltar para o site da PMDF.
+
+
 #### [Tarefa 2: Consultar Salário de Servidor](analise_de_requisitos/analise_de_tarefas.md?id=_311-análise-de-tarefa-consultar-salário-de-servidor)
 
-A figura a seguir (Figura 2) apresenta o storyboard referente a tarefa de Logar na Intranet.
+A figura a seguir (Figura 2) apresenta o storyboard referente a tarefa de consultar salario.
 
 |                                ![consultar salario de servidor](../_media/storyboard2.jpg)                                 |
 |:--------------------------------------------------------------------------------------------------------------------------:|
 | Figura 2: Storyboard referente a tarefa de Consultar Salário de Servidor <br/>Fonte: Guilherme Brito (Integrante do Grupo) |
+
+Roteiro:
+
+O usuário tem como objetivo consultar o salário do servidor. Ele pergunta o nome do policial na rua. Quando chega em casa ele
+usa o computador para acessar o site da PMDF para tentar encontrar a informação que precisa. Ele encontra a opção transparência
+e acha o salários dos servidore, com isso ele detecta um salário muito grande e denuncia.
 
 ## Referências Bibliográficas
 
