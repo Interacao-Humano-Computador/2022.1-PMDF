@@ -44,8 +44,8 @@ O resultado do checklist dos itens levantados consta na _tabela 1_ abaixo.
 O gráfico de pizza compilando a porcentagem de itens atendidos e não atendidos consta na _figura 1_ abaixo.
 
 | ![imagemGráfico](https://user-images.githubusercontent.com/60429513/186038575-7770aa81-9df0-4a46-a940-8229a18923d8.png) |
-|---------------------------------------------------------|
-| Figura 1: Gráfico de Itens atendidos e não atendidos    |
+|-------------------------------------------------------------------------------------------------------------------------|
+| Figura 1: Gráfico de Itens atendidos e não atendidos; Fonte: autoria própria.                                           |
 
 Como a porcentagem de falha ficou com aproximadamente 87%, o artefato necessita de correções urgentes, Sendo as mais prioritárias como os dados obtidos na avaliação seram representados,a reafirmação dos objetivos da avaliação e o perfil de usuários.
 

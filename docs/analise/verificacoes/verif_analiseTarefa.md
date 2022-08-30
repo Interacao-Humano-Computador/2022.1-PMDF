@@ -58,9 +58,9 @@ _Tabela 2: Checklist de Verificação do Artefato: Análise de Tarefas_
 
 O gráfico de pizza compilando a porcentagem de itens atendidos e não atendidos consta na _figura 1_ abaixo.
 
-| ![imagemGráfico](../../_media/grafico_analiseTarefas.png) |
-|-----------------------------------------------------------|
-| Figura 1: Gráfico de Itens atendidos e não atendidos      |
+| ![imagemGráfico](../../_media/grafico_analiseTarefas.png)                      |
+|--------------------------------------------------------------------------------|
+| Figura 1: Gráfico de Itens atendidos e não atendidos; Fonte: autoria própria.  |
 
 Tomando como base a checklist construída, observa-se que o artefato está bom, mas carece de atenção quanto ao item 7, tarefas do HTA não estarem no modelo conceitual, e item 9, não existe tabela explicando os elementos do diagrama HTA, portanto, esses itens precisam ser corrigidos.
 

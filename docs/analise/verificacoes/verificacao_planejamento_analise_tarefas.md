@@ -46,9 +46,9 @@ _Tabela 2: resultado do checklist_
 
 O gráfico de pizza compilando a porcentagem de itens atendidos e não atendidos consta na _figura 1_ abaixo.
 
-| ![imagemGráfico](../../_media/graf_pizza_verif_planej_analise_tarefas.jpg) |
-| -------------------------------------------------------------------------- |
-| Figura 1: Gráfico de Itens atendidos e não atendidos                       |
+| ![imagemGráfico](../../_media/graf_pizza_verif_planej_analise_tarefas.jpg)     |
+|--------------------------------------------------------------------------------|
+| Figura 1: Gráfico de Itens atendidos e não atendidos; Fonte: autoria própria.  |
 
 Como a porcentagem de sucesso ficou pouco abaixo dos 60%, o artefato necessita de correções; sendo as mais emergenciais e agregadoras a adição
 do vídeo da entrevista e o maior detalhamento de como ela foi realizada.

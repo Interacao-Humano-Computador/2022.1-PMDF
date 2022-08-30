@@ -49,9 +49,9 @@ _Tabela 2: resultado do checklist_
 O seguinte gráfico de pizza foi construído utilizando da Ferramenta: 
 Google Sheets para melhor rastreamento dos itens nas próximas fases.
 
-| ![imagemGráfico](../../_media/grafico_perfildeusuario.png) |
-|------------------------------------------------------------|
-| Figura 1: Gráfico de Itens atendidos e não atendidos       |
+| ![imagemGráfico](../../_media/grafico_perfildeusuario.png)                     |
+|--------------------------------------------------------------------------------|
+| Figura 1: Gráfico de Itens atendidos e não atendidos; Fonte: autoria própria.  |
 
 Como a inspeção verificou que o artefato não satisfaz o item 7 da checklist, portanto há a necessidade de correções.
 

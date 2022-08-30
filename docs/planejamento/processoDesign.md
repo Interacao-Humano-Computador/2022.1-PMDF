@@ -16,9 +16,9 @@ Para resolver esses problemas, diminuir as características desagradáveis e mel
 2. a **síntese** de uma intervenção: planejar e executar uma intervenção da situação atual.
 3. A **avaliação** da nova situação: verificar o efeito da intervenção, comparando a situação analisada anteriormente com a nova situação, atingida após a intervenção.
 
-|![Figura 1](../_media/figura1.png)|
-|:----:|
-|Figura 1: Atividades de design envolvidas na intervenção para transformar a situação atual (situação 1) em uma situação desejada (situação 2)|
+|                                                            ![Figura 1](../_media/figura1.png)                                                             |
+|:---------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Figura 1: Atividades de design envolvidas na intervenção para transformar a situação atual (situação 1) em uma situação desejada (situação 2); Fonte: .   |
 
 
 Quando se trata de sistemas computacionais, é comum investigarmos todos os elementos envolvidos durante o uso: os usuários com suas características, necessidades e preferências; as atividades e os objetivos em questão, considerando os artefatos e sistemas computacionais utilizados; e o contexto físico, social e cultural de uso ao longo do tempo (Hackos e Redish, 1998; Sharp et al., 2019). Além desses elementos diretamente envolvidos no uso atual desses artefatos, também é preciso conhecer e articular os interesses das pessoas indiretamente envolvidas, como aquela que paga pelo sistema, geralmente conhecida como cliente, e aquela que constrói o sistema, normalmente chamada de desenvolvedor.
@@ -40,9 +40,9 @@ Neste trabalho, será empregado a proposta de processo de design de IHC denomina
 3.  Instalação: Nesta fase, o designer deve coletar opiniões dos usuários depois de algum tempo de uso. Essas opiniões serão úteis para melhorar o sistema em versões futuras ou até mesmo para apontar a necessidade de desenvolver novos sistemas interativos ainda não previstos.
 
 
-|![Figura 2](../_media/figura2.png)|
-|:----:|
-|Figura 2: Ciclo de vida para a engenharia de usabilidade de Mayhew|
+|                                                ![Figura 2](../_media/figura2.png)                                                 |
+|:---------------------------------------------------------------------------------------------------------------------------------:|
+| Figura 2: Ciclo de vida para a engenharia de usabilidade de Mayhew; Fonte: Interação Humano-Computador e Experiência do usuário.  |
 
 
 ## Referências Biblioǵraficas
@@ -50,6 +50,6 @@ Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; B
 Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.R
 
 ## Histórico de Versões
-| Versão   | Data    | Descrição                   | Autor             | Revisor            |
-|----------|---------|-----------------------------|-------------------|--------------------|
-| 1.0      | 10/07   | Criação do Artefato: Página | Guilherme Brito 	 | Bernardo Pissutti  |
+| Versão   | Data    | Descrição                   | Autor             | Revisor           |
+|----------|---------|-----------------------------|-------------------|-------------------|
+| 1.0      | 10/07   | Criação do Artefato: Página | Guilherme Brito 	 | Bernardo Pissutti |

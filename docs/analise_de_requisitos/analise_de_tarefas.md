@@ -25,7 +25,9 @@ Objetivo: Modificar um sistema existente.
 
 #### Representação Gráfica
 
-![image](https://user-images.githubusercontent.com/60429513/180089432-2413ef7c-8188-4e37-88b7-f13d0ef10c1e.png)
+| ![image](https://user-images.githubusercontent.com/60429513/180089432-2413ef7c-8188-4e37-88b7-f13d0ef10c1e.png) |
+|-----------------------------------------------------------------------------------------------------------------|
+| Figura 1: representação do objetivo de logar na intranet; Fonte: autoria própria.                               |
 
 #### Representação Textual
 

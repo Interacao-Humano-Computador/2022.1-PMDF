@@ -47,26 +47,26 @@ _Tabela 1: Itens e identificadores da verificação de Storyboards_
 A inspeção do artefato foi realizada no dia 21 de Agosto às 19h. Após a inspeção, o 
 resultado do checklist foi construído e ele pode ser visto na _tabela 2_.
 
-| Item                                                              | Situação |
-|:------------------------------------------------------------------|:--------:|
-| 1  |    ✅    |
-| 2  |    ✅    |            
-| 3  |    ✅    |
-| 4  |    ✅    |
-| 5  |    ✅    |
-| 6  |    ✅    |    
-| 7  |    ❌    |    
-| 8  |    ✅    |
-| 9  |    ✅    |    
-| 10 |    ✅    |                
-| 11 |    ❌    |
+| Item         | Situação   |
+|:-------------|:----------:|
+| 1            |     ✅      |
+| 2            |     ✅      |            
+| 3            |     ✅      |
+| 4            |     ✅      |
+| 5            |     ✅      |
+| 6            |     ✅      |    
+| 7            |     ❌      |    
+| 8            |     ✅      |
+| 9            |     ✅      |    
+| 10           |     ✅      |                
+| 11           |     ❌      |
 _Tabela 2: Checklist de Verificação do Storyboard 1_
 
 O gráfico de pizza compilando a porcentagem de itens atendidos e não atendidos consta na _figura 1_ abaixo.
 
-| ![imagemGráfico](../../_media/grafico_storyboard1.png) |
-|---------------------------------------------------------|
-| Figura 1: Gráfico de Itens atendidos e não atendidos do Storyboard 1  |
+| ![imagemGráfico](../../_media/grafico_storyboard1.png)               |
+|----------------------------------------------------------------------|
+| Figura 1: Gráfico de Itens atendidos e não atendidos do Storyboard 1; Fonte: autoria própria. |
 
 Tomando como base a checklist construída, observa-se que o Storyboard 1 está bom, mas carece de atenção quanto aos itens 7 e 11, portanto, esses itens precisam ser corrigidos.
 

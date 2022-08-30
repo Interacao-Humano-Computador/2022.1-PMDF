@@ -9,12 +9,13 @@ cujos objetivos devem ser apoiados pelo sistema sendo projetado. Sendo assim, de
 
 O questionário consiste em construir perguntas, podendo ser abertas ou fechadas, para coletar dados dos usuários e enfim chegar em uma conclusão sobre eles. Então, a partir de perguntas fechadas, o objetivo das perguntas realizadas foi entender as características dos usuários e definir os perfis nos quais eles se enquadram.
 
-<iframe src="https://albumizr.com/a/pmWu" scrolling="no" frameborder="0" allowfullscreen width="700" height="400"></iframe>
-
+| <iframe src="https://albumizr.com/a/pmWu" scrolling="no" frameborder="0" allowfullscreen width="700" height="400"></iframe> |
+|-----------------------------------------------------------------------------------------------------------------------------|
+| _Figura 1: questionario; Fonte: autoria própria._                                                                           |
 O questionário foi realizado via Google Forms, e tendo em vista os resultados obtidos, dois perfis principais foram identificados. A _tabela 1_ explicita as respectivas caracterísitcas do perfil A e B.
 
 | Perfil                                                      | A                        | B                          |
-| ----------------------------------------------------------- | ------------------------ | -------------------------- |
+|-------------------------------------------------------------|--------------------------|----------------------------|
 | Profissão                                                   | Predominante policial    | Predominante estudante     |
 | Faixa etária                                                | de 30 até 60 anos        | de 18 até 29 anos          |
 | Escolaridade                                                | Ensino Superior Completo | Ensino Superior Incompleto |
@@ -23,7 +24,7 @@ O questionário foi realizado via Google Forms, e tendo em vista os resultados o
 | Experiência com tecnologia; 1: leigo/novato 5: especialista | 3                        | 4                          |
 | Atitude perante tecnologia; 1: não gosto 5: gosto           | 3                        | 4                          |
 
-_Tabela 1 - Perfil do Usuário_
+_Tabela 1: perfil do usuário_
 
 O perfil A está mais relacionado com os usuários finais do site da PMDF, afinal são os que utilizam frequentemente
 o sistema e portanto possuem uma funcionalidade mais acessada. Enquanto que o perfil B, é baseado em estudantes que

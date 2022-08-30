@@ -57,9 +57,9 @@ _Tabela 2: Checklist de Verificação do Artefato: Guia de Estilo_
 O seguinte gráfico de Pizza foi construído utilizando da Ferramenta: Google Sheets para melhor rastreamento dos itens
 nas próximas fases e pode ser visto na Figura 1.
 
-| ![imagemGráfico](../../_media/grafico_guiadeestilo.png) |
-|---------------------------------------------------------|
-| Figura 1: Gráfico de Itens atendidos e não atendidos    |
+| ![imagemGráfico](../../_media/grafico_guiadeestilo.png)                        |
+|--------------------------------------------------------------------------------|
+| Figura 1: Gráfico de Itens atendidos e não atendidos; Fonte: autoria própria.  |
 
 ---
 

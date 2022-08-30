@@ -18,9 +18,9 @@ Na construção das personas foi utilizado, principalmente, um perfil do usuári
 
 <div style="text-align:center">
 
-| ![Figura 1](../_media/ihc-persona1.jpg)   |
-|:-----------------------------------------:|
-|     Imagem 1: Persona Otavio Maranhão     |
+|               ![Figura 1](../_media/ihc-persona1.jpg)                |
+|:--------------------------------------------------------------------:|
+| Imagem 1: Persona Otavio Maranhão; Fonte: this person doesn't exist. |
 
 </div>
 
@@ -47,9 +47,9 @@ Objetivos práticos:
 
 <div style="text-align:center">
 
-| ![Figura 2](../_media/ihc-persona2.jpg) |
-|:---------------------------------------:|
-| Imagem 2: Persona Josilane do Santos    |
+|                 ![Figura 2](../_media/ihc-persona2.jpg)                  |
+|:------------------------------------------------------------------------:|
+| Imagem 2: Persona Josilane do Santos; Fonte: this person doesn't exist.  |
 
 </div>
 
@@ -76,9 +76,9 @@ Objetivos práticos:
 
 <div style="text-align:center">
 
-| ![Figura 3](../_media/ihc-persona3.jpg) |
-|:---------------------------------------:|
-|  Imagem 3: Persona Orlando Peixoto      |
+|                ![Figura 3](../_media/ihc-persona3.jpg)                |
+|:---------------------------------------------------------------------:|
+| Imagem 3: Persona Orlando Peixoto; Fonte: this person doesn't exist.  |
 
 </div>
 
@@ -103,9 +103,9 @@ Objetivos práticos:
 
 ### 2.4 Antipersona: Tiago Gonçalves:
 
-| ![Figura 4](../_media/ihc-antipersona.jpg) |
-|:------------------------------------------:|
-| Imagem 4: Antipersona Tiago Gonçalves      |
+|                ![Figura 4](../_media/ihc-antipersona.jpg)                 |
+|:-------------------------------------------------------------------------:|
+| Imagem 4: Antipersona Tiago Gonçalves; Fonte: this person doesn't exist.  |
 
 Tiago Gonçalves, estudante - "programação não é mágica"
 

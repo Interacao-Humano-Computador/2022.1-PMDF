@@ -42,17 +42,17 @@ No contexto deste trabalho, foi feita a confecção de 2 storyboards para retrat
 
 A figura a seguir (Figura 1) apresenta o storyboard referente a tarefa de Logar na Intranet.
 
-|                                  ![logar na intranet](../_media/storyboard1.jpeg)                                  |
-|:------------------------------------------------------------------------------------------------------------------:|
-| Figura 1: Storyboard referente a tarefa de Logar na Intranet <br/>Autoria: Bernardo Pissutti (Integrante do Grupo) |
+|                                 ![logar na intranet](../_media/storyboard1.jpeg)                                 |
+|:----------------------------------------------------------------------------------------------------------------:|
+| Figura 1: Storyboard referente a tarefa de Logar na Intranet <br/>Fonte: Bernardo Pissutti (Integrante do Grupo) |
 
 #### [Tarefa 2: Consultar Salário de Servidor](analise_de_requisitos/analise_de_tarefas.md?id=_311-análise-de-tarefa-consultar-salário-de-servidor)
 
 A figura a seguir (Figura 2) apresenta o storyboard referente a tarefa de Logar na Intranet.
 
-|                                  ![consultar salario de servidor](../_media/storyboard2.jpg)                                   |
-|:------------------------------------------------------------------------------------------------------------------------------:|
-|  Figura 2: Storyboard referente a tarefa de Consultar Salário de Servidor <br/>Autoria: Guilherme Brito (Integrante do Grupo)  |
+|                                ![consultar salario de servidor](../_media/storyboard2.jpg)                                 |
+|:--------------------------------------------------------------------------------------------------------------------------:|
+| Figura 2: Storyboard referente a tarefa de Consultar Salário de Servidor <br/>Fonte: Guilherme Brito (Integrante do Grupo) |
 
 ## Referências Bibliográficas
 

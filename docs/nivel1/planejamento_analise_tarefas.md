@@ -41,6 +41,7 @@ seguirá para a realização das perguntas. Após elas, haverá uma solenidade d
 |   9    | Você costuma pedir renovação das credenciais de acesso?                                                            | [ ] Sim  [ ] Não                                                             |
 |   10   | Como costuma identificar o servidor desejado?                                                                      | [ ] Nome  [ ] Cpf [ ] Outro                                                  |
 
+_Tabela 1: perguntas_
 
 ## Referências Bibliograficas
 

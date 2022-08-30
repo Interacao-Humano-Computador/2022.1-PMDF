@@ -92,16 +92,16 @@ Nielsen, Shneiderman e Tognazzini afirmam que o estado do sistema, os objetos, a
 
 Analisando o site escolhido, vemos que essas diretrizes não são seguidas pois na página principal existem diversos vídeos incorporados que estão indisponíveis, como podemos ver na imagem abaixo (Figura 1).
 
-|                                       ![Vídeos Privados](../_media/videos_privados.png)                                        |
-| :----------------------------------------------------------------------------------------------------------------------------: |
-| Figura 1: Vídeos privados presentes na página principal, ferindo a diretriz de não oferecer opções que não estejam disponíveis |
+|                                                         ![Vídeos Privados](../_media/videos_privados.png)                                                         |
+|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Figura 1: Vídeos privados presentes na página principal, ferindo a diretriz de não oferecer opções que não estejam disponíveis; Fonte:http://www.pmdf.df.gov.br/. |
 
 Uma diretriz que o site segue é a de oferecer ao usuário um mapa de onde ele se encontra no momento e como ele fez para chegar a página atual. Esse "mapa" se encontra no menu lateral, como podemos ver na figura 2 abaixo.
 
 
-|                          ![Menu Lateral](../_media/mapa_lateral.png)                          |
-| :-------------------------------------------------------------------------------------------: |
-| Figura 2: Mapa lateral que permite ao usuário identificar a página atual e o caminho da mesma |
+|                                            ![Menu Lateral](../_media/mapa_lateral.png)                                            |
+|:---------------------------------------------------------------------------------------------------------------------------------:|
+| Figura 2: Mapa lateral que permite ao usuário identificar a página atual e o caminho da mesma; Fonte:http://www.pmdf.df.gov.br/.  |
 
 ### 2.8 Conteúdo relevante e Expressão adequada
 

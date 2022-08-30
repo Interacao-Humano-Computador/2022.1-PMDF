@@ -43,7 +43,7 @@ O gráfico de pizza compilando a porcentagem de itens atendidos e não atendidos
 
 | ![imagemGráfico](https://user-images.githubusercontent.com/60429513/186032440-9683f727-b4ca-46ab-8fd0-1aeec62db200.png) |
 |-------------------------------------------------------------------------------------------------------------------------|
-| Figura 1: Gráfico de Itens atendidos e não atendidos                                                                    |
+| Figura 1: Gráfico de Itens atendidos e não atendidos; Fonte: autoria própria.                                           |
 
 Como a porcentagem de falha ficou com aproximadamente 66%, o artefato necessita de correções urgentes, Sendo as mais prioritárias os objetivos da avaliação e o perfil de usuário visando utilizar usuários primários para o relato. 
 

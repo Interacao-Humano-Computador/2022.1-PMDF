@@ -15,12 +15,12 @@ de [_Verificação_](analise/verif_principal.md)
 
 O _checklist_ da tabela 1 foi montado para verificar a qualidade do artefato.
 
-| Item                                                                       | Identificador |
-| -------------------------------------------------------------------------- | ------------- |
-| As metas de usabilidade são citadas e definidas?                           | 1             |
-| Existe análise das metas no sistema?                                       | 2             |
-| É apresentada as metas de usabilidade que devem ser alcançadas no projeto? | 3             |
-| É explicada a razão de quais das metas de usabilidade serão utilizadas?    | 4             |
+| Item                                                                       | Identificador  |
+|----------------------------------------------------------------------------|----------------|
+| As metas de usabilidade são citadas e definidas?                           | 1              |
+| Existe análise das metas no sistema?                                       | 2              |
+| É apresentada as metas de usabilidade que devem ser alcançadas no projeto? | 3              |
+| É explicada a razão de quais das metas de usabilidade serão utilizadas?    | 4              |
 
 _Tabela 1: Itens e identificadores da verificação das metas de usabilidade_
 
@@ -28,20 +28,20 @@ _Tabela 1: Itens e identificadores da verificação das metas de usabilidade_
 
 A inspeção do artefato foi realizado pelo membro: Cícero Fernandes, no dia 22 de Agosto. Após a inspeção, a checklist foi construída e ela pode ser vista na Tabela 2.
 
-| Identificador | Situação |
-| ------------- | -------- |
-| 1             | ✅       |
-| 2             | ✅       |
-| 3             | ❌       |
-| 4             | ❌       |
+| Identificador  | Situação   |
+|----------------|------------|
+| 1              | ✅          |
+| 2              | ✅          |
+| 3              | ❌          |
+| 4              | ❌          |
 
 _Tabela 2: checklist metas de usabilidade_
 
 O gráfico de pizza compilando a porcentagem de itens atendidos e não atendidos consta na _figura 1_ abaixo.
 
-| ![imagemGráfico](../../_media/graficoMetasIHC.png)   |
-| ---------------------------------------------------- |
-| Figura 1: Gráfico de Itens atendidos e não atendidos |
+| ![imagemGráfico](../../_media/graficoMetasIHC.png)                             |
+|--------------------------------------------------------------------------------|
+| Figura 1: Gráfico de Itens atendidos e não atendidos; Fonte: autoria própria.  |
 
 Como pode ser aferido pelo gráfico, metade dos requisitos não foram atendidos, portanto, o artefato necessita de correções.
 

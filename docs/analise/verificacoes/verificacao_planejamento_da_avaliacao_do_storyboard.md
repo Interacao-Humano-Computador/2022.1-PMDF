@@ -41,8 +41,8 @@ O resultado do checklist dos itens levantados consta na _tabela 1_ abaixo.
 O gráfico de pizza compilando a porcentagem de itens atendidos e não atendidos consta na _figura 1_ abaixo.
 
 | ![imagemGráfico](https://user-images.githubusercontent.com/60429513/186040520-af1c4263-ca36-47c5-a989-78b86efa9b4a.png) |
-|---------------------------------------------------------|
-| Figura 1: Gráfico de Itens atendidos e não atendidos    |
+|-------------------------------------------------------------------------------------------------------------------------|
+| Figura 1: Gráfico de Itens atendidos e não atendidos; Fonte: autoria própria.                                           |
 
 Como a porcentagem de acerto representa aproximadamente 87%, o artefato não precisa de tanta urgencia na correção desses elementos.
 

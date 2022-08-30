@@ -47,12 +47,14 @@ Sendo assim, qualquer pessoa que se encaixe nesses perfil de usuário, pode ser 
 
 As entrevistas podem ser classificadas como estruturadas, não estruturadas e semiestruturadas. O tipo de entrevista utilizado pela equipe será a semiestruturada, pois será necessário um caráter explorátorio das perguntas discursivas com relação a avaliação dos storyboards. Dito isso, as perguntas definidas são:
 
-| Número | <center>Pergunta | <center>Opções de resposta |
-|:---:|:----------|:-------------------|
-| 1 | Analisando o primeiro storyboard, a situação ilustrada condiz com a realidade? | [ ] Sim<br>[ ] Não<br> Caso afirmativo, vá para a pergunta 3 |
-| 2 | Qual sugestão de alteração ou melhoria para o storyboard 1? | Pergunta discursiva |
-| 3 | Analisando o segundo storyboard,  a situação ilustrada condiz com a realidade? | [ ] Sim<br>[ ] Não<br>  Caso afirmativo, finalize a entrevista. |
-| 4 | Qual sugestão de alteração ou melhoria para o storyboard 2? | Pergunta discursiva |
+| Número   | <center>Pergunta                                                               | <center>Opções de resposta                                      |
+|:--------:|:-------------------------------------------------------------------------------|:----------------------------------------------------------------|
+|    1     | Analisando o primeiro storyboard, a situação ilustrada condiz com a realidade? | [ ] Sim<br>[ ] Não<br> Caso afirmativo, vá para a pergunta 3    |
+|    2     | Qual sugestão de alteração ou melhoria para o storyboard 1?                    | Pergunta discursiva                                             |
+|    3     | Analisando o segundo storyboard,  a situação ilustrada condiz com a realidade? | [ ] Sim<br>[ ] Não<br>  Caso afirmativo, finalize a entrevista. |
+|    4     | Qual sugestão de alteração ou melhoria para o storyboard 2?                    | Pergunta discursiva                                             |
+
+_Tabela 1: perguntas_
 
 ### 5.3 Execução
 

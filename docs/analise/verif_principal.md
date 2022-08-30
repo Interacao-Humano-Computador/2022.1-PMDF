@@ -59,9 +59,9 @@ A partir dessa resposta, um gráfico de pizza como o da figura 1, compilando a p
 não atendidos, será montado para facilitar a análise dos resultados e melhorar o rastreamento dos itens
 nas próximas fases.
 
-| ![imagemGráfico](../_media/grafico_guiadeestilo.png)            |
-|-----------------------------------------------------------------|
-| Figura 1: Exemplo de gráfico de itens atendidos e não atendidos |
+| ![imagemGráfico](../_media/grafico_guiadeestilo.png)                                      |
+|-------------------------------------------------------------------------------------------|
+| Figura 1: Exemplo de gráfico de itens atendidos e não atendidos; Fonte: autoria própria.  |
 
 Por fim, haverá uma conclusão determinando se o artefato deve ou não ser corrigido, quais pontos devem ser priorizados em uma eventual correção etc
 
@@ -78,9 +78,9 @@ Foi alocado, para esse papel, um membro da equipe que não realizou a inspeção
 
 O fluxo do processo de inspeção de Fagan pode ser observado na figura 2 abaixo.
 
-| ![imagemGráfico](../_media/verificacao_inspecao_fagan.jpeg)       |
-|-------------------------------------------------------------------|
-| Figura 2: Fluxo da inspeção de Fagan                              |
+| ![imagemGráfico](../_media/verificacao_inspecao_fagan.jpeg)   |
+|---------------------------------------------------------------|
+| Figura 2: Fluxo da inspeção de Fagan; Fonte: .                |
 
 ## 3. Verificação
 
