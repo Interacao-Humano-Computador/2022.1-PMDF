@@ -21,9 +21,9 @@ neste [link](nivel1/planejamento_analise_tarefas.md).
 
 ### 3.1 Entrevista 1
 
-> > A primeira entrevista foi realizada pelo integrante Leonardo Vitoriano, dia 17 de Agosto às 18:00, com a
-> > entrevistada Ana Karla, policial militar do Distrito Federal. O participante teve conhecimento do [termo de
-> > consentimento](analise_de_requisitos/aspectos_eticos?id=_22-termo-de-consentimento-análise-de-tarefas) e permitiu o uso da imagem para fins acadêmicos.
+> A primeira entrevista foi realizada pelo integrante Leonardo Vitoriano, dia 17 de Agosto às 18:00, com a
+> entrevistada Ana Karla, policial militar do Distrito Federal. O participante teve conhecimento do [termo de
+> consentimento](analise_de_requisitos/aspectos_eticos?id=_22-termo-de-consentimento-análise-de-tarefas) e permitiu o uso da imagem para fins acadêmicos.
 
 
 **Quantos anos você tem?**
@@ -71,9 +71,9 @@ ____
 
 ### 3.2 Entrevista 2
 
-> > A segunda entrevista foi realizada pelo integrante Leonardo Vitoriano, dia 17 de Agosto às 19:00, com o entrevistado
-> > Cleber Elias, policial militar do Distrito Federal. O participante teve conhecimento do [termo de
-> > consentimento](analise_de_requisitos/aspectos_eticos?id=_22-termo-de-consentimento-análise-de-tarefas) e permitiu o uso da imagem para fins acadêmicos.
+> A segunda entrevista foi realizada pelo integrante Leonardo Vitoriano, dia 17 de Agosto às 19:00, com o entrevistado
+> Cleber Elias, policial militar do Distrito Federal. O participante teve conhecimento do [termo de
+> consentimento](analise_de_requisitos/aspectos_eticos?id=_22-termo-de-consentimento-análise-de-tarefas) e permitiu o uso da imagem para fins acadêmicos.
 
 
 **Quantos anos você tem?**
@@ -120,7 +120,7 @@ A gravação dessa entrevista pode ser vista neste [link](https://www.youtube.co
 
 ____
 
-**Importante salientar que as perguntas tiveram respostas concisas pois foram escolhidas somente perguntas fechadas no
+**Obs: importante salientar que as perguntas tiveram respostas concisas pois foram escolhidas somente perguntas fechadas no
 planejamento.**
 
 ## 4. Conclusão
