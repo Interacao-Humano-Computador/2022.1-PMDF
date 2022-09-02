@@ -1,4 +1,4 @@
-# <center> Metas de Usabilidade 
+# Metas de Usabilidade 
 
 ## 1. Introdução 
 

@@ -1,4 +1,4 @@
-# <center> Planejamento Prototipação em papel
+# Planejamento Prototipação em papel
 
 O método de prototipação por papel busca de modo rápido e barato identificar problemas de usabilidade antes de construir uma solução de IHC executável.
 

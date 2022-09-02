@@ -1,4 +1,4 @@
-# <center> Avaliação dos Storyboard
+# Avaliação dos Storyboard
 
 ## 1. Introdução
 

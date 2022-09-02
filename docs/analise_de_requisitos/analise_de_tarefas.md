@@ -1,4 +1,4 @@
-# <center> Análise de Tarefas 
+# Análise de Tarefas 
 
 ## 1. Introdução
 

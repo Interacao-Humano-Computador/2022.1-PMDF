@@ -1,4 +1,4 @@
-# <center> Processo de Design 
+# Processo de Design 
 
 Desde sua concepção e durante todo o seu desenvolvimento, um sistema interativo deve ter o propósito de apoiar os usuários a alcançarem seus objetivos.
 

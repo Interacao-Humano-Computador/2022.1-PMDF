@@ -1,4 +1,4 @@
-# <center> Storyboard
+# Storyboard
 
 ## Introdução
 

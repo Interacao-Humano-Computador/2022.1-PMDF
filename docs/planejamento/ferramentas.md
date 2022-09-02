@@ -1,4 +1,4 @@
-# <center> Ferramentas 
+# Ferramentas 
 A tabela 1 descreve uma lista de ferramentas que serão utilizadas pela equipe para a elaboração das atividades do projeto.
 
 <table>

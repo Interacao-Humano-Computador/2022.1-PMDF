@@ -1,4 +1,4 @@
-# <center> Personas
+# Personas
 
 ## 1. Introdução
 

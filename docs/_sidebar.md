@@ -27,6 +27,7 @@
   - _Nível 2_
     - [Planejamento da avaliação - Protótipo de Papel](nivel2/planejamento_avaliacao_prototipo_papel.md)
     - [Planejamento do Relato - Protótipo de Papel](nivel2/planejamento_relato_prototipo_de_papel.md)
+    - [Protótipo de Baixa Fidelidade](nivel2/prototipo_baixa_fidelidade.md)
   - _Nível 3_
     - [Planejamento do Relato - Protótipo de Alta Fidelidade](nivel3/planejamento_relato_prototipo_alta_fidelidade.md)
     - [Protótipo de Alta Fidelidade](nivel3/prototipo_alta_fidelidade.md)

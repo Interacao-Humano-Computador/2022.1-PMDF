@@ -1,4 +1,4 @@
-# <center> Perfil do Usuário 
+# Perfil do Usuário 
 
 ## 1. Introdução
 

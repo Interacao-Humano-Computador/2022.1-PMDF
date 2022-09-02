@@ -1,4 +1,4 @@
-# <center> Plenajamento do Relato do Protótipo de Papel
+# Plenajamento do Relato do Protótipo de Papel
 
 ## 1. Introdução
 

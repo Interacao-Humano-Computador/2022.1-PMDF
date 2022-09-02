@@ -1,4 +1,4 @@
-# <center> Plenajamento do Relato do Protótipo de Alta Fidelidade
+# Plenajamento do Relato do Protótipo de Alta Fidelidade
 
 ## 1. Introdução
 

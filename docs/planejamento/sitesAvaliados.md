@@ -1,4 +1,4 @@
-# <center> Sites Avaliados 
+# Sites Avaliados 
 
 Nessa seção iremos apresentar os sites avaliados durante a seleção do sistema, visualizados na _Tabela 1_ a seguir:
 
