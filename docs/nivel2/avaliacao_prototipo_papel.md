@@ -6,6 +6,6 @@
 
 ## Histórico de Versões
 
-| Versão | Data        | Descrição                                                                 | Autor              | Revisor |
-|--------|-------------|---------------------------------------------------------------------------|--------------------|---------|
-| 1.0    |  16/08/2022 | Criação da Introdução, Objetivo, Metodologia, Aspectos éticos e Avaliação | Leonardo Vitoriano | Cicero  |
+| Versão | Data       | Descrição              | Autor             | Revisor |
+|--------|------------|------------------------|-------------------|---------|
+| 1.0    | 04/09/2022 | Adição do teste piloto | Bernardo Pissutti | -       |

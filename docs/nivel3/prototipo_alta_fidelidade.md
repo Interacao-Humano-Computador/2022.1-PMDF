@@ -16,6 +16,7 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição            | Autor             | Revisor |
-|--------|------------|----------------------|-------------------|---------|
-| 1.0    | 02/09/2022 | criação do documento | Bernardo Pissutti | -       |
+| Versão | Data       | Descrição                              | Autor             | Revisor |
+|--------|------------|----------------------------------------|-------------------|---------|
+| 1.0    | 02/09/2022 | Criação do documento                   | Bernardo Pissutti | -       |
+| 1.1    | 04/09/2022 | Adição do protótipo de alta fidelidade | Bernardo Pissutti | -       |
