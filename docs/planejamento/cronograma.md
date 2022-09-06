@@ -137,16 +137,19 @@ _Tabela 7: Sexta Etapa_
 
 A tabela 8 correspondente às atividades da sexta etapa do projeto no 05/09/2022.
 
-| Data  | Atividade                                                              | Responsáveis                                           | Revisores                           |
-| ----- | ---------------------------------------------------------------------- | ------------------------------------------------------ | ----------------------------------- |
-| 05/09 | Construção do cronograma de atividades                                 | Cícero                                                 | Todos                               |
-| 22/08 | Construção do protótipo de papel                                       | Guilherme                                              | Cícero                              |
-| 05/09 | Avaliação protótipo de papel                                           | Guilherme                                              | Bernardo                            |
-| 05/09 | Documentação dos testes pilotos (protótipo de papel e alta fidelidade) | Arthur                                                 | Nicolas                             |
-| 03/09 | Teste piloto avaliação do protótipo de baixa fidelidade                | Guilherme e Bernardo                                   | Arthur                              |
-| 04/09 | Teste piloto avaliação do protótipo de alta fidelidade                 | Guilherme e Bernardo                                   | Arthur                              |
-| 30/08 | Planejamento da avaliação do protótipo de alta fidelidade              | Leonardo e Cícero                                      | Bernardo, Cícero(Parte do Leonardo) |
-| 30/08 | Gravação da entrega                                                    | Cícero, Bernardo, Leonardo, Arthur, Guilherme, Nicolas | Todos                               |
+| Data  | Atividade                                                 | Responsáveis                                           | Revisores |
+| ----- | --------------------------------------------------------- | ------------------------------------------------------ | --------- |
+| 05/09 | Construção do cronograma de atividades                    | Cícero                                                 | Todos     |
+| 22/08 | Construção do protótipo de papel                          | Guilherme                                              | Cícero    |
+| 05/09 | Avaliação protótipo de papel                              | Guilherme                                              | Bernardo  |
+| 05/09 | Documentação do teste piloto de baixa fidelidade          | Arthur                                                 | Nicolas   |
+| 05/09 | Documentação do teste piloto de alta fidelidade           | Cícero                                                 | Guilherme |
+| 05/09 | Relato do protótipo de baixa fidelidade                   | Arthur                                                 | Cícero    |
+| 05/09 | Relato do protótipo de alta fidelidade                    | Cícero                                                 | Guilherme |
+| 03/09 | Teste piloto avaliação do protótipo de baixa fidelidade   | Guilherme e Bernardo                                   | Arthur    |
+| 04/09 | Teste piloto avaliação do protótipo de alta fidelidade    | Guilherme e Bernardo                                   | Arthur    |
+| 30/08 | Planejamento da avaliação do protótipo de alta fidelidade | Leonardo                                               | Cícero    |
+| 30/08 | Gravação da entrega                                       | Cícero, Bernardo, Leonardo, Arthur, Guilherme, Nicolas | Todos     |
 
 _Tabela 8: Sétima Etapa_
 
