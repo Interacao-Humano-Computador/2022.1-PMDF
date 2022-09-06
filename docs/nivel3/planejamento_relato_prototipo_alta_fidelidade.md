@@ -1,4 +1,4 @@
-# Plenajamento do Relato do Protótipo de Alta Fidelidade
+# Planejamento do Relato do Protótipo de Alta Fidelidade
 
 ## 1. Introdução
 
@@ -11,18 +11,18 @@ devem ser relatados, interpretados, consolidados.
 
 O relato dos resultados feito pelos avaliadores deve incluir:
 
-* O objetivo da avaliação: validar se o prototipo de alta fidelidade apresenta boas soluções para as heuríticas de usabilidades não atendidas
-no [site da PMDF](http://www.pmdf.df.gov.br/);
-* O método que a avaliação foi realizada: entrevista;
-* O perfil dos usuários e avaliádores que participaram da avalição;
-* Um sumário dos dados coletados;
-* Um relato da interpretação e análise dos dados;
-* Uma lista dos problemas encontrados.
+- O objetivo da avaliação: validar se o protótipo de alta fidelidade apresenta boas soluções para as heurísticas de usabilidades não atendidas
+  no [site da PMDF](http://www.pmdf.df.gov.br/);
+- O método que a avaliação foi realizada: entrevista;
+- O perfil dos usuários e avaliadores que participaram da avaliação;
+- Um sumário dos dados coletados;
+- Um relato da interpretação e análise dos dados;
+- Uma lista dos problemas encontrados.
 
 ### 2.2 Interpretação
 
-A interpretação do avaliador deve  levar em consideração os focos da análise (quais dados devem ser analisados
-sob quais perspectivas de análise) tendo em vista o método de avaliação escolhido (Barbose, Simone; p. 278), nesse caso
+A interpretação do avaliador deve levar em consideração os focos da análise (quais dados devem ser analisados
+sob quais perspectivas de análise) tendo em vista o método de avaliação escolhido (Barbosa, Simone; p. 278), nesse caso
 uma entrevista.
 
 ### 2.3 Consolidação
@@ -43,7 +43,6 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN
 ## Histórico de Versões
 
 | Versão | Data       | Descrição                                              | Autor             | Revisor |
-|--------|------------|--------------------------------------------------------|-------------------|---------|
-| 1.0    | 25/08/2022 | Criação da Introdução, Consolidação , Análise e Relato | Bernardo Pissutti | -       |
-
-
+| ------ | ---------- | ------------------------------------------------------ | ----------------- | ------- |
+| 1.0    | 25/08/2022 | Criação da Introdução, Consolidação , Análise e Relato | Bernardo Pissutti | Cícero  |
+| 1.1    | 05/09/2022 | Correções ortográficas                                 | Cícero            | -       |
