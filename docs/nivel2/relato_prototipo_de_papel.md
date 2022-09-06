@@ -21,14 +21,13 @@ Tabela 1: Legenda Escala de severidade utilizada por Nielsen
 
 ## 3. Participantes
 
-(Avaliador) Guilherme brito e (Usuário) Luis henrique brito. que não de se adequa ao perfil de usuário.
+(Avaliador) Guilherme brito e (Usuário) Luis henrique brito, que não de se adequa ao perfil de usuário.
 
 ## 4. Dados Coletados
 
 Cada avaliador deve inspecionar individualmente cada tela selecionada e cada um de seus
 elementos, com o objetivo de identificar se as diretrizes foram respeitadas ou violadas. Cada violação
 de diretriz é considerada um problema potencial de IHC
-
 
 ## 5. Interpretação e Análise de dados
 
@@ -45,7 +44,13 @@ uma entrevista.
 2. Reconhecimento em vez de memorização: O link para acessar não está facilmente visivel para o usuário.
    - local: se localiza na pagina de Servidores
    - severidade: 3 (problema grande), o usuário pode não encontrar o link para o acesso do salário dos servidores, impedindo de executar seu objetivo.
-   - recomendação: destacar em azul (convenção) o link para o salário 
+   - recomendação: destacar em azul (convenção) o link para o salário
+
+
+## 7. Video da avaliação
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vi7MhnIE0hE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 ## Referências Bibliográficas
