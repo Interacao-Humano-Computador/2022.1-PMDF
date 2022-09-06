@@ -29,11 +29,13 @@
     - [Planejamento do Relato - Protótipo de Papel](nivel2/planejamento_relato_prototipo_de_papel.md)
     - [Protótipo de Papel](nivel2/prototipo_baixa_fidelidade.md)
     - [Relato da Avaliação - Protótipo de Papel](nivel2/avaliacao_prototipo_papel.md)
+    - [Relato dos resultados - Protótipo de Papel](nivel2/relato_prototipo_de_papel.md)
   - _Nível 3_
     - [Planejamento da avaliação - Protótipo de Alta Fidelidade](nivel3/planej_aval_alta_fidelidade.md)
     - [Planejamento do Relato - Protótipo de Alta Fidelidade](nivel3/planejamento_relato_prototipo_alta_fidelidade.md)
     - [Protótipo de Alta Fidelidade](nivel3/prototipo_alta_fidelidade.md)
     - [Relato da Avaliação - Protótipo de Alta Fidelidade](nivel3/avaliacao_prototipo_alta_fidelidade.md)
+    - [Relato dos resultados - Protótipo de Alta fidelidade](nivel3/relato_prototipo_de_papel.md)
 - **Análise**
   - [Verificação](analise/verif_principal.md)
 
