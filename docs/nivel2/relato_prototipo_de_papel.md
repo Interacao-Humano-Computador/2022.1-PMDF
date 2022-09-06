@@ -21,9 +21,14 @@ Tabela 1: Legenda Escala de severidade utilizada por Nielsen
 
 ## 3. Participantes
 
-(Avaliador) Guilherme brito e pessoa que se adequa ao perfil de usuário.
+(Avaliador) Guilherme brito e (Usuário) Luis henrique brito. que não de se adequa ao perfil de usuário.
 
 ## 4. Dados Coletados
+
+Cada avaliador deve inspecionar individualmente cada tela selecionada e cada um de seus
+elementos, com o objetivo de identificar se as diretrizes foram respeitadas ou violadas. Cada violação
+de diretriz é considerada um problema potencial de IHC
+
 
 ## 5. Interpretação e Análise de dados
 
