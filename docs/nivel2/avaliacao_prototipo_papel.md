@@ -80,7 +80,7 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição              | Autor             | Revisor |
-|--------|------------|------------------------|-------------------|---------|
-| 1.0    | 04/09/2022 | Adição do teste piloto | Bernardo Pissutti | -       |
-| 1.1    | 05/09/2022 |Criação do Relato protótipo de papel | Arthur | Cicero
+| Versão  | Data       | Descrição                            | Autor             | Revisor |
+|---------|------------|--------------------------------------|-------------------|---------|
+| 1.0     | 04/09/2022 | Adição do teste piloto               | Bernardo Pissutti | -       |
+| 1.1     | 05/09/2022 | Criação do Relato protótipo de papel | Arthur            | Cicero  |
