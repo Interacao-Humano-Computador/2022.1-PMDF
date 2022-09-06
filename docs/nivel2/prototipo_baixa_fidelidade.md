@@ -7,13 +7,16 @@ baratos e de rápida produção. Isso também significa que podem ser rapidament
 
 ## 2. Protótipo
 
-|                 |       |
-|-----------------|-------|
-| Tela principal  | ![]() |
-| Menu            | ![]() |
-| Tela intranet   | ![]() |
-| Tela servidores | ![]() |
-| Popup intranet  | ![]() |
+Na tabela abaixo, podemos verificar os protótipos construídos utilizando de papel, lápis, fita adesiva e grampeador.
+
+|                                                               |                                                             |
+|---------------------------------------------------------------|-------------------------------------------------------------|
+| Tela principal  (Cabeçalho comum a todas as páginas)          | ![tela_principal](../_media/imagem_interface1.jpeg)         |
+| Tela principal  (Tela principal que simula a tela deslizante) | ![tela_principal_deslizante](../_media/tela_deslizante.gif) |
+| Menu                                                          | ![menu](../_media/imagem_interface6.jpeg)                   |
+| Tela Intranet                                                 | ![tela_intranet](../_media/imagem_interface2.jpeg)          |
+| Tela servidores                                               | ![tela_servidores](../_media/imagem_interface4.jpeg)        |
+| Popup Intranet  (Caso acesso não for bem sucedido)            | ![popup_intranet](../_media/imagem_interface3.jpeg)         |
 
 
 ## Referências Bibliográficas
@@ -23,6 +26,7 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN
 
 ## Histórico de Versões
 
-| Versão   | Data       | Descrição             | Autor             | Revisor |
-|----------|------------|-----------------------|-------------------|---------|
-| 1.0      | 02/09/2022 | Criação da introdução | Bernardo Pissutti | -       |
+| Versão | Data       | Descrição                                             | Autor             | Revisor |
+|--------|------------|-------------------------------------------------------|-------------------|---------|
+| 1.0    | 02/09/2022 | Criação da introdução                                 | Bernardo Pissutti | -       |
+| 1.1    | 05/09/2022 | Inserção das Imagens do Protótipo de Baixa Fidelidade | Guilherme Brito   | -       |
