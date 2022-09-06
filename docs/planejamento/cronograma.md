@@ -160,7 +160,7 @@ Nessa seção será apresentado o desenvolvimento dos dois com o passar das entr
 
 ### 3.1 Sprint 1
 
-O backlog da sprint 1 está apresentado na _Figura 1_, e o seu quadro kanbak final apresentado na _Figura 2_ .
+O backlog da sprint 1 está apresentado na _Figura 1_, e o seu quadro kanban final apresentado na _Figura 2_ .
 
 | ![image](../_media/BackLogSprint1IHC.png)                |
 | -------------------------------------------------------- |

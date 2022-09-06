@@ -1,8 +1,9 @@
 # Protótipo de Alta Fidelidade
 
 ## 1. Introdução
+
 O protótipo de alta-fidelidade utiliza materiais que espera-se que estejam no produto final, ou seja, um protótipo
-que se parece muito mais com algo acabado. A prototipação de alta-fidelidade é útil para vender idéias a pessoas e para 
+que se parece muito mais com algo acabado. A prototipação de alta-fidelidade é útil para vender ideias a pessoas e para
 testar questões técnicas.
 
 ## 2. Protótipo
@@ -17,6 +18,7 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN
 ## Histórico de Versões
 
 | Versão | Data       | Descrição                              | Autor             | Revisor |
-|--------|------------|----------------------------------------|-------------------|---------|
+| ------ | ---------- | -------------------------------------- | ----------------- | ------- |
 | 1.0    | 02/09/2022 | Criação do documento                   | Bernardo Pissutti | -       |
-| 1.1    | 04/09/2022 | Adição do protótipo de alta fidelidade | Bernardo Pissutti | -       |
+| 1.1    | 04/09/2022 | Adição do protótipo de alta fidelidade | Bernardo Pissutti | Cícero  |
+| 1.2    | 05/09/2022 | Correção ortográfica                   | Cícero            | -       |
