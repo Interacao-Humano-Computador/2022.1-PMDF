@@ -142,7 +142,8 @@ A tabela 8 correspondente às atividades da sexta etapa do projeto no 05/09/2022
 | 05/09 | Construção do cronograma de atividades                    | Cícero                                                 | Todos     |
 | 22/08 | Construção do protótipo de papel                          | Guilherme                                              | Cícero    |
 | 05/09 | Avaliação protótipo de papel                              | Guilherme                                              | Bernardo  |
-| 05/09 | Documentação do teste piloto de baixa fidelidade          | Arthur                                                 | Nicolas   |
+| 05/09 | Documentação do teste piloto de baixa fidelidade          | Nicolas                                                | Cícero    |
+| 05/09 | Relato da avaliação do protótipo de papel                 | Arthur                                                 | Nicolas   |
 | 25/08 | Planejamento do relato do protótipo de alta fidelidade    | Bernardo                                               | Cícero    |
 | 05/09 | Documentação do teste piloto de alta fidelidade           | Cícero                                                 | Guilherme |
 | 05/09 | Relato do protótipo de baixa fidelidade                   | Arthur                                                 | Cícero    |
