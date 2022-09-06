@@ -31,9 +31,9 @@ Para a Escala de severidade temos:
 |identificador| problema |descrição |
 |----|-----|-----|
 |1|Problema cosmético| Não precisa ser consertado com urgência |
-|2|Problema cosmético| O conserto possui baixa prioridade |
-|3|Problema cosmético| O conserto desse problema prejudica nos objetivos do usuário e deve receber alta prioridade |
-|4|Problema cosmético| O conserto desse problema deve ser feito antes do lançamento, pois impede o usuário de atingir os objetivos |
+|2|Problema pequeno| O conserto possui baixa prioridade |
+|3|Problema grande| O conserto desse problema prejudica nos objetivos do usuário e deve receber alta prioridade |
+|4|Problema catastrófico| O conserto desse problema deve ser feito antes do lançamento, pois impede o usuário de atingir os objetivos |
 
 Tabela 1: Legenda Escala de severidade utilizada por Nielsen
 
