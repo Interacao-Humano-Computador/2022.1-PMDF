@@ -16,7 +16,6 @@ Segue vídeo do teste-piloto do grupo
 
 ### 2. Resultados
 
-
 ## Histórico de Versões
 
 | Versão | Data       | Descrição              | Autor             | Revisor |
