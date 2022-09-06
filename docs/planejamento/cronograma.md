@@ -149,6 +149,7 @@ A tabela 8 correspondente às atividades da sexta etapa do projeto no 05/09/2022
 | 05/09 | Relato do protótipo de baixa fidelidade                   | Arthur                                                 | Cícero    |
 | 03/09 | Teste piloto avaliação do protótipo de baixa fidelidade   | Guilherme e Bernardo                                   | Arthur    |
 | 04/09 | Teste piloto avaliação do protótipo de alta fidelidade    | Guilherme e Bernardo                                   | Arthur    |
+| 05/09 | Gravação da avaliação do protótipo de papel               | Guilherme                                              | Arthur    |
 | 30/08 | Planejamento da avaliação do protótipo de alta fidelidade | Leonardo                                               | Cícero    |
 | 30/08 | Gravação da entrega                                       | Cícero, Bernardo, Leonardo, Arthur, Guilherme, Nicolas | Todos     |
 
