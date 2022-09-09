@@ -25,7 +25,7 @@ O *checklist* da tabela 1 foi montado para verificar a qualidade do artefato.
 | Foi utilizado um termo de consentimento para os metodos empregados?                                                        | 6             |
 | O roteiro identifica a familiaridade do participante com a tecnologia?                                                     | 7             |
 
-_Tabela 1: Itens e identificadores da verificação do Planejamento da Análise de Tarefas_
+_Tabela 1: Itens e identificadores da verificação do Perfil de Usuário_
 
 _Obs: a pergunta 7 foi retirada da checklist do projeto [Prefeitura de Concordia](https://interacao-humano-computador.github.io/2021.1-Prefeitura-de-Concordia/verificacao/entrevistas/)_
 

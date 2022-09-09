@@ -24,7 +24,7 @@ O *checklist* da tabela 1 foi montado para verificar a qualidade do artefato.
 | As figuras são chamadas no texto?                                                                     | 5               |
 | Foi documentado o referêncial bibliografico para a documentação do artefato?                          | 6               |
 
-_Tabela 1: Itens e identificadores da verificação do Planejamento da Análise de Tarefas_
+_Tabela 1: Itens e identificadores da verificação do Principios Gerais_
 
 ### 2.2 Inspeção
 A inspeção foi realizada pelo integrante Bernardo Pissutti no dia 20/08/2022.

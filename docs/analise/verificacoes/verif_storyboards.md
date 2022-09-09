@@ -24,19 +24,20 @@ Tendo como base a definição de Barbosa (2021) sobre as principais característ
 
 O *checklist* da tabela 1 foi montado para verificar a qualidade do artefato.
 
-| Item                                                                  | Identificador |
-| --------------------------------------------------------------------- | ------------- |
-| O documento possui versionamento?                                     |      1        |
-| Existe uma introdução ao conceito abordado?                           |      2        |   
-| Há uma ordem lógica entre as estruturas?                              |      3        | 
-| Elementos gráficos estão acompanhados de legendas?                    |      4        |   
-| É possivel visualizar o fluxo do storyboard a partir das tarefas?     |      5        |      
-| O storyboard ilustra um objetivo?                                     |      6        |    
-| O storyboard é baseado em uma análise de tarefas conceitual?          |      7        |      
-| O objetivo do storyboard é alcançado?                                 |      8        |             
-| O storyboard possue ambiente?                                         |      9        |    
-| Pessoas participam do storyboard?                                     |      10       |      
-| É demonstrado a satisfação da pessoa ao concluir o objetivo?          |      11       |     
+| Item                                                              |  Identificador |
+|-------------------------------------------------------------------|----------------|
+| O documento possui versionamento?                                 | 1              |
+| Existe uma introdução ao conceito abordado?                       | 2              |
+| Há uma ordem lógica entre as estruturas?                          | 3              |
+| Elementos gráficos estão acompanhados de legendas?                | 4              |
+| É possivel visualizar o fluxo do storyboard a partir das tarefas? | 5              |
+| O storyboard ilustra um objetivo?                                 | 6              |
+| O storyboard é baseado em uma análise de tarefas conceitual?      | 7              |
+| O objetivo do storyboard é alcançado?                             | 8              |
+| O storyboard possui ambiente?                                     | 9              |
+| Pessoas participam do storyboard?                                 | 10             |
+| É demonstrado a satisfação da pessoa ao concluir o objetivo?      | 11             |
+
 _Tabela 1: Itens e identificadores da verificação de Storyboards_
 
 
@@ -64,8 +65,8 @@ _Tabela 2: Checklist de Verificação do Storyboard 1_
 
 O gráfico de pizza compilando a porcentagem de itens atendidos e não atendidos consta na _figura 1_ abaixo.
 
-| ![imagemGráfico](../../_media/grafico_storyboard1.png)               |
-|----------------------------------------------------------------------|
+| ![imagemGráfico](../../_media/grafico_storyboard1.png)                                        |
+|-----------------------------------------------------------------------------------------------|
 | Figura 1: Gráfico de Itens atendidos e não atendidos do Storyboard 1; Fonte: autoria própria. |
 
 Tomando como base a checklist construída, observa-se que o Storyboard 1 está bom, mas carece de atenção quanto aos itens 7 e 11, portanto, esses itens precisam ser corrigidos.
@@ -76,26 +77,26 @@ Tomando como base a checklist construída, observa-se que o Storyboard 1 está b
 A inspeção do artefato foi realizada no dia 21 de Agosto às 19h15. Após a inspeção, o 
 resultado do checklist foi construído e ele pode ser visto na _tabela 3_.
 
-| Item                                                              | Situação |
-|:------------------------------------------------------------------|:--------:|
-| 1  |    ✅    |
-| 2  |    ✅    |            
-| 3  |    ✅    |
-| 4  |    ✅    |
-| 5  |    ✅    |
-| 6  |    ✅    |    
-| 7  |    ✅    |    
-| 8  |    ✅    |
-| 9  |    ✅    |    
-| 10 |    ✅    |                
-| 11 |    ❌    |
+| Item         | Situação    |
+|:-------------|:-----------:|
+| 1            |      ✅      |
+| 2            |      ✅      |
+| 3            |      ✅      |
+| 4            |      ✅      |
+| 5            |      ✅      |
+| 6            |      ✅      |
+| 7            |      ✅      |
+| 8            |      ✅      |
+| 9            |      ✅      |
+| 10           |      ✅      |
+| 11           |      ❌      |
 _Tabela 3: Checklist de Verificação do Storyboard 2_
 
 O gráfico de pizza compilando a porcentagem de itens atendidos e não atendidos consta na _figura 2_ abaixo.
 
-| ![imagemGráfico](../../_media/grafico_storyboard2.png) |
-|---------------------------------------------------------|
-| Figura 2: Gráfico de Itens atendidos e não atendidos do Storyboard 2   |
+| ![imagemGráfico](../../_media/grafico_storyboard2.png)               |
+|----------------------------------------------------------------------|
+| Figura 2: Gráfico de Itens atendidos e não atendidos do Storyboard 2 |
 
 Tomando como base a checklist construída, observa-se que o Storyboard 2 está bom, mas carece de atenção quanto aos item 11, portanto, esse item precisa ser corrigido.
 
