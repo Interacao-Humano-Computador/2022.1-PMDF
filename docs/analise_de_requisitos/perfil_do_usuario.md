@@ -5,7 +5,19 @@
 O perfil de usuário é uma descrição detalhada das características dos usuários
 cujos objetivos devem ser apoiados pelo sistema sendo projetado. Sendo assim, deve-se identificar as características de interesse (e.g., cargo, função, experiência, nível de instrução, atividades principais, faixa etária etc.) e conduzir um estudo (e.g., através de entrevistas e questionários) para coletar os dados dos usuários. (Barbosa, 2021)
 
-## 2. Questionário
+## 2. Objetivo
+
+O objetivo desse documento é documentar os perfis de usários encontrados durante o processo de pesquisa realizado. Pois a partir do perfil do usuário é possível identificar as principais características e prioridades do público alvo que o sistema busca satisfazer.
+
+## 3. Metodologia
+
+O métodos de avaliação escolhidos para avaliar o perfil de usuário do site da Polícia Militar do Distrito Federal (PMDF) é o de investigação através da técnica de entrevista e o questionário.
+
+O formulário criado pela equipe foi disponibilizado na Plataforma *WhatsApp*, entre 6h e 18h do dia 18/07 ,tanto em grupos com apenas policiais militares quanto em grupos com apenas estudantes. Dessa forma, a partir dos dados extraídos do questionário, foi possível definir esses 2 grupos de perfis de usuário, no qual o perfil de policial militar é o mais interessante, pois é o público que mais utiliza o site da PMDF.
+
+A entrevista é considerada uma conversa guiada por um roteiro de perguntas ou tópicos, na qual um entrevistador busca obter informações de um entrevistado. Sendo assim, ela permite coletar muitas informações detalhadas e profundas de usuários individuais, mais do que questionários e grupos de foco. (Barbosa, 2021)
+
+## 4. Questionário
 
 O questionário consiste em construir perguntas, podendo ser abertas ou fechadas, para coletar dados dos usuários e enfim chegar em uma conclusão sobre eles. Então, a partir de perguntas fechadas, o objetivo das perguntas realizadas foi entender as características dos usuários e definir os perfis nos quais eles se enquadram.
 
@@ -30,7 +42,7 @@ O perfil A está mais relacionado com os usuários finais do site da PMDF, afina
 o sistema e portanto possuem uma funcionalidade mais acessada. Enquanto que o perfil B, é baseado em estudantes que
 não acessam a aplicação e, então, não são considerados o público-alvo.
 
-## 3. Entrevista
+## 5 Entrevista
 
 A entrevista é considerada uma conversa guiada por um roteiro de perguntas ou tópicos, na qual um entrevistador busca obter informações de um entrevistado. Sendo assim, ela permite coletar muitas informações detalhadas e profundas de usuários individuais, mais do que questionários e grupos de foco. (Barbosa, 2021)
 
@@ -48,9 +60,9 @@ As perguntas definidas pelo Roteiro Estruturado foram:
 - Qual sua opinião sobre a estrutura e design site?
 - Você já possuiu alguma dificuldade em relação ao acesso do site?
 
-## 4. Execução
+## 6. Execução
 
-### 4.1 Entrevista 1
+### 6.1 Entrevista 1
 
 **Qual seu nome?**
 
@@ -88,7 +100,7 @@ As perguntas definidas pelo Roteiro Estruturado foram:
 
 "Não, de vez em quando cai um pouco, mas quando ela ta em funcionalidade, fica tranquilo".
 
-### 4.2 Entrevista 2
+### 6.2 Entrevista 2
 
 **Qual seu nome?**
 
@@ -126,7 +138,7 @@ As perguntas definidas pelo Roteiro Estruturado foram:
 
 "Algumas vezes, quando acessei ficou fora do ar".
 
-## 5. Vídeos
+## 7. Vídeos
 
 A execução das entrevistas pode ser acessada no links:
 
@@ -144,3 +156,4 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN
 |---------|--------------|--------------------------------------|---------------------|--------------|
 | 1.0     | 18/07/2022   | Criação da Introdução e Questionário | Leonardo Vitoriano  | Guilherme    |
 | 1.1     | 19/07/2022   | Criação da Entrevista                | Leonardo Vitoriano  | Guilherme    |
+| 1.2     | 10/09/2022   | Adição do Objetivo                   | Leonardo Vitoriano  | -    |

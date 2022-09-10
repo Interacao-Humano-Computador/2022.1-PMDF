@@ -10,7 +10,11 @@ Elas são entendidas principalmente por seus objetivos, os quais são determinad
 
 Para cada papel de usuário deve ser criado ao menos uma persona formando um elenco de personas para o projeto que consiste entre 3 a 12 personas distintas. A equipe determinou 3 personas e 1 antipersona para o site da PMDF. Sendo a antipersona responsável por representar o perfil de usuário que contrário ao público-alvo que utiliza o sistema.
 
-## 2. Construção das Personas
+## 2. Objetivo
+
+O objetivo desse documento é definir quais serão as personas que irão guiar as decisões de design. Desse modo se busca criar personas com o máximo de detalhamento possível, sem perder a conexão com os dados reais obtidos na pesquisa de perfil de usuário.
+
+## 3. Construção das Personas
 
 Na construção das personas foi utilizado, principalmente, um perfil do usuário previamente definido, mas com a finalidade de visualizar as características e objetivos das personas, uma imagem é atribuída a cada persona. Essa imagem, a qual trata-se de uma pessoa que não existe, é gerada a partir de uma IA (Inteligência Artificial) do site ["this person does not exist"](https://thispersondoesnotexist.xyz/).
 
@@ -134,3 +138,4 @@ https://thispersondoesnotexist.xyz/
 | Versão   | Data        | Descrição                                     | Autor              | Revisor           |
 |----------|-------------|-----------------------------------------------|--------------------|-------------------|
 | 1.0      | 19/07/2022  | Criação da Introdução, Personas e Antipersona | Leonardo Vitoriano | Bernardo Pissutti |
+| 1.1      | 10/09/2022  | Adição do Objetivo | Leonardo Vitoriano | - |

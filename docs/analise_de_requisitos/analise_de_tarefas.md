@@ -12,7 +12,11 @@ de tarefas pode ser utilizada para a análise da situação atual, para o (re)de
 de um sistema computacional ou para a avaliação do resultado de uma intervenção que inclua a introdução de um (novo) sistema
 computacional.
 
-## 2. Análise Hierárquica de tarefas (HTA)
+## 2. Objetivo 
+
+A análise de tarefas realizada, através do método de inspeção, possuí o intuito de identifcar como os objetivos de consultar salário de servidor e logar na Intranet podem ser atingidos dada a atual situação de desenho do site.
+
+## 3. Análise Hierárquica de tarefas (HTA)
 
 Auxilia a indentificar o que as pessoas fazem, o porquê e as consequências caso não façam corretamente, ideia baseada na psicologia funcional. Nesse tipo de análise são utilizadas tarefas, onde são definidas como pequenas partes do trabalho que precisam ser realizadas, ou objetivos. Segundo diaper podemos utilizar da decomposição de tarefas ou redescrição para dividir em objetivos e subobjetivos tarefas mais complexas.
 
@@ -21,7 +25,7 @@ O HTA busca examinar objetivos de alto nível e decompor estes em subojetivos, s
 Segundo dados obtidos através do questionário é podemos inferir que a funcionalidade intranet é a mais utilizada pelos usuário e será nosso objeto de estudo para a
 Objetivo: Modificar um sistema existente.
 
-### 2.1 Objetivo: Logar na Intranet
+### 3.1 Objetivo: Logar na Intranet
 
 #### Representação Gráfica
 
@@ -41,7 +45,7 @@ Objetivo: Modificar um sistema existente.
 
 Tabela 1: Elementos do objetivo - logar na intranet
 
-## 3. GOMS (<i>Goals, Operators, Methods and Selection Rules</i>)
+## 4. GOMS (<i>Goals, Operators, Methods and Selection Rules</i>)
 
 Trata-se de um método para descrever tarefas que pontua o conhecimento do usuário
 sobre como realizá-la tendo em vista seus objetivos (<i>goals</i>), os operadores utilizados (<i>operators</i>),
@@ -56,7 +60,7 @@ os métodos (<i>methods</i>) disponíveis e as regras de seleção (<i>selection
 
 Tabela 2: Elementos da abordagem GOMS
 
-### 3.1 KLM - GOS
+### 4.1 KLM - GOS
 
 Estratégia prática que implementa os princípios do GOMS limitando os operadores a um conjunto pré-definido. O nome e a descrição
 acompanhados do tempo médio para execução, elementos dessa estratégia, constam na Tabela 2.
@@ -73,7 +77,7 @@ acompanhados do tempo médio para execução, elementos dessa estratégia, const
 
 Tabela 3: Elementos da implementação KLM - GOS
 
-#### 3.1.1 Análise de tarefa: consultar salário de servidor
+#### 4.1.1 Análise de tarefa: consultar salário de servidor
 
 | Operador |                      Descrição                      | Tempo médio para execução |
 |:--------:|:---------------------------------------------------:|:-------------------------:|
@@ -86,13 +90,13 @@ Tabela 3: Elementos da implementação KLM - GOS
 
 Tabela 4: Elementos da implementação KLM - GOS para a consulta de salário de servidor
 
-### 3.2 CMN - GOS
+### 4.2 CMN - GOS
 
 O CMN-GOMS possui uma hierarquia estrita de objetivos na qual os operadores são executados
 estritamente em ordem sequencial e os métodos são representados numa notação semelhante
 a um pseudocódigo, que inclui submétodos e condicionais.
 
-#### 3.1.1 Análise de tarefa: consultar salário de servidor
+#### 4.2.1 Análise de tarefa: consultar salário de servidor
 
 ```
 Goal 0: Consultar salário de servidor
@@ -112,5 +116,6 @@ Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; B
 
 | Versão  | Data  | Descrição                   | Autor           | Revisor           |
 |---------|-------|-----------------------------|-----------------|-------------------|
-| 1.0     | 20/07 | Análise de tarefas          | Arthur          | Bernardo Pissutti |
-| 1.1     | 20/07 | Adição de novas estratégias | Nícolas Mantzos | Bernardo Pissutti |
+| 1.0     | 20/07/2022 | Análise de tarefas          | Arthur          | Bernardo Pissutti |
+| 1.1     | 20/07/2022 | Adição de novas estratégias | Nícolas Mantzos | Bernardo Pissutti |
+| 1.2     | 10/09/2022 | Adição do Objetivo | Leonardo Vitoriano  | - |

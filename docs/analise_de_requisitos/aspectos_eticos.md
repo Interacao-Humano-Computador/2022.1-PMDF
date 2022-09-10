@@ -14,7 +14,11 @@ recomendações segue um lista de princípios a se considerar durante o trabalho
 - Princípio da justiça e equidade: relacionado à relevância social da pesquisa, com vantagens significativas para os participantes da pesquisa e minimização do ônus para os participantes
   vulneráveis, o que garante a igual consideração dos interesses envolvidos, não perdendo o sentido de sua destinação sício-humanitária.
 
-## 2. Termo de Consentimento
+## 2. Objetivo
+
+O objetivo desse documento é explicitar todos os termos necessários para o tratamento de aspectos éticos de pesquisa com pessoas. Sendo assim, cada termo de consentimento é responsável por possuir o objetivo que almeja alcançar com a entrevista com o usuário, bem como os aspectos da entrevista, o direito de imagem do usuário, gravação da entrevista, e ainda se o entrevistado concorda com os termos apresentados.
+
+## 3. Termo de Consentimento
 
 Somos alunos do curso de Engenharia de Software da Universidade UnB, que estamos
 realizando um projeto da disciplina de Interação Humano Computador, com o objetivo
@@ -34,7 +38,7 @@ Enfim, tendo sido orientado quanto ao teor de todo o aqui mencionado e compreend
 No início da gravação, o participante dirá “Eu estou ciente dos termos e
 dou meu consentimento para sua realização”.
 
-### 2.1 Termo de Consentimento Storyboard
+### 3.1 Termo de Consentimento Storyboard
 
 Somos alunos do curso de Engenharia de Software da Universidade UnB, que estamos
 realizando um projeto da disciplina de Interação Humano Computador, com o objetivo
@@ -53,7 +57,7 @@ Enfim, tendo sido orientado quanto ao teor de todo o aqui mencionado e compreend
 No início da gravação, o participante dirá “Eu estou ciente dos termos e
 dou meu consentimento para sua realização”.
 
-### 2.2 Termo de Consentimento Análise de Tarefas
+### 3.2 Termo de Consentimento Análise de Tarefas
 
 Somos alunos do curso de Engenharia de Software da Universidade UnB, que estamos
 realizando um projeto da disciplina de Interação Humano Computador, com o objetivo
@@ -72,7 +76,7 @@ Enfim, tendo sido orientado quanto ao teor de todo o aqui mencionado e compreend
 No início da gravação, o participante dirá “Eu estou ciente dos termos e
 dou meu consentimento para sua realização”.
 
-### 2.3 Termo de Consentimento Protótipo de Alta Fidelidade
+### 3.3 Termo de Consentimento Protótipo de Alta Fidelidade
 
 Somos alunos do curso de Engenharia de Software da Universidade UnB, que estamos
 realizando um projeto da disciplina de Interação Humano Computador, com o objetivo
@@ -106,4 +110,5 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN
 | 1.0     | 19/07/2022   | Criação do Termo de Consentimeto                               | Leonardo Vitoriano  | Todos   |
 | 1.1     | 20/07/2022   | Adição da seção introdução                                     | Bernardo Pissutti   | -       |
 | 1.2     | 17/08/2022   | Adição do Termo de Consentimeto Storyboard e Analise de Tarefa | Leonardo Vitoriano  | -       |
-| 1.3     | 30/08/2022   | Adição do Termo de Consentimeto Storyboard e Analise de Tarefa | Leonardo Vitoriano  | -       |
+| 1.3     | 30/08/2022   | Adição do Termo de Consentimeto Alta Fidelidade | Leonardo Vitoriano  | -       |
+| 1.4     | 10/09/2022   | Adição do Objetivo | Leonardo Vitoriano  | - |
