@@ -34,6 +34,7 @@
     - [Planejamento do Relato - Protótipo de Alta Fidelidade](nivel3/planejamento_relato_prototipo_alta_fidelidade.md)
     - [Protótipo de Alta Fidelidade](nivel3/prototipo_alta_fidelidade.md)
     - [Relato da Avaliação - Protótipo de Alta Fidelidade](nivel3/avaliacao_prototipo_alta_fidelidade.md)
+    - [Relato da Avaliação](nivel3/relato_alta_fidelidade.md)
 - **Análise**
   - [Verificação](analise/verif_principal.md)
 
