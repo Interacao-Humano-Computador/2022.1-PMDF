@@ -49,13 +49,25 @@ Para responder estas perguntas iremos conduzir as entrevistas da seguinte forma:
 Para a avaliação protótipo de papel vamos pedir para que o entrevistado realize as tarefas representadas pelo protótipo:
 
 - Visualizar Salário de um Servidor
+- Login na Intranet
 
 ### 6.1 - Visualizar Salário de um Servidor
 
 Nessa tarefa o usuário seguira o seguinte caminho:
 
-- Localizar e clicar na aba "Servidores"
-- Localizar e clicar no hiperlink "portal da transparência"
+- Localizar a aba "Servidores"
+- Clicar na aba "Servidores"
+- Localizar o hiperlink "portal da transparência"
+- Clicar no hiperlink "portal da transparência"
+
+### 6.2 - Login na Intranet
+
+Nessa tarefa o usuário seguira o seguinte caminho:
+
+- Localizar a aba "Intranet"
+- Clicar na aba "Intranet"
+- Localizar o hiperlink "Fazer Login"
+- Clicar no hiperlink "Fazer Login"
 
 ## 7. Questões Éticas
 
@@ -64,6 +76,22 @@ Antes de começar as entrevistas, é importante que o entrevistador tenha aprese
 "Eu estou ciente dos termos e dou meu consentimento para sua realização".
 
 Então, seguido do consentimento autorizado, a entrevista deverá prosseguir para as perguntas.
+
+## 8. Cronograma das entrevistas
+
+Com o intuito de documentar o período das atividades de entrevista para a avaliação do protótipo de alta fidelidade, foi criado a *tabela 1*, que possuí as colunas de atividade, entrevistador, entrevistado, data e hora.
+
+| Atividade | Entrevistador | Entrevistado | Data | Hora | 
+| --------- | ------------- | ------------ | ---- | ---- |
+| <a href="https://interacao-humano-computador.github.io/2022.1-PMDF/#/nivel3/avaliacao_prototipo_alta_fidelidade?id=_11-metodologia" >Teste Piloto</a> | Bernardo | Guilherme | 04/09 | 20h |
+| Entrevista 1 | Leonardo | Entrevistado 1 | 10/09 | 18h40 |
+| Entrevista 2 | Leonardo | Entrevistado 2 | 10/09 | 19h10 |
+
+
+<figcaption align='center'>
+    <b>Tabela 1: Cronograma de entrevistas</b>
+    <br><small>Fonte: Elaboração própria.</small>
+</figcaption>
 
 ## Referências Bibliográficas
 
@@ -81,3 +109,4 @@ Sons, New York, NY, 2000.
 | ------ | ---------- | --------------------------------------- | ------------------ | ------- |
 | 1.0    | 30/08/2022 | Criação dos tópicos e conteúdo de 1 a 7 | Leonardo Vitoriano | Cícero  |
 | 1.1    | 05/09/2022 | Correções ortográficas no artefato      | Cícero             | -       |
+| 1.2    | 05/09/2022 | Criação do tópico 8      | Leonardo Vitoriano                | -       |
