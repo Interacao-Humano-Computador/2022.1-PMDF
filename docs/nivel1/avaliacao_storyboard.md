@@ -42,7 +42,7 @@ Já com relação ao segundo storyboard, no qual refere-se à um usuário almeja
 
 ## 5. Resultado
 
-Diante das respostas obtidas na realização das entrevistas de validação, os participantes alegaram compreender e concordar com o contexto demonstrado nos storyboards. Portanto, é possível concluir que a equipe possui entendimento da usabilidade do site da PMDF e, dessa maneira, pode prosseguir para a próxima etapa de propor melhorias de deign para o sistema em questão.
+Diante das respostas obtidas na realização das entrevistas de validação, os participantes alegaram compreender e concordar com o contexto demonstrado nos storyboards. Portanto, é possível concluir que a equipe possui entendimento da usabilidade do site da PMDF e, dessa maneira, pode prosseguir para a próxima etapa de propor melhorias de design para o sistema em questão.
 
 ## Referências Bibliográficas
 
