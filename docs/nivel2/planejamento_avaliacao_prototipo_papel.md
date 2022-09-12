@@ -16,6 +16,15 @@ Para realizar a avaliação de IHC, por meio da prototipação em papel é preci
 Na Etapa de preparação,segundo (SIMONE, 2021) o avaliador define o perfil dos participantes para recrutá-los, em seguida, o avaliador deve convidar os usuários a executarem algumas tarefas,
 o avaliador também deve criar protótipos em papel para executar as tarefas, e deve executar um teste-piloto.
 
+## Cronograma avalição protótipo de papel
+
+Para a gravação da avaliação do protótipo de papel segue o cronograma.
+
+| Atividade | Entrevistador | Entrevistado | Data | Hora | 
+| --------- | ------------- | ------------ | ---- | ---- |
+| Teste piloto | Brito | Bernardo | 04/09/2022 | 16:00 |
+| Entrevista | Brito | Entrevistado 1 | 05/09/2022 | 17:30 |
+
 ### Tarefas:
 
 #### Atividade 1: Realizar Login no Intranet
@@ -66,3 +75,4 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN
 |---------|------------|------------------------------------------------------------|-----------------|------------|
 | 1.0     | 12/08/2022 | Criação do Artefato Planejamento avaliação protótipo papel | Arthur e Cicero | Guilherme  |
 | 1.1     | 16/08/2022 | Correções de ortografia                                    | Cicero          | -          |
+| 1.2     | 12/09/2022 | Adicionar cronograma                                   | Arthur          | -          |
