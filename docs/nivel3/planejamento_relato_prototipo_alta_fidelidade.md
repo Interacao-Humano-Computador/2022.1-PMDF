@@ -42,7 +42,7 @@ Visando garantir assertividade na realização das tarefas é preciso adicionar 
 | Atividade | Autor | revisor | Data |
 | --------- | ------------- | ------------ | ---- |
 | interpretação | Leonardo | - |10/09/2022 | 
-| problemas encontrados | - | Entrevistado 1 | 10/09/2022 | 
+| problemas encontrados | Leonardo | - | 10/09/2022 | 
 ## Referências Bibliográficas
 
 Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)
