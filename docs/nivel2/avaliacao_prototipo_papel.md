@@ -64,8 +64,12 @@ uma entrevista.
    - severidade: 3 (problema grande), o usuário pode não encontrar o link para o acesso do salário dos servidores, impedindo de executar seu objetivo.
    - recomendação: destacar em azul (convenção) o link para o salário
 
+### 7. Sugestões e Criticas do usuário
 
-### 7. Video da avaliação
+1. Para a tarefa de acesso ao intranet: Mostrar o popup de erro ao acessar a intranet centralizado impedindo que o usuário tente novamente sem antes perceber que errou algo.
+
+
+### 8. Video da avaliação
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Vi7MhnIE0hE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -84,3 +88,4 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN
 |---------|------------|--------------------------------------|-------------------|---------|
 | 1.0     | 04/09/2022 | Adição do teste piloto               | Bernardo Pissutti | -       |
 | 1.1     | 05/09/2022 | Criação do Relato protótipo de papel | Arthur            | Cicero  |
+| 1.2     | 12/09/2022 | Adição Opiniões do usuário  | Arthur            | -  |
