@@ -135,7 +135,7 @@ _Tabela 7: Sexta Etapa_
 
 ### 2.7 Sétima Etapa Do projeto
 
-A tabela 8 correspondente às atividades da sexta etapa do projeto no 05/09/2022.
+A tabela 8 correspondente às atividades da sétima etapa do projeto no 05/09/2022.
 
 | Data  | Atividade                                                 | Responsáveis                                           | Revisores |
 | ----- | --------------------------------------------------------- | ------------------------------------------------------ | --------- |
@@ -154,6 +154,29 @@ A tabela 8 correspondente às atividades da sexta etapa do projeto no 05/09/2022
 | 05/09 | Gravação da entrega                                       | Cícero, Bernardo, Leonardo, Arthur, Guilherme, Nicolas | Todos     |
 
 _Tabela 8: Sétima Etapa_
+
+### 2.8 Entrega final
+
+A tabela 9 correspondente às atividades da entrega final do projeto no 12/09/2022.
+
+| Data  | Atividade                                           | Responsáveis | Revisores |
+| ----- | --------------------------------------------------- | ------------ | --------- |
+| 12/09 | Construção do cronograma de atividades              | Cícero       | Todos     |
+| 12/09 | Adição de aplicativo selecionado no slide           | Guilherme    | Todos     |
+| 12/09 | Adição do planejamento nos slides                   | Bernardo     | Todos     |
+| 12/09 | Adição da execução do projeto nos slides            | Bernardo     | Todos     |
+| 12/09 | Adição dos resultados                               | Arthur       | Todos     |
+| 12/09 | Adição da tabela de técnicas nos slides             | Cícero       | Todos     |
+| 12/09 | Adição da tabela de artefatos nos slides            | Nicolas      | Todos     |
+| 12/09 | Tabela de verificação nos slides                    | Guilherme    | Todos     |
+| 12/09 | Tabela de ferramentas nos slides                    | Leonardo     | Todos     |
+| 09/09 | Verificação - Relato do storyboard                  | Bernardo     | Guilherme |
+| 09/09 | Verificação - Relato análise de tarefas             | Bernardo     | Leonardo  |
+| 09/09 | Verificação - Aspectos éticos                       | Bernardo     | Cícero    |
+| 09/09 | Relato da avaliação do protótipo de alta fidelidade | Leonardo     | Arthur    |
+| 12/09 | Gravação da entrega                                 | Todos        | Todos     |
+
+_Tabela 8: Entrega final_
 
 ## 3. Sprints
 
