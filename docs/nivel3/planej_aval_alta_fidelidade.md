@@ -93,6 +93,9 @@ Com o intuito de documentar o período das atividades de entrevista para a avali
     <br><small>Fonte: Elaboração própria.</small>
 </figcaption>
 
+## 9. Local das entrevistas
+
+O local das entrevistas foram nas residências do entrevistados portanto representa um ambiente não controlado, não seguindo a orientação por laboratório sugerido por (SIMONE, 2021), sendo realizada pela ferramenta de conferências Teams. 
 ## Referências Bibliográficas
 
 Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)
@@ -110,3 +113,4 @@ Sons, New York, NY, 2000.
 | 1.0    | 30/08/2022 | Criação dos tópicos e conteúdo de 1 a 7 | Leonardo Vitoriano | Cícero  |
 | 1.1    | 05/09/2022 | Correções ortográficas no artefato      | Cícero             | -       |
 | 1.2    | 05/09/2022 | Criação do tópico 8      | Leonardo Vitoriano                | -       |
+| 1.3    | 12/09/2022 | local das entrevistas      | Arthur  José               | -       |
