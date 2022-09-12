@@ -35,6 +35,14 @@ resultados comuns a vários participantes de um grupo, permitem fazer uma distin
 representativas do grupo e as idiossincrasias de participantes individuais. Também é importante buscar responder
 ou justificar as questões que motivaram o estudo.
 
+## 3 Cronograma
+
+Visando garantir assertividade na realização das tarefas é preciso adicionar um cronograma visando auxiliar na organização do relato da avaliação do prototipo de alta fidelidade.
+
+| Atividade | Autor | revisor | Data |
+| --------- | ------------- | ------------ | ---- |
+| interpretação | Leonardo | - |10/09/2022 | 
+| problemas encontrados | - | Entrevistado 1 | 10/09/2022 | 
 ## Referências Bibliográficas
 
 Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)
@@ -46,3 +54,4 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN
 | ------ | ---------- | ------------------------------------------------------ | ----------------- | ------- |
 | 1.0    | 25/08/2022 | Criação da Introdução, Consolidação , Análise e Relato | Bernardo Pissutti | Cícero  |
 | 1.1    | 05/09/2022 | Correções ortográficas                                 | Cícero            | -       |
+| 1.2    | 12/09/2022 | Adicionar Cronograma                                 | Arthur            | -       |
