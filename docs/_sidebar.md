@@ -15,6 +15,7 @@
   - [Guia de Estilo](analise_de_requisitos/guia_de_estilo.md)
   - [Metas de Usabilidade](analise_de_requisitos/metas_de_usabilidade.md)
   - [Princípios Gerais](analise_de_requisitos/principios_gerais.md)
+  - [Características da Plataforma](analise_de_requisitos/caracteristicas_plataforma.md)
 - **Design, Avaliação e Desenvolvimento**
   - _Nível 1_
     - [Planejamento de Avaliação - Storyboard](nivel1/planejamento_avaliacao_storyboard.md)

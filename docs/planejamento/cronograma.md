@@ -9,10 +9,10 @@ O cronograma geral das atividades indica as atividades que serão executadas dur
 ### 1.1 Entregas e Apresentações da disciplina
 
 | Data  | Atividade                                                                                                                                                                                                                                                                             |
-| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ----- |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 11/07 | Entrega da apresentação do projeto etapa 1: Planejamento do Projeto, equipe, litas de sites avaliados, site selecionado para o projeto da disciplina, Ferramentas do projeto, Processo de Design, cronograma das atividades.                                                          |
 | 12/07 | Apresentação do projeto etapa 1: planejamento do projeto e do Processo de Design                                                                                                                                                                                                      |
-| 20/07 | Entrega da apresentação do projeto etapa 2: Perfil do usuário, Aspectos Éticos de Pesquisas Envolvendo Pessoas,Personas e Análise de tarefas                                                                                                                                          |
+| 20/07 | Entrega da apresentação do projeto etapa 2: Perfil do usuário, Aspectos Éticos de Pesquisas Envolvendo Pessoas,Personas, Características da Plataforma e Análise de tarefas                                                                                                           |
 | 21/07 | Apresentação do projeto etapa 2: Perfil do usuário, Aspectos Éticos de Pesquisas com Pessoas, Personas e Análise de tarefas                                                                                                                                                           |
 | 01/08 | Entrega da apresentação do projeto etapa 3: Princípios Gerais de Projeto, Metas de usabilidade, Guia de Estilo. (Fase: análise de requisitos)                                                                                                                                         |
 | 02/08 | Apresentação do projeto etapa 3: Princípios Gerais de Projeto, Metas de usabilidade, Guia de Estilo. (Fase: análise de requisitos)                                                                                                                                                    |
@@ -159,22 +159,23 @@ _Tabela 8: Sétima Etapa_
 
 A tabela 9 correspondente às atividades da entrega final do projeto no 12/09/2022.
 
-| Data  | Atividade                                           | Responsáveis | Revisores |
-| ----- | --------------------------------------------------- | ------------ | --------- |
-| 12/09 | Construção do cronograma de atividades              | Cícero       | Todos     |
-| 12/09 | Adição de aplicativo selecionado no slide           | Guilherme    | Todos     |
-| 12/09 | Adição do planejamento nos slides                   | Bernardo     | Todos     |
-| 12/09 | Adição da execução do projeto nos slides            | Bernardo     | Todos     |
-| 12/09 | Adição dos resultados                               | Arthur       | Todos     |
-| 12/09 | Adição da tabela de técnicas nos slides             | Cícero       | Todos     |
-| 12/09 | Adição da tabela de artefatos nos slides            | Nicolas      | Todos     |
-| 12/09 | Tabela de verificação nos slides                    | Guilherme    | Todos     |
-| 12/09 | Tabela de ferramentas nos slides                    | Leonardo     | Todos     |
-| 09/09 | Verificação - Relato do storyboard                  | Bernardo     | Guilherme |
-| 09/09 | Verificação - Relato análise de tarefas             | Bernardo     | Leonardo  |
-| 09/09 | Verificação - Aspectos éticos                       | Bernardo     | Cícero    |
-| 09/09 | Relato da avaliação do protótipo de alta fidelidade | Leonardo     | Arthur    |
-| 12/09 | Gravação da entrega                                 | Todos        | Todos     |
+| Data  | Atividade                                                       | Responsáveis | Revisores |
+|-------|-----------------------------------------------------------------|--------------|-----------|
+| 12/09 | Construção do cronograma de atividades                          | Cícero       | Todos     |
+| 12/09 | Adição de aplicativo selecionado no slide                       | Guilherme    | Todos     |
+| 12/09 | Adição do planejamento nos slides                               | Bernardo     | Todos     |
+| 12/09 | Adição da execução do projeto nos slides                        | Bernardo     | Todos     |
+| 12/09 | Adição dos resultados                                           | Arthur       | Todos     |
+| 12/09 | Adição da tabela de técnicas nos slides                         | Cícero       | Todos     |
+| 12/09 | Adição da tabela de artefatos nos slides                        | Nicolas      | Todos     |
+| 12/09 | Tabela de verificação nos slides                                | Guilherme    | Todos     |
+| 12/09 | Tabela de ferramentas nos slides                                | Leonardo     | Todos     |
+| 09/09 | Verificação - Relato do storyboard                              | Bernardo     | Guilherme |
+| 09/09 | Verificação - Relato análise de tarefas                         | Bernardo     | Leonardo  |
+| 09/09 | Verificação - Aspectos éticos                                   | Bernardo     | Cícero    |
+| 09/09 | Relato da avaliação do protótipo de alta fidelidade             | Leonardo     | Arthur    |
+| 11/09 | Construção de artefato faltante - Características da Plataforma | Brito        | Nicolas   |
+| 12/09 | Gravação da entrega                                             | Todos        | Todos     |
 
 _Tabela 8: Entrega final_
 
